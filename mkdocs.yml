@@ -1,7 +1,7 @@
 site_name: Investing Essentials
 site_description: Financial education for the novice investor plus tools, reference materials and educational resources for financial planning.
 site_author: David Shore
-site_url: 
+site_url: https://investing-essentials.readthedocs.io
 theme:
   name: material
   favicon: assets/line_and_bar_chart.svg
