@@ -1,0 +1,12 @@
+# YAML file for the awesome-pages plugin for MkDocs.
+nav:
+  - disclaimer.md
+  - introduction.md
+  - budgeting.md
+  - market-history-and-performance.md
+  - accounts
+  - taxes.md
+  - investing
+  - professional-advisors.md
+  - resources
+  - glossary.md

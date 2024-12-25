@@ -1,0 +1,8 @@
+# YAML file for the awesome-pages plugin for MkDocs.
+title: Investing
+nav:
+  - brokers.md
+  - assets.md
+  - portfolio-allocation.md
+  - general-investing-strategy.md
+  - contributions.md

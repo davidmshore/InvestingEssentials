@@ -1,0 +1,8 @@
+# YAML file for the awesome-pages plugin for MkDocs.
+title: Accounts
+nav:
+  - key-points.md
+  - types.md
+  - contribution-and-deductibility-summaries.md
+  - rollovers.md
+  - early-withdrawals.md
