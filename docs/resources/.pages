@@ -1,0 +1,5 @@
+# YAML file for the awesome-pages plugin for MkDocs.
+title: Resources
+nav:
+    - main.md
+    - tools.md
