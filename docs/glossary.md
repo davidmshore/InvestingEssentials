@@ -76,4 +76,8 @@ A few of the most common terms are listed below.
 ### Security
 - A tradeable financial asset: equities (stocks), debt (bonds), derivatives, etc. 
 ## Additional Glossaries
-- See also page 300 of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) PDF, the [Bogleheads.org online glossary](https://www.bogleheads.org/wiki/Category:Glossary), or just [Bogleheads.org](https://www.bogleheads.org/wiki/Main_Page), [ChatGPT](https://chatgpt.com/) or [Investopedia](https://www.investopedia.com/) for other terms not listed above. 
+- See also:
+	- Page 273 (PDF page 300) of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up)
+	- [Bogleheads.org online glossary](https://www.bogleheads.org/wiki/Category:Glossary), or just search [Bogleheads.org](https://www.bogleheads.org/wiki/Main_Page)
+	- [ChatGPT](https://chatgpt.com/)
+	- [Investopedia](https://www.investopedia.com/) for other terms not listed above. 

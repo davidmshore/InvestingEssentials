@@ -31,7 +31,7 @@ To understand the significance of an expense ratio and commissions taken as a pe
 			- r is the rate of return
 			- n is the number of compounding intervals from the time of the date of deposit until maturity
 	- Here's a [compound growth calculator that accounts for the expense ratio](https://www.omnicalculator.com/finance/expense-ratio#how-much-does-the-expense-ratio-cost-you) and will return the maturity value and total fees paid over the life of an investment.
-	- Page 115 (PDF page 142) of [The Bogleheads' Guide to Investing](https://ia801300.us.archive.org/3/items/null-1_202312/null-(1).pdf) gives an example of how easily unnecessary costs can get out of hand.
+	- Page 115 (PDF page 142) of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) gives an example of how easily unnecessary costs can get out of hand.
 ## Staying Patient
 - [For those that started investing in their 20s, how did you all maintain discipline and focus throughout the next few decades?](https://www.reddit.com/r/Bogleheads/comments/172lqtp/for_those_that_started_investing_in_their_20s_how/) (r/Bogleheads)
 - Follow an [investment policy statement](https://www.bogleheads.org/wiki/Investment_policy_statement). (bogleheads.org)

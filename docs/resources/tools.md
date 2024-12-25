@@ -9,7 +9,7 @@ date modified: 2024-11-11 15:45
 ---
 ## Budgeting Apps
 - A budgeting app makes creating and maintaining a spending, savings and investing plan simple and easy. Some of them integrate with your credit card services to automatically update the spending entries.
-- [YNAB](https://www.ynab.com/) is praised by many people for being different from other budgeting methods. Here is a list of the [alternatives](https://www.reddit.com/r/ynab/comments/1dssll4/alternatives/).
+- [YNAB](https://www.ynab.com/) receives positive reviews for being different from other budgeting methods. Here is a list of the [alternatives](https://www.reddit.com/r/ynab/comments/1dssll4/alternatives/).
 ## Password Managers and Internet Security
 - It is recommended to setup and become fluent with using a secure password manager to keep track of important accounts, ensure that secure passwords are used (25+ random alphanumeric characters and symbols) and that no passwords are reused. The most secure types are offline managers, such as [KeePassXC](https://keepassxc.org/), but managers that store encrypted user data online and never receive sensitive data unencrypted from the user are an acceptable choice. Only consider companies with a good track record that has been verified via third party audits.
 - It is also a good idea to use a dedicated email account that is only used for important accounts, such as the password manager and financial accounts.

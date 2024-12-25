@@ -12,7 +12,7 @@ date modified: 2024-11-11 15:45
 - The rule of 110 is the basis for a simple allocation strategy that states that 110 minus a person's age is the percentage of a portfolio's capital that an investor should have invested in equities.
 	- The logic of the rule is that equities provide the best opportunity for a portfolio to grow, especially when an investor is young and has time to allow for market fluctuations, while gradually reducing the amount of capital invested in the stock market ensures that the bulk of the gains are safer against a market crash getting closer to retirement.
 	- It is common to have 5% of one's portfolio in cash using this method, with the remainder in bonds after the equity allocation when using this rule. For young, healthy investors with an emergency fund and life's necessities covered it may be okay to forgo the cash reserve to focus as much capital on growth as early on as possible. 
-- Chapter 8 of the [The Bogleheads' Guide to Investing](https://ia801300.us.archive.org/3/items/null-1_202312/null-(1).pdf) goes into more detail about sub-allocating the primary investment groups, equities, debt and cash as well as fund suggestions based on age. The link above is to the first edition of the book and while there is an updated version published in 2014, the concepts are the same.
+- Chapter 8 of the [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) goes into more detail about sub-allocating the primary investment groups, equities, debt and cash as well as fund suggestions based on age. The link above is to the first edition of the book and while there is an updated version published in 2014, the concepts are the same.
 - Whatever your allocation may be, maximizing diversified growth is most easily achieved through low-cost index fund investing.
 ### Equities (Stocks)
 - While the rule of 110 is very easy to maintain, investors starting later in life may want to consider the risk-to-reward of investing more in equities, such as, how many more years could the investor continue working if the market were to crash nearing retirement.
@@ -33,6 +33,6 @@ date modified: 2024-11-11 15:45
 - The Bogleheads' Guide to Investing references the [Wilshire 5000](https://www.wilshireindexes.com/products/ft-wilshire-5000-index-series) as a US benchmark that other indices are measured against and is worth considering as the bulk investment asset for equity allocation.
 - An important fact for investors to know is that [passive funds have historically outperformed actively managed funds](https://www.bogleheads.org/forum/viewtopic.php?t=278454). 
 ## Rebalancing
-- The two main factors when considering rebalancing a portfolio are fees and taxes. These and age will determine when to rebalance. It is recommended to review chapters 8 and 17 of [The Bogleheads' Guide to Investing](https://ia801300.us.archive.org/3/items/null-1_202312/null-(1).pdf) annually and then see where your allocations are compared to your target.
+- The two main factors when considering rebalancing a portfolio are fees and taxes. These and age will determine when to rebalance. It is recommended to review chapters 8 and 17 of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) annually and then see where your allocations are compared to your target.
 
 
