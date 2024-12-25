@@ -7,7 +7,6 @@ tags:
 date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
-## **Check the [sic] bracket rendering on the Buffet link** #update_link_if_needed 
 ## Market History & Performance
 Every investor will eventually hear that past performance is not a guarantee of future returns. While this saying is true and should never be taken lightly regarding individual assets, it is not true of the entire stock market over the course of history. Only the God of Israel knows the future, but historic stock market performance can be viewed as relatively reliable and should remove fears about losing everything, or receiving a poor return on investment in the long run.
 
