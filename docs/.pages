@@ -1,5 +1,6 @@
 # YAML file for the awesome-pages plugin for MkDocs.
 nav:
+  - index.md
   - disclaimer.md
   - introduction.md
   - budgeting.md

@@ -1,7 +1,8 @@
 site_name: Investing Essentials
-site_description: Financial education for the novice investor plus tools, reference materials and educational resources for financial planning.
+site_description: A primer for the novice investor plus tools, reference materials and educational resources for financial planning.
 site_author: David Shore
 site_url: https://investing-essentials.readthedocs.io
+#site_url: http://0.0.0.0:8000/
 theme:
   name: material
   favicon: assets/line_and_bar_chart.svg
@@ -10,12 +11,12 @@ theme:
     # - navigation.tracking
     # - navigation.expand # The navigation sidebar is too busy when always expanded.
     - navigation.footer
-    # - navigation.instant.preview 
     - navigation.instant # The site_url setting must be set.
     - navigation.instant.prefetch # The site_url setting must be set (experimental feature)
+    # - navigation.instant.preview # Currently an insiders (sponsors) only feature, but watch for free release.
     - navigation.path
     # - navigation.prune # Not needed for small sites.
-    # - navigation.sections # Better than navigation expansion, but CSS needed to make sections stand out.
+    # - navigation.sections # Better than navigation expansion, but CSS needed to make navigation headers stand out.
     # - navigation.tabs # Moves top level section navigation to the header. Overrides sections.
     # - navigation.tabs.sticky # Keeps tabs on screen when scrolling.
     # - navigation.top # Shortcut to the top of the page appears when scrolling back up.
@@ -56,5 +57,5 @@ plugins:
   - glightbox
   - search
 
-markdown_extensions:
-  - attr_list # allows HTML attributes in markdown
+# Dev server binding
+dev_addr: 0.0.0.0:8000

@@ -97,5 +97,5 @@ These tools will primarily consist of calculators to help figure out anything th
 	- [Social Security Benefits](https://www.ssa.gov/benefits/calculators/) (ssa.gov)
 
 ## Reading and Text-to-Speech Tools
-See [Resources > Main](main.md#reading-and-text-to-speech-tools)<!-- #internal_anchor_link -->.
+See [Resources -> Main](main.md#reading-and-text-to-speech-tools)<!-- #internal_anchor_link -->.
 
