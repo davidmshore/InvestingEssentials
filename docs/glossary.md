@@ -7,7 +7,7 @@ tags:
 date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
-A few of the most common terms are listed below.
+Some common terms are listed below.
 ### Above-the-Line Deductions
 - Certain adjustments made to reduce taxable income and determine AGI, which are independent of the standard or itemized deduction.
 - Here is a [list](https://en.wikipedia.org/wiki/Above-the-line_deduction).
@@ -62,7 +62,7 @@ A few of the most common terms are listed below.
 ### [Tax Advantaged](https://www.investopedia.com/terms/t/tax-advantaged.asp)
 - A financial investment that gives the investor a tax benefit. Most commonly this will refer to an investment account that allows the investor to decide when their money will be taxed, e.g., IRAs, or is tax free depending on how the money is used, e.g., a health savings account, or is a combination, e.g., again a health savings account allows withdrawals for qualified medical expenses to be used tax free and also allows investment money to grow tax free until a certain age, when it can be withdrawn and taxed as ordinary income similar to a traditional IRA.
 	- After making the decision to invest for the future, understanding how to prevent as much of an investment from being taxed and or spent on management fees comes second in importance.
-### Tax cost ratio
+### Tax Cost Ratio
 - [Tax cost ratio](https://community.morningstar.com/s/article/What-is-Tax-Cost-Ratio-and-for-how-many-years-is-it-calculated-on-Morningstar-com-USA) is a measurement of how much of a fund's annualized return is reduced by taxes investors pay on distributions.
 ### Tax Efficient
 - Tax efficient is a term used to describe investments that do not trigger taxable events, or do not trigger them very often, and come with the lowest possible tax bill when taxable events do occur. Investment into a fund that does not buy and sell the securities contained within it as often as another fund would be the tax efficient choice between the two funds, because selling securities for capital gain triggers a taxable event with capital gains tax being owed. ETFs are more tax efficient than mutual funds due to their in-kind redemption. Likewise, selling investments after the long term capital gains tax holding period is more tax efficient than selling them sooner and incurring short term capital gains tax. The term tax efficient account simply means a taxable account that an investor has filled with tax efficient investments. 

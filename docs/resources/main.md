@@ -15,11 +15,11 @@ Financial planning tools are grouped by category [here](tools.md).
 ## Reading and Text-to-Speech Tools
 There are a number of tools to help visually impaired readers that can also aid anyone consuming digital content, including [text-to-speech tools](https://www.pcmag.com/picks/best-text-to-speech-tools) which can read most on-screen text aloud. These range from built-in OS features to application extensions or plugins to machine learning powered apps.
 
-- Of the Accessibility features on Android devices available as of 2024, such as TalkBack and Select to Speak, [Reading mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader&hl=en-US) by Google is probably the most useful for reading long form text plus it has text-to-speech. Downloading the app adds a feature in the device's Accessibility settings, that when enabled can be triggered by a swipe gesture or screen shortcut. It may not work with all apps, such as Kindle. The visual benefit alone might be worth it for some readers who prefer larger on-screen text as well as removing the ads and noise from busy websites. If a particular devices default text-to-speech engine is not the desired voice for listening to an entire book, others may be available. Reading mode can be downloaded from the Play Store.
-	- Most browsers include a similar declutter option via the document icon in the browser search bar.
+- Of the Accessibility features on Android devices available as of 2024, such as TalkBack and Select to Speak, [Reading mode](https://play.google.com/store/apps/details?id=com.google.android.accessibility.reader&hl=en-US) by Google is probably the most useful for reading long form text plus it has text-to-speech. Downloading the app adds a feature in the device's Accessibility settings, that when enabled can be triggered by a swipe gesture or screen shortcut. It may not work with all apps, such as Kindle. The visual benefit alone might be worth it for some readers who prefer larger on-screen text as well as removing the ads and noise from busy websites. If a particular devices default text-to-speech engine is not the desired voice for listening to an entire book, others might be available. Reading mode can be downloaded from the Play Store.
+	- Most browsers include a similar option that declutters websites via the document icon in the browser search bar.
 	- Chrome browser's reading mode may be tucked away in an overflow menu, and it may not be enabled by default. It is easy enough to enable following these [instructions](https://www.androidauthority.com/google-chrome-reading-mode-2-3354627/). The instructions should work on Android or iOS.
 
-For a dedicated reader app with excellent text-to-speech, Reader by ElevenLabs is a powerful app that offers a variety of high quality AI powered voices to read any document or book that has been downloaded to a device in a compatible format. It is available for [Android](https://play.google.com/store/apps/details?id=io.elevenlabs.readerapp&hl=en-US) and [iOS](https://apps.apple.com/us/app/reader-by-elevenlabs/id6479373050).
+For a dedicated reading app with excellent text-to-speech, Reader by ElevenLabs is a powerful app that offers a variety of high quality AI voices to read any document or book that has been downloaded to a device in a compatible format. It is available for [Android](https://play.google.com/store/apps/details?id=io.elevenlabs.readerapp&hl=en-US) and [iOS](https://apps.apple.com/us/app/reader-by-elevenlabs/id6479373050).
 
 Financial topics can be dry reading. The right author and style of book can make the big difference between a book you stay interested in, and even more so can listen to, versus one that will primarily be used for reference. The more you build your foundational understanding, the easier listening will become without the need for things like charts to visualize concepts for you.
 ## Blogs
@@ -28,7 +28,6 @@ Financial topics can be dry reading. The right author and style of book can make
 		- Proverbs 27:23 - Be diligent to know the state of your flocks, attend to your herds.
 		- Proverbs 21:5 - The plans of the diligent lead surely to abundance and advantage, but everyone who acts in haste comes surely to poverty.
 		- Proverbs 21:20 - There is precious treasure and oil in the house of the wise [who prepare for the future], But a short-sighted _and_ foolish man swallows it up _and_ wastes it.
-		- Proverbs 28:20 - A faithful man will abound with blessings, But he who hastens to be rich will not go unpunished.
 - [MoneyGuy.com](https://moneyguy.com)
 - [YourMoneyOrYourLife.com](https://yourmoneyoryourlife.com)
 	- [YourMoneyOrYourLife.com -> Resources](https://yourmoneyoryourlife.com/resources/) > Financial Independence Blogs
@@ -45,14 +44,14 @@ Financial topics can be dry reading. The right author and style of book can make
 - The local library usually has some of the recommendations listed in the links above including digital versions. Audiobooks are great if you spend time commuting or just don't have much time to read. Most county libraries provide free access to third party digital libraries for simply being a member. These services can be found on a library's website. Digital libraries still rely on the availability of books for *checkout*, and usually give the user a certain number of checkouts per month before being automatically returned unless renewed by the user. Many of the books are also available on audio.
 - Archive.org is another great place to look for free books. Titles can be read online and are often available for download in various formats. For example, the first edition of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) PDF can be read online or [downloaded](https://archive.org/details/null-1_202312/mode/2up?q=bogleheads%5C%27) in common reading formats. Downloading is recommended, since the future availability of uploaded content is unknown. 
 - Sometimes converting to other formats may be desired so the media can be opened with a particular app, and [Calibre](https://calibre-ebook.com/) is a powerful desktop application that can convert to just about any format. 
-### From The Bogleheads' Guide to Investing (2<sup>nd</sup> edition)
+### From The Bogleheads' Guide to Investing
 #### Desired Portfolio Characteristics and Investing Tips
-Criteria may or may not apply to an investors strategy and may apply at different periods throughout the life of an investor:
+Criteria may or may not apply to an investor's strategy and may apply at different periods throughout the life of an investor:
 
-- Avoid managed accounts. The fees may not sound like much, but they reduce the amount of capital available for compound growth. This can amount to years worth of retirement income, which will result in the investor either having to reduce their standard of retirement living or work longer to save up additional income. Instead, invest in the lowest expense ratio index funds.
-- Financial advisors are a valuable resource—especially early on for coming up with a plan that aligns with your retirement goals—but consider the fee structure an advisor uses. If seeking professional help, look for a certified financial planner that offers their service on a time-based price structure. This way the exchange for their time is of more equal value than paying an annual commission for your money to sit in an investment account that will likely be semi-automated.
-- Avoid tax drag. Generally accomplished through the use of tax advantaged accounts. This can become more nuanced if an investor plans to retire early and must understand SEPP rules and possibly utilize income from taxable brokerage accounts also. 
-	- Use tax advantaged accounts. 401K, 403b, IRAs, etc. (there many different options for workers and their spouses through company plans).
+- Avoid managed accounts. The fees may not sound like much, but they reduce the amount of capital available for compound growth. This can amount to years worth of retirement income, which will result in the investor either having to reduce their standard of retirement living or work longer to save up additional income. Instead, invest in low cost index funds.
+- Financial advisors are a valuable resource—especially early on for coming up with a plan that aligns with your retirement goals—but consider the fee structure an advisor uses. If seeking professional help, look for a certified financial planner that offers their service on a flat fee or time-based price structure. This way the exchange for their time is of more equal value than paying an annual commission for your money to sit in an investment account that will likely be semi-automated for the average investor.
+- Avoid tax drag. Generally accomplished through the use of tax advantaged accounts. This can become more nuanced if an investor plans to retire early and must understand SEPP rules and possibly utilize income from other sources of income. 
+	- Use tax advantaged accounts. 401K, 403b, IRAs, etc. There many different options for workers and their spouses through company plans.
 - Least tax efficient funds<!-- #update_with_instant_preview --> in tax advantaged account.
 - Most tax efficient funds in taxable account.
 	- Use tax efficient index funds.
@@ -60,20 +59,20 @@ Criteria may or may not apply to an investors strategy and may apply at differen
 	- Funds having the fewest dividend assets.
 	- Low dividend yield funds.
 	- Qualified dividends are more tax efficient than ordinary dividends. Qualified dividends are taxed as long term capital gains rather than ordinary income.
-	- Stocks with qualified dividends are better placed in taxable accounts, while stocks with ordinary dividend yields which are taxed as ordinary income are better placed in tax advantaged accounts.
-- There is a list of estimated least tax efficient to most tax efficient assets on [page 140](https://ia601300.us.archive.org/3/items/null-1_202312/null-%281%29.pdf) of the book (PDF page 167).
+	- Stocks with qualified dividends are better placed in taxable accounts, while stocks with ordinary dividend yields, which are taxed as ordinary income, are better placed in tax advantaged accounts.
+- There is a list of estimated least tax efficient to most tax efficient assets on [page 140](https://archive.org/details/null-1_202312/mode/2up) of the book (PDF page 167).
 - Assuming that when comparing funds to invest in, each are equally diversified, the expense ratio is the #1 indicator of how well a fund will perform over time.
 - Morningstar.com provides a tax cost ratio of 3, 5, 10, and 15 year periods.
 - 401(k) plan details about fees and expenses are provided in Summary Plan Descriptions. Form 5500 does not show individual account expenses, but additional documents may be requested from an employer about how much they are paying.
 	- 401(k) plans may not offer the lowest cost index fund options, but are usually still the best retirement account to max out first up to the employer match, if a generous employer match is offered. 
 - Use the prospectus for potential investments to confirm the performance and expenses associated with it.
-- Use tax harvesting in taxable accounts, meaning offset gainers with losers for the tax year to lower taxes owed. The median portfolio that used loss harvesting added about 20% to its value over what purely passive investing did.
+- Use tax harvesting in taxable accounts, meaning offset gainers with losers for the tax year to lower the amount of tax owed. The median portfolio that used loss harvesting added about 20% to its value over what purely passive investing did.
 - Use HIFO (highest in, first out), which is removing the assets that have shown the least returns or highest loss from an account, when trying to minimize taxes. This is possible through specific identification of shares.
 - Buy fund shares after the distribution date (the date when annual taxable distributions are paid).
 - Sell fund shares before the distribution date.
 - Sell profitable shares after the new year (generally, there is no sense paying taxes earlier than needed).
 - Regarding bonds, as of the publishing of the book in 2014, it is advised to use a bond advisor due to deceptive restricted clauses and hidden fees in certain bond types (e.g., corporate bonds). An exception would be using treasurydirect.com that offers direct issues of US government bonds to end users.
-- Avoid timing the market and contribute earned income on a scheduled routine.
+- Avoid timing the market and contribute earned income on a scheduled basis.
 - Be prepared to pass on assets by having legal instructions written up in a will or trust. 
 #### Recommended Resources
 - See [Gurus](#gurus)<!-- #internal_anchor_link -->.
@@ -137,7 +136,7 @@ Every asset is an opportunity for wise investing.
     - [Jason Zweig](https://jasonzweig.com/) (contributor to 4<sup>th</sup> edition of [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8/ref=sr_1_1?s=digital-text&sr=1-1) and a Wall Street Journal columnist).
     - [Jane Bryant Quinn](https://jbquinn.com/)
 - [Laura Adams](https://lauradadams.com/) (Money Girl Podcast)
-    - Laura Adams provides quick snippets of general financial advice presented in an easy to understand way with a good amount of energy to help keep listeners engaged. She is also a book and newsletter author.
+    - Laura Adams provides quick snippets of general financial advice presented in an easy to understand way with a good amount of energy to help keep listeners engaged. She is also an author of books and a free newsletter.
     - [Free downloads](https://lauradadams.com/freebies) - retirement comparison chart (just use a GPT bot from now on), HSA quick guide, financial advisor assessment guide, legacy records checklist and more can be found here.
 - [Clark Howard](https://clark.com/)
 	- Clark.com is a great resource for practical financial tips, topical guides, and reviews on banks, credit services, phone plans, investing institutions and insurance companies.

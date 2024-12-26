@@ -30,7 +30,7 @@ date modified: 2024-11-11 15:45
 - There are calculators that compute simple compound growth, there are market data backtesting calculators, and then there are calculators that attempt to predict the future performance of an asset. Since past performance is not a guarantee of the future, the latter type should be used with the recognition they are at best averaging and randomizing lots of past data.
 	- [Maturity value including expense ratio for ETFs and Mutual Funds](https://www.omnicalculator.com/finance/expense-ratio) (reverse CAGR)
 	- [Compound Annual Growth Rate (CAGR)](https://cagrcalculator.net/)
-	- Reddit has some good discussion on realistic returns [calculators](https://www.reddit.com/r/personalfinance/comments/14zqp78/is_there_an_investment_calculator_that_simulates/). Some of them are:
+	- A discussion on [realistic returns calculators](https://www.reddit.com/r/personalfinance/comments/14zqp78/is_there_an_investment_calculator_that_simulates/) from Reddit.
 ### Historic
 - [Stoculator](https://stoculator.com/)
 	- Historic asset performance lookup.

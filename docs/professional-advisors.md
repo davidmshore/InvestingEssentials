@@ -7,7 +7,7 @@ tags:
 date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
-Financial advisors are a valuable resource, especially early on for helping plan how to maximize returns that fit your retirement goals. While advisors can act as managers, a savvy investor who understands the importance of keeping their account costs low should not think of them this way. Their value to you is primarily in their expertise about the law and explaining the best options available to help you see how different scenarios can potential play out.
+Financial advisors are a valuable resource, especially early on with helping plan how to maximize returns that fit your retirement goals. While advisors can act as managers, a savvy investor should not think of them this way. Their value is primarily in their expertise about the law and explaining the best options available to help you see how different scenarios can potential play out.
 
 Aside from expertise and reputation, the fee structure an advisor uses is the next most important factor. Remember, low overhead is the primary factor that will determine how much an account grows over time.
 
@@ -20,7 +20,7 @@ There are three main types of advisors.
 - **Fee-only**
 	- This can be an hourly rate or a percentage of assets under management (AUM). The latter price plan is what an investor wants to avoid over the long term.
 - **Financial planning**
-	- Planners only provide advice. This can be charged a flat or hourly rate depending on the goals of the investor.
+	- Planners only provide advice. This can be charged as a flat or hourly rate depending on the goals of the investor.
 - Fee-based
 	- These advisors combine fee-only structure to manage an investor's account while also receiving a commission for investment products they sell.
 - Robo-advisors
@@ -36,7 +36,7 @@ There are three main types of advisors.
 		- ChFPs must also cover a series of exams have 3 years of qualified work experience.
 	- Certified public accountants (CPA)
 		- CPAs specialize in tax preparation.
-- Some advisors only work with high net worth clients, i.e., nearing retirement.
+- Some advisors only work with high net worth clients, i.e. nearing retirement.
 
 To find an advisor, visit:
 
