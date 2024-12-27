@@ -50,6 +50,9 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
+# Dev server binding
+dev_addr: 0.0.0.0:8000
+
 #hooks: # The hook module will not be reloaded on each build running mkdocs serve.
  # - plugins\auto_copyright.py
 plugins:
@@ -57,5 +60,7 @@ plugins:
   - glightbox
   - search
 
-# Dev server binding
-dev_addr: 0.0.0.0:8000
+extra:
+  analytics:
+    provider: google
+    property: G-XNEK99MKVC
