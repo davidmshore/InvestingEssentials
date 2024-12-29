@@ -14,11 +14,12 @@ date modified: 2024-11-11 15:45
  
  - The basic rules:
 	 - Only children and spouses can be recipients of direct IRA contributions.
+	 - Total contributions to a spouse's account are capped at the lower of:
+		 - The contributing spouse's earned income for the year, or
+		 - The maximum allowed contribution for the IRA.
 	 - Total contributions to a child's account are capped at what the accountholder (child) has earned for the year or the maximum contribution for the IRA.
 		 - For example, a child who earns $1000 reported income over the summer is eligible to receive a total of $1000 in contributions to their IRA account and is not required to invest any of their own earned income. The key here is earned income amount reported on a tax return (wages, self-employment income, etc.); investment income (e.g., stock dividends or interest) does not count.
-	 - Total contributions to a spouse's account are capped at what the contributing spouse has earned for the year or the maximum allowed contribution for the IRA. 
 	 - The child or spouse can make direct contributions of money gifted to them from individuals other than a parent or spouse per the previously mentioned rules and limits.
-
 ## Custodial Accounts for Minors
  Regarding children, there are multiple investment [options](https://www.moneycrashers.com/financial-accounts-open-child/) that parents/guardians may want to consider for their child before an IRA, such as a 529, UGMA, or UTMA. Still, considering there are currently no direct rollovers from these accounts to retirement accounts without taxes or penalties, opening a custodial retirement account for a child and teaching them the concepts of compounding may encourage investing habits and provide a great start for retirement.
 

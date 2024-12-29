@@ -13,7 +13,7 @@ The [50/30/20 rule](https://www.reddit.com/r/coolguides/comments/dkhs1k/personal
 - The rule states that after tax income should be allocated as follows:
 	- 50% for needs
 	- 30% for financial goals (savings and investments)
-		- A rule of thumb is to have somewhere between 1-6 months worth of emergency living expenses in readily available, i.e. liquid, savings.
+		- A rule of thumb is to have somewhere between 3-6 months worth of emergency living expenses in readily available, i.e. liquid, savings.
 	- 20% for wants
 
 That's it. Those are the three categories, and hopefully they can be adjusted to put more towards financial goals. For anyone thinking of waiting to start investing for retirement, time is the enemy when it comes to compounding. Saving is not investing, but it takes a [saving](https://www.reddit.com/r/coolguides/comments/1dipsve/a_cool_guide_for_saving_money/#lightbox) mindset to have money to invest. The more conservative a person can be with spending in the early years of investing, the more money can be put toward compounding, where money literally earns more money without requiring any input from the investor. This is the key to becoming financially independent - let the money work for you. Do not leave more money than is needed for emergencies or planned purchases in checking or savings accounts. Inflation will devalue savings unless it is invested for a better return than the inflation rate.

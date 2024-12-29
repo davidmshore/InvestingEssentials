@@ -64,7 +64,7 @@ Criteria may or may not apply to an investor's strategy and may apply at differe
 - Assuming that when comparing funds to invest in, each are equally diversified, the expense ratio is the #1 indicator of how well a fund will perform over time.
 - Morningstar.com provides a tax cost ratio of 3, 5, 10, and 15 year periods.
 - 401(k) plan details about fees and expenses are provided in Summary Plan Descriptions. Form 5500 does not show individual account expenses, but additional documents may be requested from an employer about how much they are paying.
-	- 401(k) plans may not offer the lowest cost index fund options, but are usually still the best retirement account to max out first up to the employer match, if a generous employer match is offered. 
+	- 401(k) plans may not offer the lowest cost investing options, but they are usually still the best retirement account to max out first up to the employer match, if a generous employer match is offered. 
 - Use the prospectus for potential investments to confirm the performance and expenses associated with it.
 - Use tax harvesting in taxable accounts, meaning offset gainers with losers for the tax year to lower the amount of tax owed. The median portfolio that used loss harvesting added about 20% to its value over what purely passive investing did.
 - Use HIFO (highest in, first out), which is removing the assets that have shown the least returns or highest loss from an account, when trying to minimize taxes. This is possible through specific identification of shares.
