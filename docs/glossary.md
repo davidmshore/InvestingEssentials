@@ -18,7 +18,7 @@ Some common terms are listed below.
 - AGI is calculated before taking the standard or itemized deduction.
 - AGI is used to determine eligibility to claim deductions and credits, e.g., the annual medical expense deduction is capped based on a percentage of AGI.
 ### Dollar cost averaging (DCA)
-- [Dollar-cost averaging](https://www.schwab.com/learn/story/what-is-dollar-cost-averaging#:~:text=Dollar-cost-averaging-is-the,as-well-as-your-costs) involves investing the same amount of money in a target investment at regular intervals over a certain period of time, regardless of price. It is a simple, emotionally detached form of investing that the average investor can benefit from to prevent market hype from deterring investing and more importantly, keep an investor consistently putting money away.
+- [Dollar-cost averaging](https://www.schwab.com/learn/story/what-is-dollar-cost-averaging#:~:text=Dollar-cost-averaging-is-the,as-well-as-your-costs) involves investing the same amount of money at regular intervals over a certain period of time, regardless of price. It is a simple, emotionally detached form of investing that the average investor can benefit from. It prevents market hype from deterring an investor by consistently putting money to work with long term returns as the goal.
 ### Earnings growth
 - [Earnings growth](https://en.wikipedia.org/wiki/Earnings_growth) is the change in an entity\'s reported net income over a period of time. The measure is usually a period-to-period comparison, such as from quarter to quarter, from year to year, or a comparison of the current quarter\'s results to those of the same quarter last year. The concept can also be used to estimate growth in a future period over the current period. A high level of earnings growth is more likely to drive up the market price of a company\'s stock. Conversely, if the earnings growth rate declines, this can trigger a sell off by investors that drives down the stock price.
 ### [Expense Ratio](https://www.investopedia.com/terms/e/expenseratio.asp)
@@ -34,7 +34,7 @@ Some common terms are listed below.
 - A fund of funds pools investment capital into multiple funds, such as ETFs or mutual funds, rather than a single fund. It increases diversification beyond a single fund's assortment of stocks and bonds and is often the simplest way to spread investment capital in the market. Target date funds will be allocated between multiple funds.
 ### Health Savings Account (HSA)
 - A Health Savings Account (HSA) is a tax-advantaged account for individuals and dependents covered under high-deductible health plans (HDHPs) to save for qualified medical expenses. Contributions are made into the account by the individual or their employer and are limited to a maximum amount each year.
-- See also [Health Savings Account (HSA)](accounts/types.md#health-savings-account-HSA)<!-- #internal_anchor_link -->
+- See also [Health Savings Account (HSA)](accounts/types.md#health-savings-account-hsa)<!-- #internal_anchor_link -->
 ### Hedge
 - A hedge is an investment that is selected to reduce the potential for loss in other investments because its price tends to move in the opposite direction. The simplest hedge that the average investor should use is investing in assets where the rate of return on investment is greater than the devaluation of capital caused by inflation.
 ### Liquidity
@@ -66,6 +66,9 @@ Some common terms are listed below.
 - [Tax cost ratio](https://community.morningstar.com/s/article/What-is-Tax-Cost-Ratio-and-for-how-many-years-is-it-calculated-on-Morningstar-com-USA) is a measurement of how much of a fund's annualized return is reduced by taxes investors pay on distributions.
 ### Tax Efficient
 - Tax efficient is a term used to describe investments that do not trigger taxable events, or do not trigger them very often, and come with the lowest possible tax bill when taxable events do occur. Investment into a fund that does not buy and sell the securities contained within it as often as another fund would be the tax efficient choice between the two funds, because selling securities for capital gain triggers a taxable event with capital gains tax being owed. ETFs are more tax efficient than mutual funds due to their in-kind redemption. Likewise, selling investments after the long term capital gains tax holding period is more tax efficient than selling them sooner and incurring short term capital gains tax. The term tax efficient account simply means a taxable account that an investor has filled with tax efficient investments. 
+### Tax-Loss Harvesting
+- Tax-loss harvesting is the selling of securities at a loss to offset the amount of capital gains tax owed from selling profitable assets for a given tax year. For investors with more capital loss than is allowed for deduction in the current year, carryover is indefinite and deductions are always above-the-line.
+- [Investopedia](https://www.investopedia.com/articles/taxes/08/tax-loss-harvesting.asp) provides a thorough explanation and breakdown of use cases.
 ### Required Minimum Distributions (RMDs)
 - See a linked [definition](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) since the rules may change.
 	- The calculation is: **(IRA balance at the end of the previous year) / (RMD factor)**

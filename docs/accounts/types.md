@@ -8,7 +8,7 @@ date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
 ## Retirement and Supplemental Accounts
-## Pre-Tax / Tax-Deferred
+### Pre-Tax / Tax-Deferred / Traditional
 **Table created by ChatGPT.**
 <!-- 
 Update this table annually or as needed if rules change. - Copy and paste the table into a GPT and give instruction to "provide the same table with the details updated to the current year". 
@@ -37,7 +37,7 @@ Include their primary use, contribution limits for the current year, key feature
 | **Non-Qualified Deferred Compensation Plans (NQDC)** | Employer-sponsored plan for deferring compensation.                        | Varies by plan, but no limit set by IRS for employee deferrals. | Used for high earners, often used to defer salary or bonuses. Not governed by the same contribution limits as qualified plans. Taxed at withdrawal. |
 | **HSA**                                              | Medical Expenses / Retirement                                              | See section on Health Savings Account below                     | See section on Health Savings Account below.                                                                                                        |
 
-### IRAs
+#### IRAs
 **Table created by ChatGPT.**
 <!-- 
 **Update this table annually or as needed if rules change.**
@@ -50,7 +50,7 @@ Please provide an overview of the different types of **Traditional IRAs**, inclu
 5. Inherited IRA
 6. Trusteed IRA
 7. Spousal IRA
-Include their primary use, contribution limits for the current year, key features or differences, and also include a comparison table that includes primary use, contribution limits, key features (including withdrawal ages and rules). Please provide the table in markdown.
+Include a comparison table that includes columns for primary use, contribution limits, and key features (including income limits, withdrawal ages and rules) for the current year. Please provide the table in markdown.
 -->
 
 
@@ -64,10 +64,10 @@ Include their primary use, contribution limits for the current year, key feature
 | **Trusteed IRA**    | IRA managed by a third-party trustee                             | $6,500 ($7,500 if 50+)                             | Managed by a trustee; tax-deferred growth; early withdrawals may incur a 10% penalty before age 59½; RMDs at 73.      |
 | **Spousal IRA**     | IRA for a non-working or low-income spouse                       | $6,500 ($7,500 if 50+)                             | Funded by the working spouse’s income; same contribution limits as standard IRAs; RMDs begin at age 73.               |
 
-### Health Savings Account (HSA)
+#### Health Savings Account (HSA)
 - [HSAs](https://www.investopedia.com/terms/h/hsa.asp) are similar to traditional IRAs in terms of their tax advantage with a few additional perks. Withdrawals for medical expenses are tax free and may be drawn at any age. Otherwise, withdrawals used for non-medical expenses are taxed as ordinary income and subject to a penalty fee calculated as a percentage of the withdrawn amount. However, after the age of 65 there is no penalty for withdrawals for non-medical expenses, and these withdrawals are still taxed as ordinary income, just like a traditional IRA. Another difference from a traditional IRA, is that **required minimum distributions do not apply to HSAs**.
 - Younger, healthy individuals can take advantage of generally lower medical expenses and the **triple tax advantage of tax free contributions, growth and withdrawals for qualified medical expenses**.
-- Reimbursement rules for qualified medical expenses allow for the account holder to pay for medical expenses out of pocket and reimburse themselves at any point in the future, e.g., after the account has had time to compound and increase in value.
+- Reimbursement rules for qualified medical expenses allow for the account holder to pay for medical expenses out of pocket and reimburse themselves at any point in the future, e.g., after the account has had time to compound and increase in value. Keep medical bills for future reimbursement. Reimbursements are allowed for medical expenses incurred after opening the HSA.
 - There are caveats to opening and contributing to an HSA, like having a High Deductible Health Plan (HDHP). These plans have higher annual deductibles (minimum four figure dollar amounts for singles). The trade-off is that the monthly premiums for young people is often relatively cheap, so the extra money that would normally go toward paying higher premiums can be invested into an HSA to compound for future expenses. The account value at any point in time of an HSA will depend on the assets the investor chooses to purchase, similar to a retirement or brokerage account.
 	- [Understanding HSA-eligible plans](https://www.healthcare.gov/high-deductible-health-plan/setting-up-hsa/) (healthcare.gov)
 	- The Motley Fool provides a summary of [HSA-Eligible Expenses](https://www.fool.com/retirement/plans/hsa/eligible-expenses/). IRS [Publication 969, Health Savings Accounts and Other Tax-Favored Health Plans](https://www.irs.gov/forms-pubs/about-publication-969) -> Distributions From an HSA states:
@@ -109,7 +109,7 @@ Please provide an overview of the HSA rules for the current year including the f
 | **Penalty for Non-Qualified Use** | - If you use your HSA funds for **non-medical expenses before age 65**, you will face:<br> **1. Income tax** on the amount withdrawn, and<br> **2. A 20% penalty** on the amount withdrawn.<br> - After age 65, there is **no penalty**, but you will still pay **income tax** if the funds are used for non-medical purposes (similar to IRA distributions).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **Reimbursements**                | - **Reimbursing yourself for out-of-pocket expenses**: If you pay for qualified medical expenses with personal funds (e.g., credit card, cash, check), you can reimburse yourself later from your HSA.<br> - **Timing of reimbursements**: You can reimburse yourself at any time for eligible expenses, as long as they were incurred after the HSA was established. You do not have to reimburse yourself in the same year the expense occurred, meaning you could pay out-of-pocket now and reimburse yourself years later (tax-free and penalty-free as long as the expense is qualified).<br> - **Keep records**: It's essential to keep records (receipts, invoices) of the expenses for tax purposes and to ensure that you are reimbursing only for qualified medical expenses.<br> - **Reimbursement flexibility**: You can use your HSA to reimburse for medical expenses incurred by yourself, your spouse, or your dependents (even if they're not covered under your HDHP).                                                   |
 
-## Post-Tax
+### Post-Tax
 **Table created by ChatGPT.**
 <!--
 Update this table annually or as needed if rules change. - Copy and paste the table into a GPT and give instruction to "provide the same table updated for the current year". 
@@ -141,7 +141,7 @@ Include their primary use, contribution limits for the current year, key feature
 | **Taxable Investment Accounts (Brokerage Accounts)** | Accounts for investing in stocks, bonds, and other assets without tax advantages.               | No contribution limit                        | Contributions made with after-tax money. Earnings subject to capital gains tax upon sale. No withdrawal restrictions.                                                                                 |
 | **Social Security**                                  | Government retirement benefits based on work history.                                           | See section on Social Security below.        | Monthly payments are based on lifetime earnings. Taxed based on income level in retirement. See section on Social Security below.                                                                     |
 
-### Social Security
+#### Social Security
 
 - Assuming it will still a viable system in the future and functioning similar to its current payout scheme, it is important to understand [how the system works](https://www.bogleheads.org/wiki/Social_Security).
 - Social Security offers better benefits for waiting longer to begin receiving payouts.
@@ -181,7 +181,7 @@ Please provide an overview of the Social Security rules for the current year inc
 | **Withdrawal of Application**               | - If you change your mind after applying for Social Security, you can **withdraw your application** within **12 months** of starting benefits. <br> - You’ll need to **pay back** the benefits you’ve received, but can then **reapply** later for a higher benefit.                                                                                                                                                                                                                                                                                                                                          |
 | **Reinstating Benefits After Stopping**     | - If you suspend Social Security after reaching FRA (e.g., to earn delayed retirement credits), you can reinstate it **later**, and your benefit will be **higher**.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-## Summary
+### Summary of Personal Accounts
 **Table and key takeaways provided by ChatGPT.**
 <!--
 **Update this table annually or as needed if rules change.**
@@ -227,9 +227,43 @@ Please provide the table in markdown.
 |                                           | - **HSA**: Contributions are **tax-deductible**, and withdrawals for medical expenses are **tax-free**.                   | - **HSA**: Offers the unique benefit of being used **tax-free** for medical expenses, and tax-free for other purposes after age 65. |
 |                                           | - **Traditional 401(k)**: Employer matching contributions are also pre-tax.                                               |                                                                                                                                     |
 
-### Key Takeaways
+#### Key Takeaways
 - **Pre-tax accounts** (e.g., Traditional IRA, 401(k)) provide **immediate tax benefits** through deductions at the time of contribution, but withdrawals are taxed as ordinary income.
 - **Post-tax accounts** (e.g., Roth IRA, Roth 401(k)) do not provide a tax deduction at the time of contribution but offer **tax-free withdrawals** if conditions are met (e.g., 59½ and 5-year holding period for Roth IRAs).
 - **HSAs** are unique in that they provide **tax-free contributions, growth, and withdrawals** for qualified medical expenses, and offer additional flexibility for post-retirement use for non-medical expenses after age 65.
 - **Taxable Brokerage Accounts** do not provide any immediate tax benefits or tax-deferred growth. Contributions are made with after-tax dollars, and earnings are taxed at **capital gains rates** when assets are sold. There are **no withdrawal restrictions or age-related penalties**, but long-term gains may be taxed at a lower rate than short-term gains.
+
+## Custodial Accounts for Minors
+ Regarding children, there are multiple investment [options](https://www.moneycrashers.com/financial-accounts-open-child/) that parents/guardians may want to consider for their child before an IRA, such as a 529, UGMA, or UTMA. Still, considering there are currently no direct rollovers from these accounts to retirement accounts without taxes or penalties, opening a custodial retirement account for a child and teaching them the concepts of compounding may encourage investing habits and provide a great start for retirement.
+
+- See also [Contributing to Another Person's Account](../investing/contributions.md#contributing-to-another-person's-account)<!-- #internal_anchor_link -->.
+- See also [Contribution & Deductibility Summaries](../accounts/contribution-and-deductibility-summaries.md)<!-- #internal_link -->.
+
+<!-- 
+**Prompt**
+Create a table with the following columns:
+- Custodial Account Type
+- Account Description
+- Tax Implications for Transfer to a Retirement Account
+- Fees/Costs for Transfer to a Retirement Account
+The rows should include the following custodial account types:
+1. UGMA (Uniform Gifts to Minors Act) Account
+2. UTMA (Uniform Transfers to Minors Act) Account
+3. 529 College Savings Plan
+4. Coverdell ESA (Education Savings Account)
+5. Custodial Brokerage Account
+6. Custodial Trust Accounts
+Generate a table focused on transferring money from non-retirement custodial accounts (UGMA, UTMA, 529, Coverdell ESA, Custodial Brokerage, and Custodial Trust accounts) to retirement accounts, without including penalties specific to retirement accounts or once the retirement account is open. Rules should apply to the current year.
+-->
+**Table created by ChatGPT**
+
+| **Account**                                   | **Description**                                                                                                                                                                                     | **Tax Implications for Transfer to a Retirement Account**                                                                                                                                                                        | **Fees/Costs for Transfer to a Retirement Account**                                                                                                                                                      |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UGMA (Uniform Gifts to Minors Act)**        | A custodial account that allows gifts of money, securities, and other assets to be made to a minor. The custodian manages the account until the minor reaches adulthood. **Tax Advantage**: Earnings are taxed at the child's potentially lower tax rate, rather than the parent's higher tax rate.                             | Transfers would generally be treated as a sale of assets, so capital gains tax could apply if the assets have appreciated. Any gains realized upon liquidation of the assets may be taxed as the child’s income.                 | If assets are liquidated before transfer, transaction fees may apply (e.g., brokerage fees for selling assets). However, there are typically no fees for in-kind transfers.                              |
+| **UTMA (Uniform Transfers to Minors Act)**    | Similar to UGMA, but broader in scope, allowing more types of assets to be transferred, including real estate and patents. **Tax Advantage**: Earnings are taxed at the minor's tax rate, which could be lower than that of the parent. This is similar to UGMA, but offers more asset flexibility.                                                                          | Similar to UGMA, transferring assets to a retirement account typically involves a sale of the assets, triggering capital gains tax on any gains realized. Short-term or long-term capital gains tax may apply.                   | Similar to UGMA, fees would apply if assets are liquidated and sold before transferring to the retirement account, with possible account closure fees if moving assets out of the custodial institution. |
+| **529 College Savings Plan**                  | A tax-advantaged savings plan specifically for education expenses. It allows for **tax-free growth** and **tax-free withdrawals** when used for qualified education expenses. **Tax Advantage**: Earnings grow tax-deferred, and withdrawals for qualified education expenses are tax-free.                                        | Funds cannot be directly transferred to a retirement account. Withdrawals for non-education purposes are subject to ordinary income tax on the earnings, plus a 10% penalty.                                                     | Typically no fees for transferring between 529 accounts. However, withdrawing funds may involve transaction fees or fees for closing the account if moving funds to a non-educational account.           |
+| **Coverdell ESA (Education Savings Account)** | A tax-advantaged account similar to the 529 plan, but with a lower contribution limit. It can be used for education-related expenses for students under 30 years old. **Tax Advantage**: Contributions grow tax-deferred, and withdrawals for qualified education expenses are tax-free.                               | Similar to 529 plans, funds cannot be transferred directly to a retirement account. Withdrawals for non-education purposes will be taxed as ordinary income and subject to a 10% penalty on earnings.                            | Fees for transferring assets between Coverdell ESA accounts are generally minimal, but liquidation of assets to move to a non-retirement account may incur transaction fees.                             |
+| **Custodial Brokerage Account**               | A taxable brokerage account managed by an adult on behalf of a minor, where the minor owns the investments when they reach adulthood. **Tax Advantage**: There is no specific tax advantage. Earnings are taxed at the minor's tax rate, but there are no tax deferrals like in retirement accounts.                                                               | If assets are liquidated to fund a retirement account, capital gains tax is triggered on any realized gains. Short-term gains are taxed as ordinary income, while long-term gains are taxed at a lower rate.                     | Liquidation of assets often involves transaction costs such as commissions or fees. Fees can also apply if assets are transferred out of the brokerage account or if the account is closed.              |
+| **Custodial Trust Accounts**                  | A trust set up for a minor, where the custodian manages the assets until the minor reaches adulthood. The trust can hold various types of assets and can be more flexible than a custodial account. **Tax Advantage**: The tax treatment depends on the trust's structure. Income generated within the trust is generally taxable. | Similar to a brokerage account, liquidating the trust’s assets may trigger capital gains tax on any realized gains. The tax treatment depends on the type of trust, but generally, income generated within the trust is taxable. | Fees for transferring assets from a custodial trust may include transaction costs for asset liquidation, as well as legal or administrative fees, depending on the trust’s terms.                        |
+
 

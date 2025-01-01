@@ -8,7 +8,7 @@ date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
 ## Substantially Equal Periodic Payments
-- For early retirees the IRS allows withdrawals from retirement accounts without penalty under [Substantially Equal Periodic Payments](https://www.investopedia.com/terms/s/sepp.asp) rules summarized in the table below.
+- For early retirees, one of the options the IRS allows for withdrawals from retirement accounts without penalty falls under [Substantially Equal Periodic Payments](https://www.investopedia.com/terms/s/sepp.asp) / [72(t)](https://www.investopedia.com/terms/r/rule72t.asp) rules summarized in the table below.
 
 **Table created by ChatGPT** 
 <!--
@@ -38,3 +38,8 @@ Please provide the table in markdown.
 | **Purpose**                      | SEPP provides a way to access retirement funds early (before age 59½) without the 10% early withdrawal penalty. This can be useful for: <br> - **Early retirees** who need income before 59½. <br> - People who need funds in an emergency but don’t want to pay the penalty. <br> - Those who want to start withdrawing funds from tax-advantaged accounts and avoid penalties.                                                                                                                                                                                                                                                                                    |
 | **Calculation Factors**          | SEPP calculations depend on: <br> 1. **Account balance** at the time of the first distribution. <br> 2. **Life expectancy**: IRS tables are used to calculate life expectancy. <br> 3. **Interest rate**: The IRS allows a specific maximum interest rate (up to 120% of the IRS Federal Mid-Term Rate) to be used when calculating SEPP.                                                                                                                                                                                                                                                                                                                           |
 | **Exceptions to Changing SEPP**  | There are a few exceptions when you **can** modify the SEPP plan without incurring retroactive penalties, such as: <br> - Death <br> - Disability (qualifying disability as per IRS rules) <br> - If you roll over funds from one similar plan to another (e.g., from an IRA to a new IRA).                                                                                                                                                                                                                                                                                                                                                                         |
+
+## Arguments and Other Ways
+See GoCurryCracker!'s article on the other [available options](https://www.gocurrycracker.com/ira-withdrawals-before-age-59-5/), with a focus on SEPP, and [why he chose to use SEPP](https://www.gocurrycracker.com/why-i-plan-to-start-an-sepp/).
+See [opinions on using SEPP for a given scenario](https://www.reddit.com/r/financialindependence/comments/soptup/72t_may_be_superior_to_the_roth_conversion_ladder/) versus the simpler option, the Roth conversion ladder<!-- #add_instant_preview_of_definition -->.
+

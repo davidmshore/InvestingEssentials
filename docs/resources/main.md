@@ -28,6 +28,8 @@ Financial topics can be dry reading. The right author and style of book can make
 		- Proverbs 27:23 - Be diligent to know the state of your flocks, attend to your herds.
 		- Proverbs 21:5 - The plans of the diligent lead surely to abundance and advantage, but everyone who acts in haste comes surely to poverty.
 		- Proverbs 21:20 - There is precious treasure and oil in the house of the wise [who prepare for the future], But a short-sighted _and_ foolish man swallows it up _and_ wastes it.
+- [JLCollinSNH.com](https://jlcollinsnh.com/)
+	- A little dated, but sound nonetheless. The blog also covers topics such as career advice.
 - [MoneyGuy.com](https://moneyguy.com)
 - [YourMoneyOrYourLife.com](https://yourmoneyoryourlife.com)
 	- [YourMoneyOrYourLife.com -> Resources](https://yourmoneyoryourlife.com/resources/) > Financial Independence Blogs
@@ -79,7 +81,7 @@ Criteria may or may not apply to an investor's strategy and may apply at differe
 ## Charts
 Charts are great for summarizing new concepts.
 
-- [Prime Directive flowchart](https://i.imgur.com/lSoUQr2.jpeg) (r/personalfinance)
+- [Prime Directive flowcharts](https://www.reddit.com/r/personalfinance/wiki/commontopics/) (r/personalfinance)
 - [r/coolguides](https://www.reddit.com/r/coolguides/)
 	- [Finance](https://www.reddit.com/r/coolguides/search/?q=finance&cId=64aa161f-3dec-4fce-82e3-d397687ba343&iId=d47396b4-b586-42e1-a54f-c599ef125cc7)
 		- [A cool guide to the steps to financial independence](https://www.reddit.com/r/coolguides/comments/1ftwwe1/a_cool_guide_to_the_steps_to_financial/)
