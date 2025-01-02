@@ -19,9 +19,6 @@ date modified: 2024-11-11 15:45
 	- Sizeable pre-tax retirement accounts are susceptible to large tax bills because of the mandatory withdrawals under RMD rules.
 - For deductions, see also [Accounts -> Types](accounts/types.md).<!-- #internal_link -->
 	- Contributions to pre-tax retirement accounts and HSAs are above-the-line deductions.
-## By US State
-- [States with the Highest & Lowest Tax Rates](https://wallethub.com/edu/best-worst-states-to-be-a-taxpayer/2416) (wallethub.com)
-- [Who Pays?](https://itep.org/whopays-7th-edition/) (itep.org)
 ## Bonds
 Bonds can be taxed in two ways:
 
@@ -75,7 +72,7 @@ The following will focus on the basics of taxing gains on financial securities s
 
 - Pre-tax retirement account investment gains are not taxed as capital gains, and are instead taxed like ordinary income upon withdrawal.
 
-Capital gains (CG) tax rates are determined based on adjusted gross income (AGI). This is important, because capital gains are taxed progressively. Moreover, capital gains get stacked *on top* of other income, the total of which, after [deductions](https://www.reddit.com/r/personalfinance/comments/hrqpxd/do_longterm_capital_gains_count_as_income/?rdt=42791), determines the marginal tax rate. Therefore, AGI + CG - deductions determines the highest CG tax bracket, and each portion of CG that fills lower tax brackets (after filling them up with other income) will be taxed progressively.
+Capital gains (CG) tax rates are determined based on adjusted gross income (AGI). This is important, because capital gains are taxed progressively. Moreover, capital gains get lumped together with other income, the total of which, after [deductions](https://www.reddit.com/r/personalfinance/comments/hrqpxd/do_longterm_capital_gains_count_as_income/?rdt=42791), determines the marginal tax rate. Therefore, AGI + CG - deductions determines the highest CG tax bracket, and each portion of CG that fills lower tax brackets (after filling them up with other income) will be taxed progressively.
 
 Capital gains are taxed at either [short term rates and long term rates](https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp), i.e. capital invested for a year or less or capital invested for longer than a year, with longer investments given more favorable rates. Federal and state tax rates apply. Laws vary by state.
 #### Example
@@ -131,13 +128,20 @@ Table 4: Imaginary State Capital Gains Tax Owed
 - [Qualified dividends](https://www.investopedia.com/terms/q/qualifieddividend.asp) are given preferential tax treatment and are taxed at long term capital gains rates rather than ordinary income, but the underlying stock does not have to be held for a year (as would long term capital gains rates to apply to the sale of stock shares), only for the holding period, which is 60 days.
 - [Non-qualified/ordinary dividends](https://www.investopedia.com/terms/o/ordinary-dividends.asp) are taxed as ordinary income.
 - [How Are Qualified and Ordinary Dividends Taxed?](https://www.investopedia.com/articles/taxes/090116/how-are-qualified-and-nonqualified-dividends-taxed.asp) (investopedia.com)
-- See also this forum thread, particularly the post from [unwitting_gulag on Sat Feb 03, 2024 4:03 pm](https://www.bogleheads.org/forum/viewtopic.php?p=7693220#p7693220) to understand the implications of dividends in a taxable account, which emphasizes the significance of dividend earnings that can affect eligibility for other income dependent services or programs.  
+- See also this forum thread, particularly the post from [unwitting_gulag on Sat Feb 03, 2024 4:03 pm](https://www.bogleheads.org/forum/viewtopic.php?p=7693220#p7693220) to understand the implications of dividends in a taxable account, which emphasizes the significance of dividend earnings that can affect eligibility for other income dependent services or programs (e.g., ACA health plans).
 - See also, [misconceptions about dividend paying stocks](https://www.investopedia.com/articles/investing/082015/3-biggest-misconceptions-dividend-stocks.asp), the [Dividend Irrelevance Theory](https://www.investopedia.com/terms/d/dividendirrelevance.asp)— which effectively proposes that the payout to the investor is actually bad in the long run, since the company is not reinvesting in itself—the opposing argument for well established companies from the short article [The Power of Dividends: You Can't Ignore the Figures](https://finance.yahoo.com/news/power-dividends-cant-ignore-figures-174611045.html), as well as a [discussion on every take](https://www.reddit.com/r/investing/comments/wi3rk6/are_dividend_stocks_ever_worth_it/) from Reddit, where at least the arguments are rated by a audience of investors.
 ### ETFs Versus Mutual Funds
 - [Tax Efficiency Differences: ETFs vs. Mutual Funds](https://www.investopedia.com/articles/investing/090215/comparing-etfs-vs-mutual-funds-tax-efficiency.asp) (investopedia.com)
 - [Is It Always Bad To Hold Mutual Funds In A Taxable Account?](https://www.reddit.com/r/Bogleheads/comments/pfdohf/is_it_always_bad_to_hold_mutual_funds_in_a/) (r/Bogleheads)
 - Tax efficiency, whether the asset is a mutual fund or an ETF, is influenced by how often the fund distributes long-term and short-term capital gains, as well as the type of assets held within the fund. It is important to research a fund’s history, prospectus, and tax statements to understand how frequently distributions occur and how the fund handles capital gains. Funds that distribute fewer capital gains and make the most of tax-advantaged strategies (like tax-loss harvesting) are considered more tax-efficient.
-### Generational Planning
+## Foreign Tax Credit
+- The US government gives citizens and resident aliens who are required to pay income tax (or a substitute/equivalent of an income tax) to a foreign country or U.S. possession (Puerto Rico, Guam, etc.) the option to [claim a tax credit or itemized deduction](https://www.investopedia.com/terms/f/foreign-tax-credit.asp) when filing taxes.
+## Social Security
+Social security is a tax on earned income up to the [wage base limit](https://www.irs.gov/taxtopics/tc751). However, it is not deductible and income tax is also paid on the taxed amount. Moreover, it is partially taxed during retirement, so it is not a very good financial strategy. However, it is mandatory for workers so it is important to understand how to make the most of the available options. See [Accounts -> Types -> Social Security](accounts/types.md#social-security)<!-- #internal_anchor_link --> for how it works.
+## State Tax
+- [States with the Highest & Lowest Tax Rates](https://wallethub.com/edu/best-worst-states-to-be-a-taxpayer/2416) (wallethub.com)
+- [Who Pays?](https://itep.org/whopays-7th-edition/) (itep.org)
+## Generation Planning
 - Converting a pre-tax retirement account to a Roth account ensures that funds get to remain in the account during the life of the testator and the heirs will not pay tax on withdrawals.
 - For taxable brokerage accounts, as long as the current law regarding a basis step-up remains in effect for inherited accounts, the basis values of all financial securities in the account are stepped up to the value at the date of death (the price at the close of the market), meaning that capital gains earned during the life of the testator (the investor who will be passing on their account to an heir), are not subject to tax when withdrawn by the heir per the account value at the time of death. Any capital gains or losses after the date of death are subject to capital gains or capital loss tax rules.
 - [Why You Want To Spend Your IRA Money Before You Die](https://www.reddit.com/r/Bogleheads/comments/1cgdrn6/why_you_want_to_spend_your_ira_money_before_you/) (r/Bogleheads)
@@ -145,7 +149,5 @@ Table 4: Imaginary State Capital Gains Tax Owed
 	- A key point here is the 10-year rule passed in 2019 that requires inherited retirement accounts to be emptied within 10 years of death.
 - Annual gifts up to the [current non-reportable giving limit](https://www.google.com/search?q=current+non-reportable+giving+limit&sca_esv=33eeff773bbaf247&source=hp&ei=L-k3Z7ADzrDQ8Q_RgrywCg&iflsig=AL9hbdgAAAAAZzf3P_kxZJMZdneyuiVdsqCvjuOJj-g9&ved=0ahUKEwjw1uWOzt-JAxVOGDQIHVEBD6YQ4dUDCBA&uact=5&oq=current+non-reportable+giving+limit&gs_lp=Egdnd3Mtd2l6IiNjdXJyZW50IG5vbi1yZXBvcnRhYmxlIGdpdmluZyBsaW1pdDIFECEYoAEyBRAhGKABMgUQIRigAUi1BVBHWEdwAXgAkAEAmAFaoAFaqgEBMbgBA8gBAPgBAvgBAZgCAqACZagCCsICEBAAGAMY5QIY6gIYjAMYjwHCAhMQLhgDGNQCGOUCGOoCGIwDGI8BmAMGkgcBMqAH3gM&sclient=gws-wiz) may be given without reporting to the IRS. These do not count toward the current lifetime cap. There are [caveats](https://www.miestatelawyer.com/blog/gift-tax-why-giving-away-$15,000-is-a-trap) and important [considerations](https://www.schwab.com/learn/story/estate-tax-and-lifetime-gifting) when gifting large amounts and a form 709 is required. Consult a financial advisor or CPA before beginning large transfers.
 - **It is recommended to consult with an professional advisor before finalizing plans.**
-## Social Security
-Social security is a tax on earned income up to the [wage base limit](https://www.irs.gov/taxtopics/tc751). However, it is not deductible and income tax is also paid on the taxed amount. Moreover, it is partially taxed during retirement, so it is not a very good financial strategy. However, it is mandatory for workers so it is important to understand how to make the most of the available options. See [Accounts -> Types -> Social Security](accounts/types.md#social-security)<!-- #internal_anchor_link --> for how it works.
-
-
+## End of Year Checklist
+- GoCurryCracker! has an excellent article on the [list of considerations](https://www.gocurrycracker.com/year-end-tax-checklist/).

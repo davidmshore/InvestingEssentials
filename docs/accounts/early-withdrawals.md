@@ -40,6 +40,6 @@ Please provide the table in markdown.
 | **Exceptions to Changing SEPP**  | There are a few exceptions when you **can** modify the SEPP plan without incurring retroactive penalties, such as: <br> - Death <br> - Disability (qualifying disability as per IRS rules) <br> - If you roll over funds from one similar plan to another (e.g., from an IRA to a new IRA).                                                                                                                                                                                                                                                                                                                                                                         |
 
 ## Arguments and Other Ways
-See GoCurryCracker!'s article on the other [available options](https://www.gocurrycracker.com/ira-withdrawals-before-age-59-5/), with a focus on SEPP, and [why he chose to use SEPP](https://www.gocurrycracker.com/why-i-plan-to-start-an-sepp/).
-See [opinions on using SEPP for a given scenario](https://www.reddit.com/r/financialindependence/comments/soptup/72t_may_be_superior_to_the_roth_conversion_ladder/) versus the simpler option, the Roth conversion ladder<!-- #add_instant_preview_of_definition -->.
+- See GoCurryCracker!'s article on the other [available options](https://www.gocurrycracker.com/ira-withdrawals-before-age-59-5/), with a focus on SEPP, and [why he chose to use SEPP](https://www.gocurrycracker.com/why-i-plan-to-start-an-sepp/).
+- See [opinions on using SEPP for a given scenario](https://www.reddit.com/r/financialindependence/comments/soptup/72t_may_be_superior_to_the_roth_conversion_ladder/) versus the simpler option, the Roth conversion ladder<!-- #add_instant_preview_of_definition -->.
 

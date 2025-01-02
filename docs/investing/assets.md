@@ -7,15 +7,6 @@ tags:
 date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
-## Considerations
-- Risk
-	- Risk can generally be mitigated the longer the investment period is.
-- Liquidity
-	- How long can the money be invested without needing access to it and what will be the tax bill for withdrawing it?
-- Return
-	- The after-tax rate of return.
-	- The **after tax rate of return = pre-tax rate of return x (1 - the effective tax rate [sum of state and federal tax rates])** 
-- Details regarding an investment may be found in the asset's [prospectus](https://www.investopedia.com/terms/p/prospectus.asp), which is the most reliable source of information about potential investments. A 401(k) will have a Summary Plan Description (SPD) that tells an employee what fees and expenses are charged and if it is up to the employee or employer to pay them. There are additional documents that an employee may request detailing how an employer is paying fees and expenses.
 ## Annuities
 - Annuities are contracts between an individual and an insurance company, where the individual pays the insurance company in installments or a lump sum, and the insurance company agrees to make periodic payments to the individual for a set period.
 - Annuities are generally not considered a good investment, because the insurance company is probably making better returns on the money given up front by the investor, plus there may be fees involved. Annuities are usually only worth considering later in life when there is little time or money to be invested in compounding assets. A comparison of the estimated returns from compounding options versus annuity payments will determine if an annuity should be an option.
@@ -70,15 +61,17 @@ date modified: 2024-11-11 15:45
 - Shares of ownership of a publicly traded company, i.e. public stocks. Stock gains are taxed at capital gains rates, and losses may be deducted up to a certain amount each year with carryover allowed into future tax years. Some equities pay dividends, i.e., company profits shared with shareholders while an investor owns the stock. Investors can direct their broker to automatically reinvest dividends by purchasing additional shares. Like bonds, dividend paying stocks are a tax consideration when held in a taxable account. 
 - Equities are the best financial market asset for growing an investment portfolio and are also susceptible to the largest declines during economic downturns. 
 ## Commodities
-- Investments in physical goods, such as gold, oil, or agricultural products. Contracts based on an agreed upon price at a future delivery date are bought and sold on the futures market. A contract may be sold before the actual delivery of goods. Commodities are generally not advised, especially for the casual investor or someone focused on their retirement account. 
+- Investments in physical goods, such as gold, oil, or agricultural products. Contracts based on an agreed upon price at a future delivery date are bought and sold on the futures market. A contract may be sold before the actual delivery of goods. Commodities are generally not advised for individual investors, especially for the casual investor or someone focused on their retirement account. 
 ## Index Funds
 - A type of ETF or mutual fund that tracks a specific market index, i.e. a predetermined set of assets such as the S&P 500, to provide broad market exposure and diversification, which reduces risk. **Index funds are one of the primary investment vehicles** a retirement investor should be looking into for a high return on investment at a relatively low risk over the long run. 
 ## Exchange-Traded Funds (ETFs)
 - ETFs can track indices, aka indexes, which allow you to invest in shares of a broad set of assets, e.g. equities or bonds or a combination. ETFs are available for a variety of asset types with varying levels of diversification. ETFs can be actively or passively managed, meaning they can be filled with assets specially chosen by the manager, or setup to follow an index.
 - ETFs are unique in their turnover, i.e. the selling and repurchasing of equities within the fund by managers, aka custodians. ETF turnover is done with *in-kind* redemption, which does not trigger a taxable event in the form of a typical capital gain or loss for shareholders. Shares are effectively exchanged for new shares without the intermediary step of holding cash from the sale for repurchasing.
-- Dividends are still subject to tax for the year they are paid out when the ETF is held in a taxable brokerage account.
+- Dividends and interest payments are still subject to tax for the year they are paid out when the ETF is held in a taxable brokerage account.
+- Some ETFs may be proprietary to a specific broker, but these can often still be purchased on an exchange through other brokers commission free. In the case of moving funds from an account held at one broker to an account held at another broker, although ETFs are treated in-kind, always check for broker fees.
 ## Mutual Funds
-- Similar to ETFs, mutual funds can be actively or passively managed. The turnover rate may be similar to active and passive ETFs, but turnover in mutual funds generally triggers a taxable event, which can lead to tax drag when held in a taxable brokerage account. Unlike ETFs which are always treated *in-kind*, if moving from a taxable account at one broker to another is a possibility, mutual funds fees may not be as kind to investors making the same move.
+- Similar to ETFs, mutual funds can be actively or passively managed. The turnover rate may be similar to active and passive ETFs, but turnover in mutual funds generally triggers a taxable event, which can lead to tax drag when held in a taxable brokerage account. Interest and dividends from assets held in taxable accounts are taxed the same as for ETFs.
+- Some mutual funds may be proprietary to the broker, but these can often be purchased through other brokers as well. Pay attention for higher transaction fees when purchasing funds this way or when moving funds from one broker to another. 
 ## Comparison of ETFs and Mutual Funds
 **Table created by ChatGPT**
 <!--
