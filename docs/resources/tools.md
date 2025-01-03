@@ -13,7 +13,7 @@ date modified: 2024-11-11 15:45
 ## Password Managers and Internet Security
 - It is recommended to setup and become fluent with using a secure password manager to keep track of important accounts, ensure that secure passwords are used (25+ random alphanumeric characters and symbols) and that no passwords are reused. The most secure types are offline managers, such as [KeePassXC](https://keepassxc.org/), but managers that store encrypted user data online and never receive sensitive data unencrypted from the user are an acceptable choice. Only consider companies with a good track record that has been verified via third party audits.
 - It is also a good idea to use a dedicated email account that is only used for important accounts, such as the password manager and financial accounts.
-- [Password Bits](https://passwordbits.com/) is a helpful website for internet and computer security.
+- [Password Bits](https://passwordbits.com/) is a helpful website for computer and internet security.
 ## Calculators
 
 ### Bond Calculators
@@ -42,19 +42,24 @@ date modified: 2024-11-11 15:45
 	- [bankrate.com](https://www.bankrate.com/retirement/convert-ira-roth-calculator/)
 	- [vanguard.com](https://advisors.vanguard.com/tax-center/tools/roth-betr-calculator/#/)
 #### Retirement Calculators
+- [NerdWallet - How Long Will My Retirement Savings Last](https://www.nerdwallet.com/article/investing/social-security/how-long-will-your-retirement-savings-last)
+- Use more than one tools for planning and validation.
+- [**cFIRESim**](https://www.cfiresim.com/)
+	- The go-to retirement calculator. It was created to simulate [FIRECalc](https://www.firecalc.com/) with the option to add custom adjustments.
+	- [CFiresim… how much do you trust it?](https://www.reddit.com/r/leanfire/comments/15tcsau/cfiresim_how_much_do_you_trust_it/) (r/leanfire)
+	- [Bogleheads® Chapter Series - cFIREsim Demonstration](https://www.youtube.com/watch?v=Lg7NX2Lx9wY) (YouTube)
 - [Choose Investing](https://www.chooseinvesting.com/calc/fire/)
-	- Simple blogsite calculator with an amortization table.
+	- A simple blogsite calculator with an amortization table.
 - [Engaging Data](https://engaging-data.com/will-money-last-retire-early/)
-	- Incudes mortality table, flexibility options, fees, extra income or expense, and great visuals. 
+	- A simple yet visually appealing retirement calculator including mortality table, flexibility options, fees, extra income or expense, and great visuals. 
 - [Investomatica FIRE Calculator](https://investomatica.com/early-retirement-calculator)
-	- Visually appealing graph plus amortization table with retirement expense coverage and net worth progress bars. Includes **standard, lean, fat, partial and coast** to retirement modes.
+	- A simple retirement calculator plus amortization table with retirement expense coverage and net worth progress bars. Includes **standard, lean, fat, partial and coast** to retirement modes.
 - [FICalc](https://ficalc.app/)
-	- Many fine tuning options, including withdrawal scenarios.
+	- Many fine tuning options, including withdrawal scenarios and custom adjustments.
 - [Monte Carlo simulation](https://www.portfoliovisualizer.com/monte-carlo-simulation)
 	- [The Monte Carlo Simulation: Understanding the Basics](https://www.investopedia.com/articles/investing/112514/monte-carlo-simulation-basics.asp)
 - [**NerdWallet Retirement Calculator**](https://www.nerdwallet.com/calculator/retirement-calculator)
 	- A simple calculator and graph that can be configured for estimated account value and continued growth during withdrawal years up to expected mortality.
-- [NerdWallet - How Long Will My Retirement Savings Last](https://www.nerdwallet.com/article/investing/social-security/how-long-will-your-retirement-savings-last)
 - [**SmartAsset**](https://smartasset.com/retirement/retirement-calculator)
 - Spreadsheet calculation
 	- [Retirement calculator that is actually good?](https://www.reddit.com/r/personalfinance/comments/x2i5sh/retirement_calculator_that_is_actually_good/) (r/personalfinance)
@@ -75,7 +80,7 @@ date modified: 2024-11-11 15:45
 - [Federal Income Tax Estimator](https://www.nerdwallet.com/calculator/tax-calculator) (nerdwallet.com)
 - [1040 Tax Calculator](https://www.dinkytown.net/java/1040-tax-calculator.html) (dinkytown.net)
 	- Full 1040 calculator for making sure everything is in order before the end of the tax year or testing specific calculations.
-- For tax tables see the links to [rates & yields](main.md#rates-&-Yields-Lookup)<!-- #internal_anchor_link -->.
+- For tax tables see the links to [rates & yields](main.md#rates-yields)<!-- #internal_anchor_link -->.
 ## More Calculators and Budgeting Tools
 These tools will primarily consist of calculators to help figure out anything that is not covered above. There may also be some software for managing money mentioned within the wiki.
 

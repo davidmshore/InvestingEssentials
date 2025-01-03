@@ -7,7 +7,7 @@ tags:
 date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
-If you feel like you are understanding things, but still not quite putting it all together in your brain, or you would like to introduce others to the idea of responsible living and financial planning, check out some of the other resources along with sharing this site. Most of these are free options, but sometimes books provide a better format for covering various topics systematically.
+If you feel like you are understanding things, but still not quite putting it all together in your brain, or you would like to introduce others to the idea of responsible living and financial planning, check out some of the other resources along with sharing this site. Most of these are free options, but sometimes books provide a better format for covering topics systematically.
 
 Amazon and Goodreads are probably the best ways to filter for ease of understanding and level of advice via ratings and reviews.
 
@@ -25,9 +25,9 @@ Financial topics can be dry reading. The right author and style of book can make
 ## Blogs
 - [Crown.org](https://wwwcrown.org/)
 	- Crown Financial Ministries was established in the 1970s with the goal of applying biblical principles of responsible money management. The website is set up like a blog and covers various life decisions involving money. Resources include a podcast and a few paid courses for people who prefer a guided path or assistance in passing financial knowledge on to the next generation. Some notable biblical proverbs on wise investing: 
-		- Proverbs 27:23 - Be diligent to know the state of your flocks, attend to your herds.
 		- Proverbs 21:5 - The plans of the diligent lead surely to abundance and advantage, but everyone who acts in haste comes surely to poverty.
 		- Proverbs 21:20 - There is precious treasure and oil in the house of the wise [who prepare for the future], But a short-sighted _and_ foolish man swallows it up _and_ wastes it.
+		- Proverbs 27:23 - Be diligent to know the state of your flocks, attend to your herds.
 - [JLCollinSNH.com](https://jlcollinsnh.com/)
 	- A little dated, but sound nonetheless. The blog also covers topics such as career advice.
 - [MoneyGuy.com](https://moneyguy.com)
@@ -35,19 +35,22 @@ Financial topics can be dry reading. The right author and style of book can make
 	- [YourMoneyOrYourLife.com -> Resources](https://yourmoneyoryourlife.com/resources/) > Financial Independence Blogs
 		- Notable
 			- [MrMoneyMustache.com](https://www.mrmoneymustache.com)
-			- [MadFientist.com](https://www.madfientist.com)
-			- [GoCurryCracker.com](https://www.gocurrycracker.com)
+			- [**MadFientist.com**](https://www.madfientist.com)
+				- Lots of graphs help visualize learning.
+			- [**GoCurryCracker.com**](https://www.gocurrycracker.com)
+				- Clear and concise with just the right amount of life story baked in.
 ## Books
 - [YourMoneyOrYourLife.com -> Resources](https://yourmoneyoryourlife.com/resources/) -> Financial Independence Books
 - [r/financialindependence -> Wiki -> Books](https://www.reddit.com/r/financialindependence/wiki/books/)
+- [r/leanfire -> Wiki](https://www.reddit.com/r/leanfire/wiki/index/) -> Reading List
 - [Bogleheads.org -> Wiki -> Suggested Reading](https://www.bogleheads.org/wiki/Suggested_reading)
-- For US investors, once you think you have a handle on the basics and retirement planning is the primary goal, The [Bogleheads' Guide to Retirement Planning](https://www.amazon.com/Bogleheads-Guide-Retirement-Planning/dp/0470919019/ref=sr_1_1?s=books#customerReviews) is another highly rated book to follow up with.
+- [Reading financial books is a waste of time.](https://www.reddit.com/r/financialindependence/comments/y9eyu1/reading_financial_books_is_a_waste_of_time/) (r/financialindependence)
 ### Digital and Audiobooks
 - The local library usually has some of the recommendations listed in the links above including digital versions. Audiobooks are great if you spend time commuting or just don't have much time to read. Most county libraries provide free access to third party digital libraries for simply being a member. These services can be found on a library's website. Digital libraries still rely on the availability of books for *checkout*, and usually give the user a certain number of checkouts per month before being automatically returned unless renewed by the user. Many of the books are also available on audio.
 - Archive.org is another great place to look for free books. Titles can be read online and are often available for download in various formats. For example, the first edition of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) PDF can be read online or [downloaded](https://archive.org/details/null-1_202312/mode/2up?q=bogleheads%5C%27) in common reading formats. Downloading is recommended, since the future availability of uploaded content is unknown. 
 - Sometimes converting to other formats may be desired so the media can be opened with a particular app, and [Calibre](https://calibre-ebook.com/) is a powerful desktop application that can convert to just about any format. 
 ### From The Bogleheads' Guide to Investing
-#### Desired Portfolio Characteristics and Investing Tips
+#### Summarized Portfolio Characteristics and Investing Tips
 Criteria may or may not apply to an investor's strategy and may apply at different periods throughout the life of an investor:
 
 - Avoid managed accounts. The fees may not sound like much, but they reduce the amount of capital available for compound growth. This can amount to years worth of retirement income, which will result in the investor either having to reduce their standard of retirement living or work longer to save up additional income. Instead, invest in low cost index funds.
@@ -68,11 +71,11 @@ Criteria may or may not apply to an investor's strategy and may apply at differe
 - 401(k) plan details about fees and expenses are provided in Summary Plan Descriptions. Form 5500 does not show individual account expenses, but additional documents may be requested from an employer about how much they are paying.
 	- 401(k) plans may not offer the lowest cost investing options, but they are usually still the best retirement account to max out first up to the employer match, if a generous employer match is offered. 
 - Use the prospectus for potential investments to confirm the performance and expenses associated with it.
-- Use tax harvesting in taxable accounts, meaning take advantage of lower income years when the sale of securities for a gain will result in lower, or zero taxes, and/or selling securities at a loss can help offset capital gains tax. Then repurchase the same securities, which effectively increases the cost basis (original purchase price of an asset) so that tax on future capital gains of the same securities will be lower. The median portfolio that used loss harvesting added about 20% to its value over what purely passive investing did.
+- Use tax harvesting in taxable accounts, meaning take advantage of lower income years when the sale of securities for a gain will result in lower, or zero taxes, and/or selling securities at a loss can help offset capital gains tax. Then either wait 31 days to repurchase the same or substantially similar securities or purchase dissimilar ones to avoid a wash sale<!-- #update_with_instant_preview --> and be careful that automatic reinvestment of dividends does not trigger a wash sale. This practice effectively increases the cost basis (original purchase price of an asset) so that tax on future capital gains of the same securities will be lower. The median portfolio that used loss harvesting added about 20% to its value over what purely passive investing did.
 - Use HIFO (highest in, first out), which is removing the assets that have shown the least returns or highest loss from an account, when trying to minimize taxes. This is possible through specific identification of shares.
 - Buy fund shares after the distribution date (the date when annual taxable distributions are paid).
 - Sell fund shares before the distribution date.
-- Sell profitable shares after the new year (generally, there is no sense paying taxes earlier than needed).
+- Sell profitable shares after the new year if tax harvesting allows it (generally, there is no sense paying taxes earlier than needed).
 - Regarding bonds, as of the publishing of the book in 2014, it is advised to use a bond advisor due to deceptive restricted clauses and hidden fees in certain bond types (e.g., corporate bonds). An exception would be using treasurydirect.com that offers direct issues of US government bonds to end users.
 - Avoid timing the market and contribute earned income on a scheduled basis.
 - Be prepared to pass on assets by having legal instructions written up in a will or trust. 
@@ -94,25 +97,28 @@ Charts are great for summarizing new concepts.
 - [Rollover Chart](https://www.irs.gov/pub/irs-tege/rollover_chart.pdf)
 - [Tax Foundation](https://taxfoundation.org/search/?_sf_s=tax+maps)
 ## Forums & Wikis
-### Investing
+### Financial Planning
 - [**Bogleheads.org**](https://bogleheads.org/index.php)
 - [r/bogleheads](https://www.reddit.com/r/Bogleheads/)
 	- [Wiki](https://www.bogleheads.org/wiki/Main_Page)
 	- [What is the difference between this sub and the Bogleheads official forum?](https://www.reddit.com/r/Bogleheads/comments/1grw5yx/what_is_the_difference_between_this_sub_and_the/)
+- [r/dividends](https://www.reddit.com/r/dividends/)
+- [r/ExpatFIRE](https://www.reddit.com/r/ExpatFIRE/)
 - [r/financialindependence](https://www.reddit.com/r/financialindependence/)
 - [r/FinancialPlanning](https://www.reddit.com/r/FinancialPlanning/) 
 - [r/Fire](https://www.reddit.com/r/Fire/)
 	- [Wiki](https://www.reddit.com/r/Fire/wiki/index/)
+- [r/fatFIRE](https://www.reddit.com/r/fatFIRE/)
 - [r/leanfire](https://www.reddit.com/r/leanfire/)
 	- [Wiki](https://www.reddit.com/r/leanfire/wiki/index/)
-- [r/fatFIRE](https://www.reddit.com/r/fatFIRE/)
 - [r/investing](https://www.reddit.com/r/investing/)
 	- [Wiki](https://www.reddit.com/r/investing/wiki/index/)
-- [r/ValueInvesting](https://www.reddit.com/r/ValueInvesting/)
-- [r/dividends](https://www.reddit.com/r/dividends/)
 - [**r/personalfinance**](https://www.reddit.com/r/personalfinance/)
 	- [**Wiki**](https://www.reddit.com/r/personalfinance/wiki/index/)
 - [r/tax](https://www.reddit.com/r/tax/)
+- [r/ValueInvesting](https://www.reddit.com/r/ValueInvesting/)
+- r/ChubbyFIRE [Sidebar](https://www.reddit.com/r/ChubbyFIRE/)
+- r/leanfire [Legacy Sidebar](https://www.reddit.com/r/leanfire/wiki/config/sidebar/)
 - Since most of these are on Reddit, searching all of Reddit may be the best choice to find answers.
 ### Living Expenses
 Every asset is an opportunity for wise investing.
@@ -152,8 +158,7 @@ Every asset is an opportunity for wise investing.
 - [Money Girl Podcast](https://lauradadams.com/podcast)
 - [r/financialindependence -> Wiki -> Books](https://www.reddit.com/r/financialindependence/wiki/books/) -> Podcasts
 - [YourMoneyOrYourLife.com -> Resources/](https://yourmoneyoryourlife.com/resources/) -> Podcasts
-
-## Rates & Yields Lookup
+## Rates & Yields
 - Current [federal income tax rates](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets).
 - Current [state income tax rates](https://www.nerdwallet.com/article/taxes/state-income-tax-rates).
 - Current [federal capital gains tax rates](https://www.nerdwallet.com/article/taxes/capital-gains-tax-rates).

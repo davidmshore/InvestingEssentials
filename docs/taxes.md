@@ -12,10 +12,10 @@ date modified: 2024-11-11 15:45
 - **Withdrawals from a pre-tax retirement account** are taxed as ordinary income.
 - Selling securities for a profit **within a brokerage account** triggers a taxable event. Capital gains are taxed progressively, and taxed as either short term capital gains (the same federal tax brackets as ordinary income), or long term capital gains (more favorable tax rates) depending on the length of the investment. More on capital gains is covered later.
 	- Taxes due are calculated according to both federal and state capital gains tax rules.
-- Deductions (above-the-line, standard or itemized) can be important in determining what portion of income is taxed and at which rates, e.g., retirement account withdrawals, capital gains and social security. Social security is taxed as regular income, but with its own rules for how much of the social security income is taxed. 
-	- See also a web search of [list of federal tax exempt income united states _current year_](https://www.google.com/search?q=list+of+federal+tax+exempt+income+united+states+_current_year_&sca_esv=1e8c9acc3ca5315c&ei=vqRbZ7KmPNG90PEPp_iz2AM&ved=0ahUKEwiy_cz04aOKAxXRHjQIHSf8DDsQ4dUDCBA&uact=5&oq=list+of+federal+tax+exempt+income+united+states+_current_year_&gs_lp=Egxnd3Mtd2l6LXNlcnAiPmxpc3Qgb2YgZmVkZXJhbCB0YXggZXhlbXB0IGluY29tZSB1bml0ZWQgc3RhdGVzIF9jdXJyZW50X3llYXJfSLciUI4IWO8ccAJ4AZABAJgB9wGgAesJqgEFMC44LjG4AQPIAQD4AQGYAgOgAokCwgIKEAAYsAMY1gQYR8ICCBAAGKIEGIkFwgIIEAAYgAQYogTCAgUQABjvBZgDAOIDBRIBMSBAiAYBkAYIkgcDMS4yoAelKw&sclient=gws-wiz-serp) or GPT search it (and confirm with official sources) for other non-taxable income.
-	- See also the article from GoCurryCracker! on [avoiding taxes](https://www.gocurrycracker.com/never-pay-taxes-again/) for investors that have a sizeable brokerage account, which basically takes advantage of the 0% tax bracket for capital gains income, and converts pre-tax accounts to Roth early in retirement taking advantage of the standard deduction. This strategy is most beneficial for married couples who file jointly. Also note that it takes advantage of the current favorable capital gains tax laws, which like any other tax law can be changed if Congress wants to.
-- AGI is critical in determining how much tax will be owed on withdrawals from pre-tax retirement accounts and the sale of securities in taxable brokerage accounts.
+- Deductions (above-the-line, standard or itemized) always reduce what portion of income is taxed and at which rates, e.g., retirement account withdrawals, capital gains and social security. Social security is taxed as regular income, but with its own rules for how much of the income is taxed. 
+	- See also a web search of [list of federal tax exempt income united states _current year_](https://www.google.com/search?q=list+of+federal+tax+exempt+income+united+states+_current_year_&sca_esv=1e8c9acc3ca5315c&ei=vqRbZ7KmPNG90PEPp_iz2AM&ved=0ahUKEwiy_cz04aOKAxXRHjQIHSf8DDsQ4dUDCBA&uact=5&oq=list+of+federal+tax+exempt+income+united+states+_current_year_&gs_lp=Egxnd3Mtd2l6LXNlcnAiPmxpc3Qgb2YgZmVkZXJhbCB0YXggZXhlbXB0IGluY29tZSB1bml0ZWQgc3RhdGVzIF9jdXJyZW50X3llYXJfSLciUI4IWO8ccAJ4AZABAJgB9wGgAesJqgEFMC44LjG4AQPIAQD4AQGYAgOgAokCwgIKEAAYsAMY1gQYR8ICCBAAGKIEGIkFwgIIEAAYgAQYogTCAgUQABjvBZgDAOIDBRIBMSBAiAYBkAYIkgcDMS4yoAelKw&sclient=gws-wiz-serp) or have a bot search (and confirm with official sources) for other non-taxable income.
+	- See also the article from GoCurryCracker! on [avoiding taxes](https://www.gocurrycracker.com/never-pay-taxes-again/) for investors that have a sizeable brokerage account, which basically takes advantage of the 0% tax bracket for capital gains income, and converts pre-tax funds to Roth investments early in retirement by taking advantage of the standard deduction. This strategy is most beneficial for married couples who file jointly. Also note that it takes advantage of the current favorable capital gains tax laws, which like any tax law can be changed if Congress wants to.
+- AGI is critical in determining how much tax will be owed on withdrawals from pre-tax retirement accounts and capital gains, interest and dividends in taxable brokerage accounts.
 	- Sizeable pre-tax retirement accounts are susceptible to large tax bills because of the mandatory withdrawals under RMD rules.
 - For deductions, see also [Accounts -> Types](accounts/types.md).<!-- #internal_link -->
 	- Contributions to pre-tax retirement accounts and HSAs are above-the-line deductions.
@@ -66,46 +66,49 @@ Please provide the table in markdown.
 | **Municipal Bond (5.0%)**       | 5.0%                  | 0%                   | 0%                 | 5.0% × (1 - 0.0)             | 5.00%                |
 
 ## Capital Gains (Financial Assets)
-A capital gain is a gross profit on an investment. The term can be applied to physical assets, such as property, or intangible assets, such as financial securities which is the focus here.
+A capital gain is a gross profit on the sale of an investment. The term can be applied to physical assets, such as property, or intangible assets, such as financial securities which is the focus here.
 ### Securities
 The following will focus on the basics of taxing gains on financial securities sold from a taxable brokerage account. For a more detailed breakdown of a scenario unique to you, asking a bot may help get you started, but always make sure to check with current law, and if you have any doubt, check with a financial advisor or certified public accountant. Bots are also useful for preliminary checks to see if something might be an issue. For example, a prompt for an overview search: `are all financial securities capital gains in taxable accounts taxed under the same rules` (copy and paste in to [ChatGPT](https://chatgpt.com/)).
 
-- Pre-tax retirement account investment gains are not taxed as capital gains, and are instead taxed like ordinary income upon withdrawal.
+- Pre-tax retirement account and HSA investment gains are not taxed as capital gains, and are instead taxed like ordinary income upon withdrawal.
 
-Capital gains (CG) tax rates are determined based on adjusted gross income (AGI). This is important, because capital gains are taxed progressively. Moreover, capital gains get lumped together with other income, the total of which, after [deductions](https://www.reddit.com/r/personalfinance/comments/hrqpxd/do_longterm_capital_gains_count_as_income/?rdt=42791), determines the marginal tax rate. Therefore, AGI + CG - deductions determines the highest CG tax bracket, and each portion of CG that fills lower tax brackets (after filling them up with other income) will be taxed progressively.
+Capital gains are taxed at either [short term or long term rates](https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp), i.e. capital invested for a year or less or capital invested for longer than a year, with longer investments given more favorable rates. Federal and state tax rates apply. Tax rates vary by state, with the most common convention being both short and long term capital gains taxed as ordinary income. See link to [rates](resources/main.md#rates-yields)<!-- #internal_anchor_link --> in Resources.
+#### Calculation
+Capital gains (CG) tax rates are determined by adjusted gross income (AGI).
 
-Capital gains are taxed at either [short term rates and long term rates](https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp), i.e. capital invested for a year or less or capital invested for longer than a year, with longer investments given more favorable rates. Federal and state tax rates apply. Laws vary by state.
+- Short term capital gains (STCG) are simple, because they are taxed the same as ordinary income. Therefore, (ordinary income + STCG - deductions) = AGI, and all of it gets taxed progressively as ordinary income.
+- With long term capital gains (LTCG), the gains are taxed separately after ordinary income, i.e. think of LTCG as income that gets *stacked on top* of ordinary income. Therefore, (ordinary income - deductions + LTCG) = AGI, and each dollar of LTCG that fills each tax bracket (after filling them up with ordinary income) will be taxed progressively. Here is a great answer to a Reddit post [demonstrating](https://www.reddit.com/r/personalfinance/comments/x04p5i/how_does_capital_gains_tax_work_and_is_it_added/) this and a few more [examples explained](https://www.youtube.com/watch?v=_RUjyw7Xs2M) by a financial advisor. Note that per the IRS ordering rules, not only is ordinary income taxed first, but the standard deduction reduces ordinary income first.
 #### Example
-The following example will calculate the federal capital gains tax using imaginary capital gains tax brackets and deduction for simplicity.
+The following example will calculate the federal and state capital gains tax using imaginary long term capital gains tax brackets and deduction for simplicity. 
 
 Table 1: Imaginary Federal Capital Gains Tax Brackets
 
-| **CG Tax Bracket #1**   | **CG Tax Bracket #2**   | **And so on**  |
-| ----------------------- | ----------------------- | -------------- |
-| **$0 - $40,000**         | **$40,000 - $500,000**   | **Etc.**       |
-| **Taxed at 0%**          | **Taxed at 10%**         | **Etc.**       |
+| **CG Tax Bracket #1** | **CG Tax Bracket #2**  | **And so on** |
+| --------------------- | ---------------------- | ------------- |
+| **$0 - $50,000**      | **$50,000 - $500,000** | **Etc.**      |
+| **Taxed at 0%**       | **Taxed at 10%**       | **Etc.**      |
 
+### Capital Gains Tax Bracket Table
 
-### Capital Gains Tax Bracket Table (Vertical View)
-
-| **Income Range**   | **CG Tax Rate** |
-| ------------------ | --------------- |
-| $0 - $40,000       | 0%              |
-| $40,000 - $500,000 | 10%             |
-| and so on...       | and so on...    |
+| **Income Range**  | **CG Tax Rate** |
+| ----------------- | --------------- |
+| $0 - $50,000      | 0%              |
+| $0,000 - $500,000 | 10%             |
+| and so on...      | and so on...    |
 
 Table 2: Imaginary Federal Capital Gains Tax Owed
 
 - An investor sells shares in taxable brokerage account resulting in $30,000 worth of capital gains and also has $50,000 of ordinary income for the tax year.
 - Calculate the federal capital gains tax owed.
+- The standard deduction falls into the IRS's ordering rules and reduces ordinary income first.
 
 | Ordinary Income | Capital<br>Gains | AGI = (Ordinary Income <br>+ Capital Gains <br>- Theoretical Deductions)      | CG Tax Bracket #1 ($0 to $40000):<br>Tax Owed | CG Tax Bracket #2 ($40,000 to $500,000):<br>Tax Owed | Total Federal CG Tax Owed |
 | --------------- | ---------------- | ----------------------------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------- | ------------------------- |
-| $50,000         | $30,000          | ($50,000 +<br> $30,000) -<br>(theoretical deduction of $15,000) = **$65,000** | $40,000 x 0% = **$0**                     | ($65,000 - $40,000) x 10% = **$2500**                | $0 + $2500 = **$2500**    |
+| $50,000         | $30,000          | ($50,000 +<br> $30,000) -<br>(theoretical deduction of $15,000) = **$65,000** | ($40,000 - $35,000) x 0% = **$0**             | ($65,000 - $40,000) x 10% = **$2500**                | $0 + $2500 = **$2500**    |
 
 Table 3: Imaginary State Capital Gains Tax Brackets
 
-- For the example, the state capital gains tax rates are assumed to be the same as the ordinary income tax rate (which is the most common tax policy among US states).
+- For the example, the state long term capital gains tax rates are assumed to be the same as the ordinary income tax rate.
 
 | **Income Range**     | **Ordinary Income Tax Rate** |
 | -------------------- | ---------------------------- |
@@ -128,16 +131,18 @@ Table 4: Imaginary State Capital Gains Tax Owed
 - [Qualified dividends](https://www.investopedia.com/terms/q/qualifieddividend.asp) are given preferential tax treatment and are taxed at long term capital gains rates rather than ordinary income, but the underlying stock does not have to be held for a year (as would long term capital gains rates to apply to the sale of stock shares), only for the holding period, which is 60 days.
 - [Non-qualified/ordinary dividends](https://www.investopedia.com/terms/o/ordinary-dividends.asp) are taxed as ordinary income.
 - [How Are Qualified and Ordinary Dividends Taxed?](https://www.investopedia.com/articles/taxes/090116/how-are-qualified-and-nonqualified-dividends-taxed.asp) (investopedia.com)
-- See also this forum thread, particularly the post from [unwitting_gulag on Sat Feb 03, 2024 4:03 pm](https://www.bogleheads.org/forum/viewtopic.php?p=7693220#p7693220) to understand the implications of dividends in a taxable account, which emphasizes the significance of dividend earnings that can affect eligibility for other income dependent services or programs (e.g., ACA health plans).
+- See also this forum thread, particularly the post from [unwitting_gulag on Sat Feb 03, 2024 4:03 pm](https://www.bogleheads.org/forum/viewtopic.php?p=7693220#p7693220) to understand the implications of dividends in a taxable account, which emphasizes the significance of dividend earnings that can affect eligibility for other income dependent services or programs (e.g., ACA health plans, social security).
 - See also, [misconceptions about dividend paying stocks](https://www.investopedia.com/articles/investing/082015/3-biggest-misconceptions-dividend-stocks.asp), the [Dividend Irrelevance Theory](https://www.investopedia.com/terms/d/dividendirrelevance.asp)— which effectively proposes that the payout to the investor is actually bad in the long run, since the company is not reinvesting in itself—the opposing argument for well established companies from the short article [The Power of Dividends: You Can't Ignore the Figures](https://finance.yahoo.com/news/power-dividends-cant-ignore-figures-174611045.html), as well as a [discussion on every take](https://www.reddit.com/r/investing/comments/wi3rk6/are_dividend_stocks_ever_worth_it/) from Reddit, where at least the arguments are rated by a audience of investors.
 ### ETFs Versus Mutual Funds
+Tax efficiency, whether the asset is a mutual fund or an ETF, is influenced by how often the fund distributes long-term and short-term capital gains, as well as the type of assets held within the fund. It is important to research a fund’s history, prospectus, and tax statements to understand how frequently distributions occur and how the fund handles capital gains. Funds that distribute fewer dividends and capital gains, and make the most of tax-advantaged strategies (like tax-loss harvesting) are considered more tax-efficient.
+
 - [Tax Efficiency Differences: ETFs vs. Mutual Funds](https://www.investopedia.com/articles/investing/090215/comparing-etfs-vs-mutual-funds-tax-efficiency.asp) (investopedia.com)
 - [Is It Always Bad To Hold Mutual Funds In A Taxable Account?](https://www.reddit.com/r/Bogleheads/comments/pfdohf/is_it_always_bad_to_hold_mutual_funds_in_a/) (r/Bogleheads)
-- Tax efficiency, whether the asset is a mutual fund or an ETF, is influenced by how often the fund distributes long-term and short-term capital gains, as well as the type of assets held within the fund. It is important to research a fund’s history, prospectus, and tax statements to understand how frequently distributions occur and how the fund handles capital gains. Funds that distribute fewer capital gains and make the most of tax-advantaged strategies (like tax-loss harvesting) are considered more tax-efficient.
+
 ## Foreign Tax Credit
-- The US government gives citizens and resident aliens who are required to pay income tax (or a substitute/equivalent of an income tax) to a foreign country or U.S. possession (Puerto Rico, Guam, etc.) the option to [claim a tax credit or itemized deduction](https://www.investopedia.com/terms/f/foreign-tax-credit.asp) when filing taxes.
+The US government gives citizens and resident aliens who are required to pay income tax (or a substitute/equivalent of an income tax) to a foreign country or U.S. possession (Puerto Rico, Guam, etc.) the option to [claim a tax credit or itemized deduction](https://www.investopedia.com/terms/f/foreign-tax-credit.asp) when filing taxes.
 ## Social Security
-Social security is a tax on earned income up to the [wage base limit](https://www.irs.gov/taxtopics/tc751). However, it is not deductible and income tax is also paid on the taxed amount. Moreover, it is partially taxed during retirement, so it is not a very good financial strategy. However, it is mandatory for workers so it is important to understand how to make the most of the available options. See [Accounts -> Types -> Social Security](accounts/types.md#social-security)<!-- #internal_anchor_link --> for how it works.
+Social security is a tax on earned income up to the [wage base limit](https://www.irs.gov/taxtopics/tc751). However, it is not deductible and income tax is also paid on the taxed amount. Moreover, it is partially taxed during retirement, so it is not a very good financial strategy. However, it is mandatory for workers so it is important to understand how to make the most of the options for receiving distributions. See [Accounts -> Types -> Social Security](accounts/types.md#social-security)<!-- #internal_anchor_link --> for how it works.
 ## State Tax
 - [States with the Highest & Lowest Tax Rates](https://wallethub.com/edu/best-worst-states-to-be-a-taxpayer/2416) (wallethub.com)
 - [Who Pays?](https://itep.org/whopays-7th-edition/) (itep.org)

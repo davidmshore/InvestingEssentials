@@ -65,13 +65,15 @@ Include a comparison table that includes columns for primary use, contribution l
 | **Spousal IRA**     | IRA for a non-working or low-income spouse                       | $6,500 ($7,500 if 50+)                             | Funded by the working spouse’s income; same contribution limits as standard IRAs; RMDs begin at age 73.               |
 
 #### Health Savings Account (HSA)
-- [HSAs](https://www.investopedia.com/terms/h/hsa.asp) are similar to traditional IRAs in terms of their tax advantage with a few additional perks. Withdrawals for medical expenses are tax free and may be drawn at any age. Otherwise, withdrawals used for non-medical expenses are taxed as ordinary income and subject to a penalty fee calculated as a percentage of the withdrawn amount. However, after the age of 65 there is no penalty for withdrawals for non-medical expenses, and these withdrawals are still taxed as ordinary income, just like a traditional IRA. Another difference from a traditional IRA, is that **required minimum distributions do not apply to HSAs**.
+- [HSAs](https://www.investopedia.com/terms/h/hsa.asp) are similar to traditional IRAs in terms of their tax advantage with a few additional perks. Withdrawals for medical expenses are tax free and may be drawn at any age. Otherwise, withdrawals used for non-medical expenses are taxed as ordinary income and subject to a penalty fee calculated as a percentage of the withdrawn amount. However, after age 65 there is no penalty for withdrawals for non-medical expenses, and these withdrawals are taxed as ordinary income, just like a traditional IRA. Another difference from a traditional IRA, is that **required minimum distributions do not apply to HSAs**.
 - Younger, healthy individuals can take advantage of generally lower medical expenses and the **triple tax advantage of tax free contributions, growth and withdrawals for qualified medical expenses**.
-- Reimbursement rules for qualified medical expenses allow for the account holder to pay for medical expenses out of pocket and reimburse themselves at any point in the future, e.g., after the account has had time to compound and increase in value. Keep medical bills for future reimbursement. Reimbursements are allowed for medical expenses incurred after opening the HSA.
-- There are caveats to opening and contributing to an HSA, like having a High Deductible Health Plan (HDHP). These plans have higher annual deductibles (minimum four figure dollar amounts for singles). The trade-off is that the monthly premiums for young people is often relatively cheap, so the extra money that would normally go toward paying higher premiums can be invested into an HSA to compound for future expenses. The account value at any point in time of an HSA will depend on the assets the investor chooses to purchase, similar to a retirement or brokerage account.
+- Reimbursement rules for qualified medical expenses allow for the account holder to pay for medical expenses out of pocket and reimburse themselves at any point in the future, e.g., after the account has had time to compound and increase in value. Keep medical bills for future reimbursement. **Reimbursements are only allowed for medical expenses incurred after opening the HSA**.
+- There are caveats to opening and contributing to an HSA, like having a High Deductible Health Plan (HDHP). These plans have higher annual deductibles (minimum four figure dollar amounts for singles). The trade-off is that the monthly premiums for young people is often relatively cheap, so the extra money that would normally go toward paying higher premiums can be invested into an HSA to compound for future expenses. The account value of an HSA at any point in time will depend on the assets the investor chooses to purchase, similar to a retirement or brokerage account.
 	- [Understanding HSA-eligible plans](https://www.healthcare.gov/high-deductible-health-plan/setting-up-hsa/) (healthcare.gov)
 	- The Motley Fool provides a summary of [HSA-Eligible Expenses](https://www.fool.com/retirement/plans/hsa/eligible-expenses/). IRS [Publication 969, Health Savings Accounts and Other Tax-Favored Health Plans](https://www.irs.gov/forms-pubs/about-publication-969) -> Distributions From an HSA states:
 >Qualified medical expenses are those expenses that would generally qualify for the medical and dental expenses deduction. These are explained in [Pub. 502, Medical and Dental Expenses](https://www.irs.gov/forms-pubs/about-publication-502).
+
+- For a walkthrough HSA strategy, see [HSA – The Ultimate Retirement Account](https://www.madfientist.com/ultimate-retirement-account/) from Mad Fientist.
 
 **Table created by ChatGPT.**
 <!-- 
@@ -144,7 +146,7 @@ Include their primary use, contribution limits for the current year, key feature
 #### Social Security
 
 - Assuming it will still a viable system in the future and functioning similar to its current payout scheme, it is important to understand [how the system works](https://www.bogleheads.org/wiki/Social_Security).
-- Social Security offers better benefits for waiting longer to begin receiving payouts.
+- Social Security offers more income for waiting longer to begin receiving payouts, but this does not always mean a better [return on investment](https://www.gocurrycracker.com/social-security-roi/) which is why some may want to take social security as [early as possible](https://www.gocurrycracker.com/why-i-plan-to-collect-social-security-as-early-as-possible/) especially if unavoidable retirement income may cause social security income to be [taxed](https://www.gocurrycracker.com/social-security-tax-torpedo/) (again) later. 
 
 **Table created by ChatGPT.** 
 <!--
@@ -181,8 +183,8 @@ Please provide an overview of the Social Security rules for the current year inc
 | **Withdrawal of Application**               | - If you change your mind after applying for Social Security, you can **withdraw your application** within **12 months** of starting benefits. <br> - You’ll need to **pay back** the benefits you’ve received, but can then **reapply** later for a higher benefit.                                                                                                                                                                                                                                                                                                                                          |
 | **Reinstating Benefits After Stopping**     | - If you suspend Social Security after reaching FRA (e.g., to earn delayed retirement credits), you can reinstate it **later**, and your benefit will be **higher**.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-### Summary of Personal Accounts
-**Table and key takeaways provided by ChatGPT.**
+### Summary of Account Types
+**Table and key differences provided by ChatGPT.**
 <!--
 **Update this table annually or as needed if rules change.**
 **Prompt**
@@ -202,7 +204,7 @@ Please provide an overview of pre-tax and post-tax retirement accounts for the c
     - **Pre-Tax Accounts** (e.g., Traditional IRA, 401(k), HSA)
     - **Post-Tax Accounts** (e.g., Roth IRA, Roth 401(k), Taxable Brokerage Accounts)
 - Keep the information concise, using bullet points where applicable.
-- After the table, provide **key takeaways** summarizing the main points from the table in a bulleted format, and include taxable brokerage accounts here too.
+- After the table, provide **key differences** summarizing the main points from the table in a bulleted format, and include taxable brokerage accounts here too.
 Please provide the table in markdown.
 -->
 
@@ -227,16 +229,16 @@ Please provide the table in markdown.
 |                                           | - **HSA**: Contributions are **tax-deductible**, and withdrawals for medical expenses are **tax-free**.                   | - **HSA**: Offers the unique benefit of being used **tax-free** for medical expenses, and tax-free for other purposes after age 65. |
 |                                           | - **Traditional 401(k)**: Employer matching contributions are also pre-tax.                                               |                                                                                                                                     |
 
-#### Key Takeaways
+#### Key Differences
 - **Pre-tax accounts** (e.g., Traditional IRA, 401(k)) provide **immediate tax benefits** through deductions at the time of contribution, but withdrawals are taxed as ordinary income.
 - **Post-tax accounts** (e.g., Roth IRA, Roth 401(k)) do not provide a tax deduction at the time of contribution but offer **tax-free withdrawals** if conditions are met (e.g., 59½ and 5-year holding period for Roth IRAs).
 - **HSAs** are unique in that they provide **tax-free contributions, growth, and withdrawals** for qualified medical expenses, and offer additional flexibility for post-retirement use for non-medical expenses after age 65.
 - **Taxable Brokerage Accounts** do not provide any immediate tax benefits or tax-deferred growth. Contributions are made with after-tax dollars, and earnings are taxed at **capital gains rates** when assets are sold. There are **no withdrawal restrictions or age-related penalties**, but long-term gains may be taxed at a lower rate than short-term gains.
 
 ## Custodial Accounts for Minors
- Regarding children, there are multiple investment [options](https://www.moneycrashers.com/financial-accounts-open-child/) that parents/guardians may want to consider for their child before an IRA, such as a 529, UGMA, or UTMA. Still, considering there are currently no direct rollovers from these accounts to retirement accounts without taxes or penalties, opening a custodial retirement account for a child and teaching them the concepts of compounding may encourage investing habits and provide a great start for retirement.
+ Regarding children, there are multiple investment [options](https://www.moneycrashers.com/financial-accounts-open-child/) that parents/guardians may want to consider for their child before an IRA, such as a 529, UGMA, or UTMA. Still, considering there are currently no direct rollovers from these accounts to retirement accounts without taxes, penalties, or severe limitations, opening a custodial retirement account for a child and teaching them the concepts of compounding may encourage investing habits and provide a great start for their retirement.
 
-- See also [Contributing to Another Person's Account](../investing/contributions.md#contributing-to-another-person's-account)<!-- #internal_anchor_link -->.
+- See also [Contributing to Another Person's Account](../investing/contributions.md#contributing-to-another-persons-account)<!-- #internal_anchor_link -->.
 - See also [Contribution & Deductibility Summaries](../accounts/contribution-and-deductibility-summaries.md)<!-- #internal_link -->.
 
 <!-- 

@@ -51,7 +51,7 @@ theme:
         name: Switch to system preference
 
 # Dev server binding
-dev_addr: 0.0.0.0:8000
+# dev_addr: 0.0.0.0:8000
 
 #hooks: # The hook module will not be reloaded on each build running mkdocs serve.
  # - plugins\auto_copyright.py

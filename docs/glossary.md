@@ -67,16 +67,19 @@ Some common terms are listed below.
 ### Tax Efficient
 - Tax efficient is a term used to describe investments that do not trigger taxable events, or do not trigger them very often, and come with the lowest possible tax bill when taxable events do occur. Investment into a fund that does not buy and sell the securities contained within it as often as another fund would be the tax efficient choice between the two funds, because selling securities for capital gain triggers a taxable event with capital gains tax being owed. ETFs are more tax efficient than mutual funds due to their in-kind redemption. Likewise, selling investments after the long term capital gains tax holding period is more tax efficient than selling them sooner and incurring short term capital gains tax. The term tax efficient account simply means a taxable account that an investor has filled with tax efficient investments. 
 ### Tax-Loss Harvesting
-- Tax-loss harvesting is the selling of securities at a loss to offset the amount of capital gains tax owed from selling profitable assets for a given tax year. For investors with more capital loss than is allowed for deduction in the current year, carryover is indefinite and deductions are always above-the-line.
+- Tax-loss harvesting is the selling of securities at a loss to offset the amount of capital gains tax owed from selling profitable assets or lower ordinary income for a given tax year. For investors with more capital loss than is allowed for deduction in the current year, carryover is indefinite and deductions are always above-the-line.
+- Although somewhat counterintuitive, selling for a loss and repurchasing at the same (or about the same price) and subsequently investing tax savings *results in more investment income* and a higher investment return later on.
 - [Investopedia](https://www.investopedia.com/articles/taxes/08/tax-loss-harvesting.asp) provides a thorough explanation and breakdown of use cases.
-### Required Minimum Distributions (RMDs)
+### Wash Sale
+- A wash sale is a transaction in which an investor sells or trades a security at a loss and purchases “a substantially similar one” 30 days before or 30 days after the sale. The IRS enacted the wash sale rule which prevents investors from selling a security for a capital loss just to take advantage of the deduction for tax filing and immediately repurchase it. The pre-purchase/repurchase of a substantially similar security must occur outside of this 60-day window for the loss to be claimed.
+## Required Minimum Distributions (RMDs)
 - See a linked [definition](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) since the rules may change.
 	- The calculation is: **(IRA balance at the end of the previous year) / (RMD factor)**
 		- The RMD factor is found in a [table](https://smartasset.com/retirement/rmd-table) and is based on a retirees age at the end of the previous year. A [calculator](https://smartasset.com/retirement/calculate-rmd) is also available and also linked in Resources.
 	- There is a large fiscal penalty for not withdrawing a RMD.
 	- It is important to understand that compounded growth of a high value account will 
 	- RMDs do not apply to Roth accounts.
-### Security
+## Security
 - A tradeable financial asset: equities (stocks), debt (bonds), derivatives, etc. 
 ## Additional Glossaries
 - See also:
