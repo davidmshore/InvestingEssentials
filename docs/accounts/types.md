@@ -9,7 +9,7 @@ date modified: 2024-11-11 15:45
 ---
 ## Retirement and Supplemental Accounts
 ### Pre-Tax / Tax-Deferred / Traditional
-**Table created by ChatGPT.**
+**Table created by ChatGPT (values per dates may be outdated)**
 <!-- 
 Update this table annually or as needed if rules change. - Copy and paste the table into a GPT and give instruction to "provide the same table with the details updated to the current year". 
 **Prompt** 
@@ -38,7 +38,7 @@ Include their primary use, contribution limits for the current year, key feature
 | **HSA**                                              | Medical Expenses / Retirement                                              | See section on Health Savings Account below                     | See section on Health Savings Account below.                                                                                                        |
 
 #### IRAs
-**Table created by ChatGPT.**
+**Table created by ChatGPT (values per dates may be outdated)**
 <!-- 
 **Update this table annually or as needed if rules change.**
 **Prompt**
@@ -75,7 +75,7 @@ Include a comparison table that includes columns for primary use, contribution l
 
 - For a walkthrough HSA strategy, see [HSA – The Ultimate Retirement Account](https://www.madfientist.com/ultimate-retirement-account/) from Mad Fientist.
 
-**Table created by ChatGPT.**
+**Table created by ChatGPT (values per dates may be outdated)**
 <!-- 
 **Update this table annually or as needed if rules change.**
 **Prompt**
@@ -112,7 +112,7 @@ Please provide an overview of the HSA rules for the current year including the f
 | **Reimbursements**                | - **Reimbursing yourself for out-of-pocket expenses**: If you pay for qualified medical expenses with personal funds (e.g., credit card, cash, check), you can reimburse yourself later from your HSA.<br> - **Timing of reimbursements**: You can reimburse yourself at any time for eligible expenses, as long as they were incurred after the HSA was established. You do not have to reimburse yourself in the same year the expense occurred, meaning you could pay out-of-pocket now and reimburse yourself years later (tax-free and penalty-free as long as the expense is qualified).<br> - **Keep records**: It's essential to keep records (receipts, invoices) of the expenses for tax purposes and to ensure that you are reimbursing only for qualified medical expenses.<br> - **Reimbursement flexibility**: You can use your HSA to reimburse for medical expenses incurred by yourself, your spouse, or your dependents (even if they're not covered under your HDHP).                                                   |
 
 ### Post-Tax
-**Table created by ChatGPT.**
+**Table created by ChatGPT (values per dates may be outdated)**
 <!--
 Update this table annually or as needed if rules change. - Copy and paste the table into a GPT and give instruction to "provide the same table updated for the current year". 
 **Prompt**
@@ -148,7 +148,7 @@ Include their primary use, contribution limits for the current year, key feature
 - Assuming it will still a viable system in the future and functioning similar to its current payout scheme, it is important to understand [how the system works](https://www.bogleheads.org/wiki/Social_Security).
 - Social Security offers more income for waiting longer to begin receiving payouts, but this does not always mean a better [return on investment](https://www.gocurrycracker.com/social-security-roi/) which is why some may want to take social security as [early as possible](https://www.gocurrycracker.com/why-i-plan-to-collect-social-security-as-early-as-possible/) especially if unavoidable retirement income may cause social security income to be [taxed](https://www.gocurrycracker.com/social-security-tax-torpedo/) (again) later. 
 
-**Table created by ChatGPT.** 
+**Table created by ChatGPT (values per dates may be outdated)** 
 <!--
 **Update this table annually or as needed if rules change.**
 **Prompt**
@@ -184,7 +184,7 @@ Please provide an overview of the Social Security rules for the current year inc
 | **Reinstating Benefits After Stopping**     | - If you suspend Social Security after reaching FRA (e.g., to earn delayed retirement credits), you can reinstate it **later**, and your benefit will be **higher**.                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ### Summary of Account Types
-**Table and key differences provided by ChatGPT.**
+**Table and key differences provided by ChatGPT (values per dates may be outdated)**
 <!--
 **Update this table annually or as needed if rules change.**
 **Prompt**

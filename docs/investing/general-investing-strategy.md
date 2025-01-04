@@ -34,6 +34,11 @@ To understand the significance of an expense ratio and commissions taken as a pe
 	- Page 115 (PDF page 142) of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) gives an example of how easily unnecessary costs can get out of hand.
 
 See the [Guinea Pig Experiment](https://www.madfientist.com/guinea-pig-experiment/) for a early retiree scenario.
+## How Much Do I Need to Retire?
+- [What Is the 4% Rule for Withdrawals in Retirement?](https://www.investopedia.com/terms/f/four-percent-rule.asp) (investopedia.com)
+- [The Worst Retirement Ever](https://www.gocurrycracker.com/the-worst-retirement-ever/) (gocurrycracker.com)
+- There are retirement calculators aplenty, but it might be best to get familiar with building your own using a spreadsheet or becoming familiar with one of the community provided ones. LibreOffice Calc is free and Microsoft users might already have access to Excel. Links to [online calculators](../resources/tools.md#net-worth-distribution-estimators)<!-- #internal_anchor_link --> and [prebuilt spreadsheets](../resources/tools.md#more-calculators-and-budgeting-tools)<!-- #internal_anchor_link --> are available in Resources.
 ## Staying Patient
 - [For those that started investing in their 20s, how did you all maintain discipline and focus throughout the next few decades?](https://www.reddit.com/r/Bogleheads/comments/172lqtp/for_those_that_started_investing_in_their_20s_how/) (r/Bogleheads)
 - Follow an [investment policy statement](https://www.bogleheads.org/wiki/Investment_policy_statement). (bogleheads.org)
+

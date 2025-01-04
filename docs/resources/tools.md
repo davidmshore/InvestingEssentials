@@ -41,7 +41,7 @@ date modified: 2024-11-11 15:45
 - IRA conversion calculators to help decide on when and how much to convert for a given year:
 	- [bankrate.com](https://www.bankrate.com/retirement/convert-ira-roth-calculator/)
 	- [vanguard.com](https://advisors.vanguard.com/tax-center/tools/roth-betr-calculator/#/)
-#### Retirement Calculators
+#### Net Worth & Distribution Estimators
 - [NerdWallet - How Long Will My Retirement Savings Last](https://www.nerdwallet.com/article/investing/social-security/how-long-will-your-retirement-savings-last)
 - Use more than one tools for planning and validation.
 - [**cFIRESim**](https://www.cfiresim.com/)
@@ -64,7 +64,7 @@ date modified: 2024-11-11 15:45
 - Spreadsheet calculation
 	- [Retirement calculator that is actually good?](https://www.reddit.com/r/personalfinance/comments/x2i5sh/retirement_calculator_that_is_actually_good/) (r/personalfinance)
 	- See also the [r/personalfinance Wiki -> Tools](https://www.reddit.com/r/personalfinance/wiki/tools/).
-- If any of these calculators ever stop working, most of the subreddits mentioned under forums on the main resources page include links to recommended tools in their sidebars.
+- If any of these calculators become unavailable, most of the subreddits listed the main resources page include links to currently available tools in their sidebars.
 #### 401(k) Maximizer Calculator
 - [CalcXML](https://www.calcxml.com/do/qua09)
 - [HSA & 401(k) Maximizer](https://hsastore.com/hsa-401k-maximizer)

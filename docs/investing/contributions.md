@@ -38,6 +38,7 @@ date modified: 2024-11-11 15:45
 	 - The maximum allowed contribution for the IRA.
  - Total contributions to a child's account are capped at what the accountholder (child) has earned for the year or the maximum contribution for the IRA.
 	 - For example, a child who earns $1000 reported income over the summer is eligible to receive a total of $1000 in contributions to their IRA account and is not required to invest any of their own earned income. The key here is earned income amount reported on a tax return (wages, self-employment income, etc.); investment income (e.g., stock dividends or interest) does not count.
+	 - Web search: [`hire your child fund ira`](https://www.google.com/search?sca_esv=16785a0985ba4fc4&q=hire+your+child+fund+ira&spell=1&sa=X&ved=2ahUKEwjRlpmj7tiKAxUCDTQIHRvcCvEQBSgAegQIDxAB&biw=1920&bih=1027)
  - A child or spouse can make direct contributions of money gifted to them from individuals other than a parent or spouse per the previously mentioned rules and limits.
  - An IRA is always opened in the name of the future retiree.
  - See [comparison tables](../accounts/types.md)<!-- #internal_link --> of other custodial account types and the [summary tables](../accounts/contribution-and-deductibility-summaries.md)<!-- #internal_link --> for a summarized list of all categorical account types, deduction rules, and cutoff dates.

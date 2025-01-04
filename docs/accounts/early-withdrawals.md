@@ -16,7 +16,7 @@ date modified: 2024-11-11 15:45
 ## 72(t) Substantially Equal Periodic Payments
 - For early retirees, one of the options the IRS allows for withdrawals from retirement accounts without penalty falls under [72(t)](https://www.investopedia.com/terms/r/rule72t.asp) rules summarized in the table below.
 
-**Table created by ChatGPT** 
+**Table created by ChatGPT (values per dates may be outdated)** 
 <!--
 **Prompt**
 Please provide an overview of the key details of Substantially Equal Periodic Payments (SEPP), an IRS exception that allows individuals to access retirement funds early without incurring the usual 10% early withdrawal penalty for the current year including the following in a table:

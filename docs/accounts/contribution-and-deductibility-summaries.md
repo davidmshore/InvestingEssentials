@@ -8,7 +8,7 @@ date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
 ## Contribution Combinations & Rules
-**Table created by ChatGPT**
+**Table created by ChatGPT (values per dates may be outdated)**
 <!--
 **Prompt**
 "Please provide an overview of the contribution combination rules for all types of pre-tax and post-tax investment accounts, including the following:
@@ -57,7 +57,7 @@ Please include the contribution limits (and if it falls under lifetime gift rule
 | **Coverdell ESA**                | $2,000 per beneficiary                                            | Contributions to a Coverdell ESA do not count toward IRA limits. This is a tax-advantaged account for education expenses. Deadline: April 15, 2025.                                                                                                                                      |
 
 ## Contribution Deductibility Table
-**Table created by ChatGPT** 
+**Table created by ChatGPT (values per dates may be outdated)** 
 <!--
 **Prompt**
 Please provide an overview of pre-tax and post-tax contribution deduction rules for the current year including the following in a table:
