@@ -248,7 +248,7 @@ Please provide the table in markdown.
 ## Custodial Accounts for Minors
  Regarding children, there are multiple investment [options](https://www.moneycrashers.com/financial-accounts-open-child/) that parents/guardians may want to consider for their child before an IRA, such as a 529, UGMA, or UTMA. Still, considering there are currently no direct rollovers from these accounts to retirement accounts without taxes, penalties, or severe limitations, opening a custodial retirement account for a child and teaching them the concepts of compounding may encourage investing habits and provide a great start for their retirement.
 
-- See also [Contributing to Another Person's Account](../investing/contributions.md#contributing%20to%20another%20persons%20account)<!-- #internal_anchor_link -->.
+- See also [Contributing to Another Person's Account](../investing/contributions.md#contributing-to-another-persons-account)<!-- #internal_anchor_link -->.
 - See also [Contribution & Deductibility Summaries](../accounts/contribution-and-deductibility-summaries.md)<!-- #internal_link -->.
 
 <!-- 

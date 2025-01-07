@@ -76,7 +76,7 @@ The following will focus on the basics of taxing gains on financial securities s
 
 - Pre-tax retirement account and HSA investment gains are not taxed as capital gains, and are instead taxed like ordinary income upon withdrawal.
 
-Capital gains are taxed at either [short term or long term rates](https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp), i.e. capital invested for a year or less or capital invested for longer than a year, with longer investments given more favorable rates. Federal and state tax rates apply. Tax rates vary by state, with the most common convention being both short and long term capital gains taxed as ordinary income. See link to [rates](resources/main.md#rates%20yields)<!-- #internal_anchor_link --> in Resources.
+Capital gains are taxed at either [short term or long term rates](https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp), i.e. capital invested for a year or less or capital invested for longer than a year, with longer investments given more favorable rates. Federal and state tax rates apply. Tax rates vary by state, with the most common convention being both short and long term capital gains taxed as ordinary income. See link to [rates](resources/main.md#rates-yields)<!-- #internal_anchor_link --> in Resources.
 #### Calculation
 Capital gains (CG) tax rates are determined by adjusted gross income (AGI).
 
@@ -146,7 +146,7 @@ Tax efficiency, whether the asset is a mutual fund or an ETF, is influenced by h
 ## Foreign Tax Credit
 The US government gives citizens and resident aliens who are required to pay income tax (or a substitute/equivalent of an income tax) to a foreign country or U.S. possession (Puerto Rico, Guam, etc.) the option to [claim a tax credit or itemized deduction](https://www.investopedia.com/terms/f/foreign-tax-credit.asp) when filing taxes.
 ## Social Security
-Social security is a tax on earned income up to the [wage base limit](https://www.irs.gov/taxtopics/tc751). However, it is not deductible and income tax is also paid on the taxed amount. Moreover, it is partially taxed during retirement, so it is not a very good financial strategy. However, it is mandatory for workers so it is important to understand how to make the most of the options for receiving distributions. See [Accounts -> Types -> Social Security](accounts/types.md#social%20security)<!-- #internal_anchor_link --> for how it works.
+Social security is a tax on earned income up to the [wage base limit](https://www.irs.gov/taxtopics/tc751). However, it is not deductible and income tax is also paid on the taxed amount. Moreover, it is partially taxed during retirement, so it is not a very good financial strategy. However, it is mandatory for workers so it is important to understand how to make the most of the options for receiving distributions. See [Accounts -> Types -> Social Security](accounts/types.md#social-security)<!-- #internal_anchor_link --> for how it works.
 ## State Tax
 - [States with the Highest & Lowest Tax Rates](https://wallethub.com/edu/best-worst-states-to-be-a-taxpayer/2416) (wallethub.com)
 - [Who Pays?](https://itep.org/whopays-7th-edition/) (itep.org)

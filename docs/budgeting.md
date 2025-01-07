@@ -26,6 +26,6 @@ One of the best habits to learn early on is to invest pay raises. This accomplis
 
 Lastly, an opinion on budgeting methods. Nothing is simpler than not paying for things you do not need. Building wealth is not solely about wage or salary levels, but rather what kind of payback do investments provide after spending the purchasing capital (money, tradeable assets, time, etc.). Everyone needs food, but what is the most time and cost efficient way to stay fed? It may surprise some people that meal prepping at home can be comparatively time efficient to picking up premade meals when comparing over a longer timeframe. As long as there is adequate storage space for ingredients, meals and leftovers to reduce trips to the grocery store, and especially when a machine can do most of the cleaning. Do you need internet? Yes, but do you invest more time using the internet in ways that provide a negative return on investment? Sometimes investing more time than is necessary into something can be beneficial too, like riding a bicycle to run errands within reasonable distance, which pays personal health returns. Be diligent to stay on the lookout for ways to not only spend less money, but how to better invest the most valuable resource, time.
 
-See also [Budgeting Apps](resources/tools.md#budgeting%20apps)<!-- #internal_anchor_link -->.
+See also [Budgeting Apps](resources/tools.md#budgeting-apps)<!-- #internal_anchor_link -->.
 
 
