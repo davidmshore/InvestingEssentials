@@ -1,0 +1,41 @@
+:root {
+  --md-admonition-icon--ai-table: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M3 3h18v18H3V3zm2 2v3h3V5H5zm5 0v3h3V5h-3zm5 0v3h3V5h-3zm-10 5v3h3v-3H5zm5 0v3h3v-3h-3zm5 0v3h3v-3h-3zm-10 5v3h3v-3H5zm5 0v3h3v-3h-3zm5 0v3h3v-3h-3z"/></svg>')
+}
+
+/* Light mode styles */
+.md-typeset .admonition.ai-table,
+.md-typeset details.ai-table {
+  border-color: rgb(60, 80, 90);
+  background-color: rgb(255, 255, 255); /* Light gray for note area */
+}
+
+.md-typeset .ai-table > .admonition-title,
+.md-typeset .ai-table > summary {
+  background-color: rgb(220, 230, 235); /* Slightly darker than the note area */
+  color: rgb(60, 80, 90);
+}
+
+.md-typeset .ai-table > .admonition-title::before,
+.md-typeset .ai-table > summary::before {
+  background-color: rgb(60, 80, 90);
+  -webkit-mask-image: var(--md-admonition-icon--ai-table);
+          mask-image: var(--md-admonition-icon--ai-table);
+}
+
+/* Dark mode styles */
+[data-md-color-scheme="slate"] .md-typeset .admonition.ai-table,
+[data-md-color-scheme="slate"] .md-typeset details.ai-table {
+  border-color: rgb(100, 110, 120); /* Darker border color */
+  background-color: rgb(0, 0, 0); /* Light mode title background color */
+}
+
+[data-md-color-scheme="slate"] .md-typeset .ai-table > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .ai-table > summary {
+  background-color: rgb(0, 0, 0); /* Black background for title box */
+  color: rgb(185, 188, 195);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .ai-table > .admonition-title::before,
+[data-md-color-scheme="slate"] .md-typeset .ai-table > summary::before {
+  background-color: rgb(185, 188, 195);
+}

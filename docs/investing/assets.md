@@ -47,15 +47,17 @@ date modified: 2024-11-11 15:45
 - Investors should be aware of how certain bond interest is affected by other sources of income such as Social Security, as in the case of [municipal bonds](https://www.investopedia.com/articles/investing-strategy/090116/think-twice-buying-taxfree-municipal-bonds.asp). See [Taxes -> Bonds](../taxes.md#bonds)<!-- #internal_link --> for a summary of bond taxation rules.
 - Bonds are an annual tax consideration when held in taxable accounts.
 ### Key Differences Between Early Withdrawal from a CD vs. Selling a Bond Early
-**Table created by ChatGPT**
 
 | **Factor**              | **CD Early Withdrawal**                                                                                                                                                                               | **Bond Sale Before Maturity**                                                                                                                                                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Penalty/Cost**        | Early withdrawal usually results in a **penalty**. The penalty is typically the **forfeiture of interest** earned, and in some cases, even part of the principal (especially for long-term CDs).      | When selling a bond early, there is no **fixed penalty**. Instead, the bond may be sold for more or less than the purchase price, resulting in a **capital gain** or **capital loss**, depending on market conditions.                                                |
-| **Effect on Principal** | In most cases, **the principal is not at risk**, but the **interest earned could be forfeited**, and in some cases (like long-term CDs), part of the principal might be taken as part of the penalty. | The **principal can fluctuate**, depending on whether the bond is sold at a premium (above par value) or at a discount (below par value). You could receive more or less than your original investment based on interest rates and market conditions.                 |
+| **Penalty/Cost**        | Early withdrawal usually results in a **penalty**. The penalty is typically the **forfeiture of interest** earned, and in some cases, even part of the principal (especially for long-term CDs, though this is rare).      | When selling a bond early, there is no **fixed penalty**. Instead, the bond may be sold for more or less than the purchase price, resulting in a **capital gain** or **capital loss**, depending on market conditions.                                                |
+| **Effect on Principal** | In most cases, **the principal is not at risk**, but the **interest earned could be forfeited**, and in some rare cases (like long-term CDs), part of the principal might be taken as part of the penalty. | The **principal can fluctuate**, depending on whether the bond is sold at a premium (above par value) or at a discount (below par value). You could receive more or less than your original investment based on interest rates and market conditions.                 |
 | **Liquidity**           | **Low liquidity** because the CD is locked in for the term of the investment. Early withdrawal is subject to penalties, and not all banks may allow for early withdrawal without penalty.             | **High liquidity** because bonds can be sold at any time in the secondary market. However, the market price will depend on factors such as interest rates and the creditworthiness of the issuer.                                                                     |
 | **Market Impact**       | There is **no market risk** with a CD since the interest rate and penalty are fixed by the bank. The penalty is pre-defined.                                                                          | The market price of a bond **fluctuates** based on factors like **interest rates** and the bond’s **credit risk**. If rates rise or the bond issuer’s credit deteriorates, the bond’s price could drop, leading to a potential loss when sold early.                  |
-| **Taxes**               | **Interest** earned on a CD is taxed as **ordinary income**. Early withdrawal does not affect the tax treatment, except for the forfeiture of interest, which would reduce the taxable amount.        | Interest from a bond is taxed as **ordinary income**. However, if the bond is sold for a **capital gain**, that gain will be taxed either as **short-term** or **long-term** capital gains, depending on how long the bond was held. Capital losses can offset gains. |
+| **Taxes**               | **Interest** earned on a CD is taxed as **ordinary income**. Early withdrawal does not affect the tax treatment, except for the forfeiture of interest, which would reduce the taxable amount.        | Interest from a bond is taxed as **ordinary income**. However, if the bond is sold for a **capital gain**, that gain will be taxed either as **short-term** or **long-term** capital gains, depending on how long the bond was held. Capital losses can offset gains. Also, note that municipal bond interest is often exempt from federal taxes, and sometimes state and local taxes. |
+
+<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot."
+<br>
 
 ## Equities
 - Shares of ownership of a publicly traded company, i.e. public stocks. Stock gains are taxed at capital gains rates, and losses may be deducted up to a certain amount each year with carryover allowed into future tax years. Some equities pay dividends, i.e., company profits shared with shareholders while an investor owns the stock. Investors can direct their broker to automatically reinvest dividends by purchasing additional shares. Like bonds, dividend paying stocks are a tax consideration when held in a taxable account. 
@@ -73,27 +75,26 @@ date modified: 2024-11-11 15:45
 - Similar to ETFs, mutual funds can be actively or passively managed. The turnover rate may be similar to active and passive ETFs, but turnover in mutual funds generally triggers a taxable event, which can lead to tax drag when held in a taxable brokerage account. Interest and dividends from assets held in taxable accounts are taxed the same as for ETFs.
 - Some mutual funds may be proprietary to the broker, but these can often be purchased through other brokers as well. Pay attention for higher transaction fees when purchasing funds this way or when moving funds from one broker to another. 
 ## Comparison of ETFs and Mutual Funds
-**Table created by ChatGPT**
 <!--
 **Prompt**
-Please provide an overview of a comparison between **ETFs (Exchange-Traded Funds)** and **Mutual Funds** for the current year including the following in a table:
-    - **Feature**
-    - **ETFs (Exchange-Traded Funds)**
-    - **Mutual Funds**
-- For each row, list the **pros** and **cons** associated with ETFs and Mutual Funds regarding the following features:
-    - **Trading Flexibility**
-    - **Minimum Investment**
-    - **Fees**
-    - **Tax Efficiency**
-    - **Liquidity**
-    - **Trading Costs**
-    - **Investment Strategy**
-    - **Dividends**
-    - **Ease of Use**
-    - **Management Style**
-    - **Flexibility in Trading**
-    - **Transparency**
-    - **Automation**
+Please provide an overview of a comparison between ETFs (Exchange-Traded Funds) and mutual funds for the current year including the following in a table:
+    - Feature
+    - ETFs (Exchange-Traded Funds)
+    - Mutual Funds
+- For each row, list the pros and cons associated with ETFs and Mutual Funds regarding the following features:
+    - Trading Flexibility
+    - Minimum Investment
+    - Fees
+    - Tax Efficiency
+    - Liquidity
+    - Trading Costs
+    - Investment Strategy
+    - Dividends
+    - Ease of Use
+    - Management Style
+    - Flexibility in Trading
+    - Transparency
+    - Automation
 Please provide the table in markdown.
 -->
 These differences are subject to change and may already be negligible for some features depending on the broker, such as automatic reinvesting, so compare the costs and conveniences between brokers. Also, the pros and cons for passively managed ETFs and mutual funds for the average investor are generally closer than they seem at first glance as presented in the table.
@@ -105,7 +106,7 @@ These differences are subject to change and may already be negligible for some f
 | **Fees**                   | **Pros**: Generally lower expense ratios than mutual funds, especially for passive ETFs.            | **Cons**: Typically higher fees than ETFs, especially for actively managed funds.                                       |
 | **Tax Efficiency**         | **Pros**: More tax-efficient due to in-kind transactions, reducing capital gains distributions.     | **Cons**: Less tax-efficient; mutual funds may distribute capital gains to investors annually.                          |
 | **Liquidity**              | **Pros**: Highly liquid; can be bought or sold throughout the day at market prices.                 | **Cons**: Less liquid; only bought/sold at the NAV, once per day.                                                       |
-| **Trading Costs**          | **Cons**: May incur commission fees for buying and selling (though many brokers offer free trades). | **Cons**: Transaction costs may include front-end loads, back-end loads, or redemption fees.                            |
+| **Trading Costs**          | **Pros**: Many brokers offer free trades. Cons: May incur commission fees for buying and selling.   | **Cons**: Transaction costs may include front-end loads, back-end loads, or redemption fees.                            |
 | **Investment Strategy**    | **Pros**: Passive management is common (track indices), with a long-term, low-cost strategy.        | **Pros**: Both passive (index) and active management are available, so you can choose.                                  |
 | **Dividends**              | **Pros**: Dividends are paid to shareholders and can be reinvested or withdrawn.                    | **Pros**: Dividends can be automatically reinvested, often without fees.                                                |
 | **Ease of Use**            | **Cons**: Can be more complicated for beginners due to real-time trading and bid/ask spreads.       | **Pros**: Easier for beginners to use, with set-and-forget options like automatic investment and dividend reinvestment. |
@@ -113,6 +114,9 @@ These differences are subject to change and may already be negligible for some f
 | **Flexibility in Trading** | **Pros**: Can be traded on margin and short-sold.                                                   | **Cons**: Cannot be traded on margin or short-sold.                                                                     |
 | **Transparency**           | **Pros**: Most ETFs disclose holdings daily, providing clear transparency.                          | **Cons**: Mutual funds typically disclose holdings less frequently, usually quarterly.                                  |
 | **Automation**             | **Cons**: Lack of built-in automation; investors need to place buy/sell orders.                     | **Pros**: Many mutual funds offer automatic investment and reinvestment options (e.g., through retirement accounts).    |
+
+<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot." 
+<br>
 
 ### Summary of Key Pros and Cons
 

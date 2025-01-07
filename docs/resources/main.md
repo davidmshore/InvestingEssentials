@@ -171,7 +171,7 @@ Every asset is an opportunity for wise investing.
 	- For corporate bonds, use a brokerage firm's bond lookup tool to narrow the results to the desired criteria.
 ## Comprehensive Resources
 - [The Balance](https://www.thebalancemoney.com/)
-- [ChatGPT](https://chatgpt.com/) - good for overviews, starting on a new topic, or a finding a quick answer to a basic question. Confirm answers before making investment decisions.
+- [Bing Copilot](https://copilot.microsoft.com/) or [Perplexity AI](https://www.perplexity.ai/) for overviews, starting on a new topic, or a finding a quick answer to a basic question. Confirm answers before making investment decisions.
 - [Clark Howard](https://clark.com/)
 - [Investopedia](https://www.investopedia.com/)
 - [Nerd Wallet](https://www.nerdwallet.com/?trk=nw_gn_6.0)

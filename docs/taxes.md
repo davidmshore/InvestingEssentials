@@ -25,22 +25,23 @@ Bonds can be taxed in two ways:
 - Interest is taxed as ordinary income.
 - The sale of a bond for a gain or loss is treated as a capital gain or loss, because certain bonds are a type of security. The sales of securities is covered below under Capital Gains (Financial Assets).
 
-**Table created by ChatGPT**
-
-| **Bond Type**              | **Federal Taxation**                                                                                  | **State & Local Taxation**                                                    | **Tax Exemption**                                                                                                               |
-|----------------------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **U.S. Treasury Bonds**     | Interest taxed as **ordinary income** (same as salary or wages) at federal level.                     | **Exempt** from state and local taxes.                                         | **Only taxed federally**. No state/local taxes on interest. Great for residents in high-tax states.                           |
-| **Municipal Bonds (Munis)** | Interest generally **exempt** from federal taxes.                                                      | **Exempt** from state taxes if issued by your state; taxed by other states.     | **Exempt from federal tax**. If issued by your state, often exempt from state tax too. Be aware of possible **AMT** risk.     |
-| **Corporate Bonds**         | Interest taxed as **ordinary income** at federal level.                                                | Taxed at **state** and **local** levels.                                       | **No tax exemption**. Fully taxed at federal, state, and local levels. Riskier bonds but higher yields.                       |
-| **U.S. Savings Bonds**      | Interest taxed as **ordinary income** at federal level (unless used for education expenses).          | **Exempt** from state and local taxes.                                         | **Exempt from state/local taxes**; **federal tax exemption** possible if used for qualifying education expenses.              |
+| **Bond Type**                         | **Federal Taxation**                                                                                                                                     | **State & Local Taxation**                                                                  | **Tax Exemption**                                                                                                              |
+| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **U.S. Treasury Bonds**               | Interest taxed as **ordinary income** (same as salary or wages) at federal level.                                                                        | **Exempt** from state and local taxes.                                                      | **Only taxed federally**. No state/local taxes on interest. Great for residents in high-tax states.                            |
+| **Municipal Bonds (Munis)**           | Interest generally **exempt** from federal taxes.                                                                                                        | **Exempt** from state taxes if issued by your state; taxed by other states.                 | **Exempt from federal tax**. If issued by your state, often exempt from state tax too. Be aware of possible **AMT** risk.      |
+| **Corporate Bonds**                   | Interest taxed as **ordinary income** at federal level.                                                                                                  | Taxed at **state** and **local** levels.                                                    | **No tax exemption**. Fully taxed at federal, state, and local levels. Riskier bonds but higher yields.                        |
+| **U.S. Savings Bonds**                | Interest taxed as **ordinary income** at federal level (unless used for education expenses).                                                             | **Exempt** from state and local taxes.                                                      | **Exempt from state/local taxes**; **federal tax exemption** possible if used for qualifying education expenses.               |
 | **Municipal Bonds & Social Security** | Interest **does not directly impact** Social Security benefits, but may increase taxable portion of benefits if total income exceeds certain thresholds. | If taxed by your state, this could increase your taxable income, affecting Social Security. | **Does not affect Social Security** benefits directly, but **higher income could increase taxes on Social Security** benefits. |
-| **Municipal Bonds & AMT**   | Interest from **private activity bonds** may be subject to **Alternative Minimum Tax (AMT)**, even though it's normally exempt from regular federal tax. | Same as federal; taxed by your state if applicable.                           | **Private activity bonds** can trigger AMT, even if interest is usually tax-exempt. **Check if AMT applies**.                  |
+| **Municipal Bonds & AMT**             | Interest from **private activity bonds** may be subject to **Alternative Minimum Tax (AMT)**, even though it's normally exempt from regular federal tax. | Same as federal; taxed by your state if applicable.                                         | **Private activity bonds** can trigger AMT, even if interest is usually tax-exempt. **Check if AMT applies**.                  |
+
+<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot." 
+<br>
+<br>
 
 **Theoretical Interest Tax Calculations Comparing an HYSA, a CD and Various Bonds**
-- Tax rates are determined by the investors marginal tax bracket.
-- Rates are general approximations and only included for example.
 
-**Table created by ChatGPT** 
+- Tax rates are determined by an investor's tax bracket.
+- Rates are general approximations and only included for example.
 <!--
 **Prompt**
 Please provide an overview of after-tax returns for various types of debt investments for example purposes only for the current year including the following in a table:
@@ -63,16 +64,19 @@ Please provide the table in markdown.
 | **1-Year CD (5.0% APY)**        | 5.0%                  | 24%                  | 5%                 | 5.0% × (1 - 0.29)            | 3.55%                |
 | **Corporate Bond (5.0%)**       | 5.0%                  | 24%                  | 5%                 | 5.0% × (1 - 0.29)            | 3.55%                |
 | **U.S. Treasury Bond (5.0%)**   | 5.0%                  | 24%                  | 0%                 | 5.0% × (1 - 0.24)            | 3.80%                |
-| **Municipal Bond (5.0%)**       | 5.0%                  | 0%                   | 0%                 | 5.0% × (1 - 0.0)             | 5.00%                |
+| **Municipal Bond (5.0%)**       | 5.0%                  | 0%                   | 0%                 | 5.0%                         | 5.00%                |
+
+<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot." 
+<br>
 
 ## Capital Gains (Financial Assets)
 A capital gain is a gross profit on the sale of an investment. The term can be applied to physical assets, such as property, or intangible assets, such as financial securities which is the focus here.
 ### Securities
-The following will focus on the basics of taxing gains on financial securities sold from a taxable brokerage account. For a more detailed breakdown of a scenario unique to you, asking a bot may help get you started, but always make sure to check with current law, and if you have any doubt, check with a financial advisor or certified public accountant. Bots are also useful for preliminary checks to see if something might be an issue. For example, a prompt for an overview search: `are all financial securities capital gains in taxable accounts taxed under the same rules` (copy and paste in to [ChatGPT](https://chatgpt.com/)).
+The following will focus on the basics of taxing gains on financial securities sold from a taxable brokerage account. For a more detailed breakdown of a scenario unique to you, asking a bot may help get you started, but always make sure to check with current law, and if you have any doubt, check with a financial advisor or certified public accountant. Bots are also useful for preliminary checks to see if something might be an issue. For example, a prompt for an overview search: `are all financial securities capital gains in taxable accounts taxed under the same rules` (copy and paste in to [Bing Copilot](https://copilot.microsoft.com/)).
 
 - Pre-tax retirement account and HSA investment gains are not taxed as capital gains, and are instead taxed like ordinary income upon withdrawal.
 
-Capital gains are taxed at either [short term or long term rates](https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp), i.e. capital invested for a year or less or capital invested for longer than a year, with longer investments given more favorable rates. Federal and state tax rates apply. Tax rates vary by state, with the most common convention being both short and long term capital gains taxed as ordinary income. See link to [rates](resources/main.md#rates-yields)<!-- #internal_anchor_link --> in Resources.
+Capital gains are taxed at either [short term or long term rates](https://www.investopedia.com/articles/personal-finance/101515/comparing-longterm-vs-shortterm-capital-gain-tax-rates.asp), i.e. capital invested for a year or less or capital invested for longer than a year, with longer investments given more favorable rates. Federal and state tax rates apply. Tax rates vary by state, with the most common convention being both short and long term capital gains taxed as ordinary income. See link to [rates](resources/main.md#rates%20yields)<!-- #internal_anchor_link --> in Resources.
 #### Calculation
 Capital gains (CG) tax rates are determined by adjusted gross income (AGI).
 
@@ -142,7 +146,7 @@ Tax efficiency, whether the asset is a mutual fund or an ETF, is influenced by h
 ## Foreign Tax Credit
 The US government gives citizens and resident aliens who are required to pay income tax (or a substitute/equivalent of an income tax) to a foreign country or U.S. possession (Puerto Rico, Guam, etc.) the option to [claim a tax credit or itemized deduction](https://www.investopedia.com/terms/f/foreign-tax-credit.asp) when filing taxes.
 ## Social Security
-Social security is a tax on earned income up to the [wage base limit](https://www.irs.gov/taxtopics/tc751). However, it is not deductible and income tax is also paid on the taxed amount. Moreover, it is partially taxed during retirement, so it is not a very good financial strategy. However, it is mandatory for workers so it is important to understand how to make the most of the options for receiving distributions. See [Accounts -> Types -> Social Security](accounts/types.md#social-security)<!-- #internal_anchor_link --> for how it works.
+Social security is a tax on earned income up to the [wage base limit](https://www.irs.gov/taxtopics/tc751). However, it is not deductible and income tax is also paid on the taxed amount. Moreover, it is partially taxed during retirement, so it is not a very good financial strategy. However, it is mandatory for workers so it is important to understand how to make the most of the options for receiving distributions. See [Accounts -> Types -> Social Security](accounts/types.md#social%20security)<!-- #internal_anchor_link --> for how it works.
 ## State Tax
 - [States with the Highest & Lowest Tax Rates](https://wallethub.com/edu/best-worst-states-to-be-a-taxpayer/2416) (wallethub.com)
 - [Who Pays?](https://itep.org/whopays-7th-edition/) (itep.org)

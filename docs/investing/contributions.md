@@ -19,11 +19,12 @@ date modified: 2024-11-11 15:45
 	- Non-taxable combat pay (W2 box 12)
 	- Education benefits if reported in (W2 box 1) or benefits reported on a 1099.
 	- Roth conversions are the one exception where contribution to an IRA does not require earned income, nor does it have a limit on how much can be converted. Terms such as backdoor Roth, mega-backdoor Roth, and Roth conversion ladder all refer to converting pre-tax retirement account funds to a Roth account. Income tax is due in the year funds are converted. Unlike direct IRA contributions, the cutoff for conversion is December 31st.
-- Income may limit the accounts that may be contributed to or the amount of contribution that my be deducted. See [comparison tables](../accounts/types.md)<!-- #internal_link --> of account types and the [summary tables](../accounts/contribution-and-deductibility-summaries.md)<!-- #internal_link --> for a summarized list of all categorical account types, deduction rules, and cutoff dates.
+- Income may limit the accounts that may be contributed to or the amount of contribution that my be deducted. See [comparison tables](../accounts/types.md)<!-- #internal_link --> of account types and the [summary tables](../accounts/contribution-and-deductibility-summaries.md)<!-- #internal_link --> for a summarized list of all categorical account types and deduction rules.
+- Income eligible limitations are determined by income earned during the calendar year.
 - Investments in taxable brokerage accounts can be made with any income.
 ## Matching
 - Always check employee matching with workplace retirement accounts.
-	- An [employer matching maximizer calculator](../resources/tools.md#401k-maximizer-calculator)<!-- #internal_anchor_link --> is included in Resources.
+	- An [employer matching maximizer calculator](../resources/tools.md#401k%20maximizer%20calculator)<!-- #internal_anchor_link --> is included in Resources.
 - Since 2023, some investment firms began offering IRA matching for holding an account with their company, e.g. 1% matching. Caveats include meeting a certain account value and/or a minimum holding period.
 - Some companies may offer a bonus for opening an account, which may be better for long term compounding, so compare your expected contributions.
 - Matches do not count toward an annual contribution limit, but it does count as interest.

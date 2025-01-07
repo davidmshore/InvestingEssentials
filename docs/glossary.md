@@ -10,7 +10,7 @@ date modified: 2024-11-11 15:45
 Some common terms are listed below.
 ### Above-the-Line Deductions
 - Certain adjustments made to reduce taxable income and determine AGI, which are independent of the standard or itemized deduction.
-- Here is a [list](https://en.wikipedia.org/wiki/Above-the-line_deduction).
+- Wikipedia [list](https://en.wikipedia.org/wiki/Above-the-line_deduction).
 ### Active vs. Passive Investing
 - [Investopedia](https://www.investopedia.com/news/active-vs-passive-investing/)
 ### Adjusted Gross Income (AGI)
@@ -18,7 +18,7 @@ Some common terms are listed below.
 - AGI is calculated before taking the standard or itemized deduction.
 - AGI is used to determine eligibility to claim deductions and credits, e.g., the annual medical expense deduction is capped based on a percentage of AGI.
 ### Dollar cost averaging (DCA)
-- [Dollar-cost averaging](https://www.schwab.com/learn/story/what-is-dollar-cost-averaging#:~:text=Dollar-cost-averaging-is-the,as-well-as-your-costs) involves investing the same amount of money at regular intervals over a certain period of time, regardless of price. It is a simple, emotionally detached form of investing that the average investor can benefit from. It prevents market hype from deterring an investor by consistently putting money to work with long term returns as the goal.
+- [Dollar-cost averaging](https://www.schwab.com/learn/story/what-is-dollar-cost-averaging#:~:text=Dollar%20cost%20averaging%20is%20the,as%20well%20as%20your%20costs) involves investing the same amount of money at regular intervals over a certain period of time, regardless of price. It is a simple, emotionally detached form of investing that the average investor can benefit from. It prevents market hype from deterring an investor by consistently putting money to work with long term returns as the goal.
 ### Earnings growth
 - [Earnings growth](https://en.wikipedia.org/wiki/Earnings_growth) is the change in an entity\'s reported net income over a period of time. The measure is usually a period-to-period comparison, such as from quarter to quarter, from year to year, or a comparison of the current quarter\'s results to those of the same quarter last year. The concept can also be used to estimate growth in a future period over the current period. A high level of earnings growth is more likely to drive up the market price of a company\'s stock. Conversely, if the earnings growth rate declines, this can trigger a sell off by investors that drives down the stock price.
 ### [Expense Ratio](https://www.investopedia.com/terms/e/expenseratio.asp)
@@ -34,7 +34,7 @@ Some common terms are listed below.
 - A fund of funds pools investment capital into multiple funds, such as ETFs or mutual funds, rather than a single fund. It increases diversification beyond a single fund's assortment of stocks and bonds and is often the simplest way to spread investment capital in the market. Target date funds will be allocated between multiple funds.
 ### Health Savings Account (HSA)
 - A Health Savings Account (HSA) is a tax-advantaged account for individuals and dependents covered under high-deductible health plans (HDHPs) to save for qualified medical expenses. Contributions are made into the account by the individual or their employer and are limited to a maximum amount each year.
-- See also [Health Savings Account (HSA)](accounts/types.md#health-savings-account-hsa)<!-- #internal_anchor_link -->
+- See also [Health Savings Account (HSA)](accounts/types.md#health%20savings%20account%20hsa)<!-- #internal_anchor_link -->
 ### Hedge
 - A hedge is an investment that is selected to reduce the potential for loss in other investments because its price tends to move in the opposite direction. The simplest hedge that the average investor should use is investing in assets where the rate of return on investment is greater than the devaluation of capital caused by inflation.
 ### Liquidity
@@ -85,5 +85,5 @@ Some common terms are listed below.
 - See also:
 	- Page 273 (PDF page 300) of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up)
 	- [Bogleheads.org online glossary](https://www.bogleheads.org/wiki/Category:Glossary), or just search [Bogleheads.org](https://www.bogleheads.org/wiki/Main_Page)
-	- [ChatGPT](https://chatgpt.com/)
+	- [Perplexity AI](https://www.perplexity.ai/)
 	- [Investopedia](https://www.investopedia.com/) for other terms not listed above. 
