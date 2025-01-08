@@ -1,5 +1,5 @@
 ---
-title: Early Withdrawals
+title: Withdrawals
 summary: 
 mocs: 
 aliases: 
@@ -7,13 +7,30 @@ tags:
 date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
-## Ways and Means
+## Age for Qualified Withdrawals
+
+| **Account Type**                | **Minimum Penalty-Free Age** | **Stipulations for Early Withdrawal**                                                                                         |
+|---------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Traditional IRA**             | 59½ years old                | Early withdrawals incur a 10% penalty, except for specific exceptions like first-time home purchase, education expenses, etc. |
+| **Roth IRA**                    | 59½ years old                | Contributions can be withdrawn anytime tax-free and penalty-free; earnings are subject to penalties unless specific conditions are met, including the 5-year rule.  |
+| **SEP IRA**                     | 59½ years old                | Early withdrawals incur a 10% penalty, except for specific exceptions like first-time home purchase, education expenses, etc. |
+| **SIMPLE IRA**                  | 59½ years old                | Early withdrawals incur a 10% penalty for the first two years of participation; after that, penalties apply unless exceptions are met. |
+| **401(k)**                      | 59½ years old                | Early withdrawals incur a 10% penalty, except for the Rule of 55 (leaving job at age 55 or older), loans, and hardship withdrawals. |
+| **403(b)**                      | 59½ years old                | Early withdrawals incur a 10% penalty, except for loans and hardship withdrawals.                                           |
+| **457(b) Plans**                | 59½ years old                | Early withdrawals incur a 10% penalty, except for loans and hardship withdrawals.                                           |
+| **Roth 401(k)**                 | 59½ years old                | Contributions can be withdrawn anytime tax-free and penalty-free; earnings are subject to penalties unless specific conditions are met, including the 5-year rule.  |
+| **Inherited Accounts**          | Generally, distributions must begin by December 31 of the year after the owner's death. | Beneficiaries must follow the 10-year rule for distributions, with exceptions for surviving spouse, minor child, disabled or chronically ill person, or someone not more than 10 years younger than the owner. |
+
+<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot."
+<br>
+
+## Early Withdrawals
 - [How to Access Retirement Funds Early](https://www.madfientist.com/how-to-access-retirement-funds-early/) (madfientists.com)
 	- Pay the penalty.
 	- Roth Conversion Ladder
 	- 72(t) Substantially Equal Periodic Payments (SEPP)
 - Meet an [exception](https://www.investopedia.com/articles/retirement/02/111202.asp).
-## 72(t) Substantially Equal Periodic Payments
+### 72(t) Substantially Equal Periodic Payments
 - For early retirees, one of the options the IRS allows for withdrawals from retirement accounts without penalty falls under [72(t)](https://www.investopedia.com/terms/r/rule72t.asp) rules summarized in the table below.
 <!--
 **Prompt**
@@ -43,10 +60,10 @@ Please provide the table in markdown.
 | **Calculation Factors**          | SEPP calculations depend on: <br> 1. **Account balance** at the time of the first distribution. <br> 2. **Life expectancy**: IRS tables are used to calculate life expectancy. <br> 3. **Interest rate**: The IRS allows a specific maximum interest rate (up to 120% of the IRS Federal Mid-Term Rate) to be used when calculating SEPP.                                                                                                                                                                                                                                                                                                                           |
 | **Exceptions to Changing SEPP**  | There are a few exceptions when you **can** modify the SEPP plan without incurring retroactive penalties, such as: <br> - Death <br> - Disability (qualifying disability as per IRS rules) <br> - If you roll over funds from one similar plan to another (e.g., from an IRA to a new IRA).                                                                                                                                                                                                                                                                                                                                                                         |
 
-<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot." 
+<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot."
 <br>
 
-### Arguments for SEPP
+#### Arguments for SEPP
 - See also GoCurryCracker!'s article on the other [available options](https://www.gocurrycracker.com/ira-withdrawals-before-age-59-5/), with a focus on SEPP, and [why he chose to use SEPP](https://www.gocurrycracker.com/why-i-plan-to-start-an-sepp/).
 - See [opinions on using SEPP for a given scenario](https://www.reddit.com/r/financialindependence/comments/soptup/72t_may_be_superior_to_the_roth_conversion_ladder/) versus the simpler option, the Roth conversion ladder<!-- #add_instant_preview_of_definition -->.
 
