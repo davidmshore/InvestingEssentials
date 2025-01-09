@@ -175,5 +175,6 @@ Every asset is an opportunity for wise investing.
 - [Bing Copilot](https://copilot.microsoft.com/) or [Perplexity AI](https://www.perplexity.ai/) for overviews, starting on a new topic, or a finding a quick answer to a basic question. Confirm answers before making investment decisions.
 - [Clark Howard](https://clark.com/)
 - [Investopedia](https://www.investopedia.com/)
+	- [Is Investopedia reliable?](https://www.reddit.com/r/AskEconomics/comments/lp249g/is_investopedia_reliable/) (r/AskEconomics)
 - [Nerd Wallet](https://www.nerdwallet.com/?trk=nw_gn_6.0)
 - [The Penny Hoarder](https://www.thepennyhoarder.com/)

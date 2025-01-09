@@ -21,7 +21,7 @@ Read the articles, [Traditional vs Roth](https://www.bogleheads.org/wiki/Traditi
 - It really comes down to your effective tax rate now and the estimated rate during retirement, so make sure your understanding of effective tax rate<!-- #update_with_instant_preview --> is sound. The average investor will have a lower effective tax rate during retirement. However, there are many more considerations for high earners, such as early retirement, estate planning, substantially high taxes on RMDs, no RMDs for Roth accounts, backdoor Roths, after tax contributions to traditional retirement accounts, early withdrawals, etc.
 	- See [Resources -> Tools -> Income Tax Calculators](../resources/tools.md#income-tax-calculators)<!-- #internal_anchor_link -->.
 
-To understand the significance of an expense ratio and commissions taken as a percentage of account value, remember that compound growth increases the value of an account by a percentage of the current account value on a periodic basis. Therefore, as the compound rate of return is lowered by management expenses and fees, there will be less money growth.
+To understand the significance of an [expense ratio](https://www.bogleheads.org/wiki/Expense_ratios), load, commission or any other fee taken as a percentage of account value, remember that compound growth increases the value of an account by a percentage of the current account value on a periodic basis. Therefore, as the compound rate of return is lowered by management expenses and fees, there will be less money growth.
 
 - [READ THIS](https://www.reddit.com/r/Bogleheads/comments/sph67r/trying_to_understand_the_math_of_mutual_fund_fees/) before considering a managed account or any other with high fees.
 	- The same calculation can be ran for any investment value, period, and rate of return to match your scenario.
@@ -33,6 +33,7 @@ To understand the significance of an expense ratio and commissions taken as a pe
 			- (t) is the time the money is invested or borrowed for, in years.
 	- Here's a [compound growth calculator that accounts for the expense ratio](https://www.omnicalculator.com/finance/expense-ratio#how-much-does-the-expense-ratio-cost-you) and will return the maturity value and total fees paid over the life of an investment.
 	- Page 115 (PDF page 142) of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) gives an example of how easily unnecessary costs can get out of hand.
+	- [What Is a Good Expense Ratio for Mutual Funds?](https://www.investopedia.com/ask/answers/032715/when-expense-ratio-considered-high-and-when-it-considered-low.asp) (investopedia.com)
 
 See the [Guinea Pig Experiment](https://www.madfientist.com/guinea-pig-experiment/) for a early retiree scenario.
 ## How Much Do I Need to Retire?

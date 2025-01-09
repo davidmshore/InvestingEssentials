@@ -8,11 +8,12 @@ date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
 ## Annuities
-- Annuities are contracts between an individual and an insurance company, where the individual pays the insurance company in installments or a lump sum, and the insurance company agrees to make periodic payments to the individual for a set period.
+- Annuities are contracts between an individual and an insurance company or charity, where the individual pays into the annuity in installments or a lump sum, and receives periodic payments for a set period.
 - Annuities fall into three categories: fixed, variable and immediate.
 - While there are some similarities to tax advantaged accounts such as tax deferred growth, annuities are generally not considered a good investment, because the insurance company is probably making better returns on the investment money in exchange for a *guaranteed* payment. Note that fixed and immediate annuities rely on the financial stability of the insurance company. Annuities are usually only worth considering later in life when there is little time or money to be invested in compounding assets. However, investors should look at the overall return while keeping in mind how much of a tax advantage an annuity may provide, if any, compared to other tax advantaged accounts, especially if the annuity return rate changes throughout the contract period.
 - Another negative for annuities is whether it includes an inflation rider. If not, then the investor runs the risk of the set value of periodic payments becoming devalued and if it does, expect a higher cost annuity.
-- See also, [Annuities Unveiled: A Guide to the Different Types of Annuities](https://www.morningstar.com/retirement/annuities-unveiled-guide-different-types-annuities) and [Do You Need an Annuity for Retirement Income?](https://www.morningstar.com/personal-finance/do-you-need-an-annuity-retirement-income).
+- An annuity as a tax advantaged gifting mechanism may be worth considering if maximizing a gift rather than maximizing retirement income is the goal.
+- See also, [Annuities Unveiled: A Guide to the Different Types of Annuities](https://www.morningstar.com/retirement/annuities-unveiled-guide-different-types-annuities),  [Do You Need an Annuity for Retirement Income?](https://www.morningstar.com/personal-finance/do-you-need-an-annuity-retirement-income), and [Charitable Gift Annuity: Meaning, Regulations, FAQs](https://www.investopedia.com/terms/c/charitable-gift-annuity.asp)
 ## Interest Earning Investments
 - Interest earning investments are debt investments, i.e. the investor is agreeing to lend money in return for an interest payment.
 - Interest is taxed as ordinary income unless exempt, e.g., with certain types of bonds.
@@ -38,7 +39,7 @@ date modified: 2024-11-11 15:45
 	- EE Bonds
 	- I-Bonds
 	- Both offer educational expense tax advantages as well as tax deferral or current year interest reporting for EE bonds held by low or no income individuals, such as minors.
-- Bonds are rated prior to issuing for sale to the public and ratings can change over the life of the bond. Higher yielding bonds generally receive a higher risk rating. 
+- Bonds are rated prior to issuing for sale to the public and ratings can change over the life of the bond. Higher yielding bonds generally receive a higher risk rating, and are commonly referred to as *junk* bonds.
 	- Corporate bonds carry higher risk than government bonds (assuming the government and national currency is stable). 
 		- For more on corporate bond investing:
 			- [Corporate bonds not recommended?](https://www.reddit.com/r/Bogleheads/comments/wzwxud/corporate_bonds_not_recommended/) (r/Bogleheads)
@@ -67,15 +68,20 @@ date modified: 2024-11-11 15:45
 ## Commodities
 - Investments in physical goods, such as gold, oil, or agricultural products. Contracts based on an agreed upon price at a future delivery date are bought and sold on the futures market. A contract may be sold before the actual delivery of goods. Commodities are **not advised** for individual investors, especially for the casual investor or someone focused on their retirement account. 
 ## Index Funds
-- A type of ETF or mutual fund that tracks a specific market index, i.e. a predetermined set of assets such as the S&P 500, to provide broad market exposure and diversification, which reduces risk. **Index funds are one of the primary investment vehicles** a retirement investor should be looking into for a high return on investment at a relatively low risk over the long run. 
+- A type of ETF or mutual fund that tracks a specific market index, i.e. a predetermined set of assets such as the S&P 500, to provide broad market exposure and diversification, which reduces risk. Fund managers are responsible for building the fund to contain the proper securities and in similar proportions to an index. Index fund management is synonymous with passive management and index fund investing is known as passive investing. **Index funds are the primary investment vehicle** a retirement investor should be looking into for a high return on investment at a relatively low risk over a long term period. 
 ## Exchange-Traded Funds (ETFs)
-- ETFs can track indices, aka indexes, which allow you to invest in shares of a broad set of assets, e.g. equities or bonds or a combination. ETFs are available for a variety of asset types with varying levels of diversification. ETFs can be actively or passively managed, meaning they can be filled with assets specially chosen by the manager, or setup to follow an index.
-- ETFs are unique in their turnover, i.e. the selling and repurchasing of equities within the fund by managers, aka custodians. ETF turnover is done with *in-kind* redemption, which does not trigger a taxable event in the form of a typical capital gain or loss for shareholders. Shares are effectively exchanged for new shares without the intermediary step of holding cash from the sale for repurchasing.
-- Dividends and interest payments are still subject to tax for the year they are paid out when the ETF is held in a taxable brokerage account.
+- ETFs can track indices, aka indexes, which allow you to invest in shares of a broad set of assets, e.g. equities or bonds or a combination (i.e. hybrid/balanced funds). ETFs are available for a variety of asset types with varying levels of diversification. ETFs can be actively or passively managed, meaning they can be filled with assets specially chosen by the manager, or setup to follow an index. 
+- ETFs are unique in their turnover, i.e. the selling and repurchasing of equities within the fund by managers, aka custodians, as they seek to allocate the fund holdings to meet the desired goals, e.g., tracking an index. ETF turnover is done with *in-kind* redemption meaning that shares are effectively exchanged for new shares without the intermediary step of holding cash from the sale until different shares are repurchased. Therefore, ETF turnover does not trigger a taxable event in the form of a typical capital gain or loss for shareholders.
+- A simple way to remember the tax advantage of ETFs is to compare turnover to a mutual fund that holds the exact same shares:
+	- Mutual fund turnover will result in capital gains distributions (income for a shareholder) and be subject to capital gains tax for that year.
+	- ETF turnover defers capital gains distributions until the shareholder sells their shares.
+	- Holding ETFs in a tax deferred account does not offer any additional tax benefit over the mutual fund. 
+- Dividends and interest payments are still subject to tax for the year they are paid out when an ETF is held in a taxable brokerage account.
 - Some ETFs may be proprietary to a specific broker, but these can often still be purchased on an exchange through other brokers commission free. In the case of moving funds from an account held at one broker to an account held at another broker, although ETFs are treated in-kind, always check for broker fees.
 ## Mutual Funds
 - Similar to ETFs, mutual funds can be actively or passively managed. The turnover rate may be similar to active and passive ETFs, but turnover in mutual funds generally triggers a taxable event, which can lead to tax drag when held in a taxable brokerage account. Interest and dividends from assets held in taxable accounts are taxed the same as for ETFs.
 - Some mutual funds may be proprietary to the broker, but these can often be purchased through other brokers as well. Pay attention for higher transaction fees when purchasing funds this way or when moving funds from one broker to another. 
+- The simplest way to think about the differences between mutual funds and ETFs is that ETFs trade like stocks and they have the in-kind transfer advantage, while mutual funds have the advantage of fractional share purchases, which can make automatic investing easier. Direct fractional share ETF investing or reinvesting of dividends is currently possible through some brokers and will likely become the standard.
 ## Comparison of ETFs and Mutual Funds
 <!--
 **Prompt**

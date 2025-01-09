@@ -22,8 +22,7 @@ Some common terms are listed below.
 ### Earnings growth
 - [Earnings growth](https://en.wikipedia.org/wiki/Earnings_growth) is the change in an entity\'s reported net income over a period of time. The measure is usually a period-to-period comparison, such as from quarter to quarter, from year to year, or a comparison of the current quarter\'s results to those of the same quarter last year. The concept can also be used to estimate growth in a future period over the current period. A high level of earnings growth is more likely to drive up the market price of a company\'s stock. Conversely, if the earnings growth rate declines, this can trigger a sell off by investors that drives down the stock price.
 ### [Expense Ratio](https://www.investopedia.com/terms/e/expenseratio.asp)
-- It is the calculation of a funds total management cost / fund's total assets, but this value is provided to the investor by law. This does not include loads or commissions.
-- [What Is a Good Expense Ratio for Mutual Funds?](https://www.investopedia.com/ask/answers/032715/when-expense-ratio-considered-high-and-when-it-considered-low.asp) (investopedia.com)
+- The calculation of a fund's total management cost / total fund assets. By law this value is provided to investors for all investment funds. Expense ratio does not include loads or sales commission.
 ### Equities
 - Stocks (shares of ownership) of a company.
 ### Fiduciary

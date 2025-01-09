@@ -17,9 +17,7 @@ History shows that the overall market moves steadily upward regaining even the l
 When to buy into the market? The temptation to time the market can be avoided by dollar cost averaging<!-- #update_with_instant_preview -->, which is the easiest strategy for maintaining discipline and getting procrastinators to start investing. Set a deposit schedule and investment amount and don't stop investing until retirement.
 
 - Opinion: for those sitting on a pile of cash and looking to invest, it may make sense to at least pay attention to what is going on with the economy, as there may be indicators of an opportunity for the market to drop in the near future to make the most of a buy-in. The caveat is that the drop may only come after a rise, and it may not drop low enough to reach the price level before the rise started where an investor could have bought-in at a lower price and saved themselves the time and energy of watching and wondering.
-	- [Why Investors Are Obsessed With the Inverted Yield Curve](https://www.youtube.com/watch?v=bItazfbSptI) from The Wall Street Journal (YouTube)
-	- [Why The Yield Curve Inverts Before A Recession (The Real Reason)](https://www.youtube.com/watch?v=-fjWVHOujO0) by George Gammon (YouTube)
-	- [[Is] Warren Buffett Preparing For A Crash Like 2007[?]](https://www.youtube.com/watch?v=BuN83hqsn8U) from Cooper Academy (YouTube)
+	- [The Inverted Yield Curve: What It Means and How to Navigate It](https://get.ycharts.com/resources/blog/inverted-yield-curve-what-it-means-and-how-to-navigate-it/)
 ### S&P 500 Index 1950-2020
 The following graph comes from a Reddit user who wanted to provide reassurance for the inevitable bumps that equities (stock) and debt (bond) investors are going to experience. Click to expand, view notes and see the proportions of the logarithmic graph.
 
