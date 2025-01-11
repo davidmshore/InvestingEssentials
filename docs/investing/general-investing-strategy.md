@@ -31,7 +31,7 @@ To understand the significance of an [expense ratio](https://www.bogleheads.org/
 			- (r) is the annual interest rate (decimal)
 			- (n) is the number of times that interest is compounded per year
 			- (t) is the time the money is invested or borrowed for, in years.
-	- Here's a [compound growth calculator that accounts for the expense ratio](https://www.omnicalculator.com/finance/expense-ratio#how-much-does-the-expense-ratio-cost-you) and will return the maturity value and total fees paid over the life of an investment.
+	- Here's a [compound growth calculator that accounts for the expense ratio](https://www.omnicalculator.com/finance/expense-ratio#how-much-does-the-expense-ratio-cost-you) and will return the maturity value and total fees paid over the life of an investment. The [inflation adjusted rate of return](https://www.omnicalculator.com/finance/real-rate-of-return) can be calculated using an [inflation rate](https://inflationdata.com/Inflation/Inflation_Rate/Long_Term_Inflation.asp) of your choice and plugged into the growth calculator for a more accurate estimate of future buying power. 
 	- Page 115 (PDF page 142) of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) gives an example of how easily unnecessary costs can get out of hand.
 	- [What Is a Good Expense Ratio for Mutual Funds?](https://www.investopedia.com/ask/answers/032715/when-expense-ratio-considered-high-and-when-it-considered-low.asp) (investopedia.com)
 

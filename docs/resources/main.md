@@ -7,7 +7,7 @@ tags:
 date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
-If you feel like you are understanding things, but still not quite putting it all together in your brain, or you would like to introduce others to the idea of responsible living and financial planning, check out some of the other resources along with sharing this site. Most of these are free options, but sometimes books offer a more systematic and thorough learning experience than what is freely available online.
+If you think you are comprehending things for your particular investing goals, but still not quite putting it all together in your brain, or you would like to introduce others to financial planning, check out some of the resources below along with sharing this site. If you would like to share the gist of the ideas covered so far, Humphrey Yang presents it very well in a 15 minute [video](https://www.youtube.com/watch?v=myQ05BO9pYM). Most of the options below are free. However, books may offer a more systematic and thorough learning experience than what is freely available online.
 
 Amazon and Goodreads are probably the best ways to filter for ease of understanding and level of advice via their ratings and reviews.
 
@@ -161,6 +161,7 @@ Every asset is an opportunity for wise investing.
 - [r/financialindependence -> Wiki -> Books](https://www.reddit.com/r/financialindependence/wiki/books/) -> Podcasts
 - [YourMoneyOrYourLife.com -> Resources/](https://yourmoneyoryourlife.com/resources/) -> Podcasts
 ## Rates & Yields
+- Average [U.S. inflation rate](https://inflationdata.com/Inflation/Inflation_Rate/Long_Term_Inflation.asp).
 - Current [federal income tax rates](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets).
 - Current [state income tax rates](https://www.nerdwallet.com/article/taxes/state-income-tax-rates).
 - Current [federal capital gains tax rates](https://www.nerdwallet.com/article/taxes/capital-gains-tax-rates).

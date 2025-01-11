@@ -13,8 +13,6 @@ There are [various IRS rules](https://www.irs.gov/site-index-search?search=rollo
 
 The following table also provides some considerations for moving accounts.
 
-### Conversions and Exchanges of Account Types: Scenarios, Advantages, Unique Considerations, and Forms and Filing Requirements
-
 | **Conversion/Exchange**                        | **Scenario**                                                                      | **Advantages**                                                                | **Unique Considerations**                                                                 | **Forms and Filing Requirements** |
 |------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------|
 | **Traditional 401(k) to Traditional IRA** <br> <br> **403(b) to Traditional IRA** <br> <br> **457(b) to Traditional IRA** | - Leaving an employer and wanting more investment options. <br> - Leaving a government job or employer sponsoring the plan. | - May provide more investment choices and flexibility. | - Must follow IRA rules for contributions and distributions. <br> - Potential loss of creditor protection in some states. <br> - Governmental 457(b) plans can be rolled over, but non-governmental plans have restrictions. <br> - Check for any employer-specific restrictions on rolling over. | - IRS Form 1099-R <br> - Report rollover on Form 1040 <br> - IRS Form 5498 |
@@ -27,9 +25,7 @@ The following table also provides some considerations for moving accounts.
 | **UGMA/UTMA to 529 College Savings Plan** <br> <br> **Coverdell ESA to 529 College Savings Plan** | - Desire to use funds specifically for education expenses. <br> - Wanting higher contribution limits and broader range of education expenses coverage. | - Tax-free growth and withdrawals for qualified education expenses. <br> - Higher contribution limits and flexibility in beneficiary changes (for Coverdell ESA). | - UGMA/UTMA funds converted to a 529 plan must be used for the same beneficiary. <br> - Any gains in the UGMA/UTMA account at the time of conversion are subject to taxation. <br> - Must use funds for qualified education expenses or face penalties. <br> - Ensure Coverdell ESA funds are transferred properly to avoid penalties. | - IRS Form 1099-Q (Payments from Qualified Education Programs) <br> - Report conversion on Form 1040 |
 
 
-<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot." 
-<br>
-<br>
+<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Always cross check limits and rules with official sources."
 
 - The [5-year rule](https://www.fidelity.com/learning-center/personal-finance/retirement/roth-ira-5-year-rule) applies to funds converted to Roth accounts and is the reason behind the [Roth conversion ladder](https://www.investopedia.com/how-roth-conversion-ladder-works-5214808).
 	- The [Pro Rata rule](https://smartasset.com/retirement/a-guide-to-the-pro-rata-rule-and-roth-iras) applies to conversions from pre-tax to Roth accounts if an investor has made after-tax contributions to *any* of their pre-tax retirement accounts. This will only apply to high earners/low spenders contributing to traditional retirement accounts beyond the pre-tax limits. The rule effectively taxes a percentage of the conversion equivalent to:

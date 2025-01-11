@@ -59,8 +59,7 @@ date modified: 2024-11-11 15:45
 | **Market Impact**       | There is **no market risk** with a CD since the interest rate and penalty are fixed by the bank. The penalty is pre-defined.                                                                          | The market price of a bond **fluctuates** based on factors like **interest rates** and the bond’s **credit risk**. If rates rise or the bond issuer’s credit deteriorates, the bond’s price could drop, leading to a potential loss when sold early.                  |
 | **Taxes**               | **Interest** earned on a CD is taxed as **ordinary income**. Early withdrawal does not affect the tax treatment, except for the forfeiture of interest, which would reduce the taxable amount.        | Interest from a bond is taxed as **ordinary income**. However, if the bond is sold for a **capital gain**, that gain will be taxed either as **short-term** or **long-term** capital gains, depending on how long the bond was held. Capital losses can offset gains. Also, note that municipal bond interest is often exempt from federal taxes, and sometimes state and local taxes. |
 
-<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot."
-<br>
+<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Always cross check limits and rules with official sources."
 
 ## Equities
 - Shares of ownership of a publicly traded company, i.e. public stocks. Stock gains are taxed at capital gains rates, and losses may be deducted up to a certain amount each year with carryover allowed into future tax years. Some equities pay dividends, i.e., company profits shared with shareholders while an investor owns the stock. Investors can direct their broker to automatically reinvest dividends by purchasing additional shares. Like bonds, dividend paying stocks are a tax consideration when held in a taxable account. 
@@ -123,8 +122,7 @@ These differences are subject to change and may already be negligible for some f
 | **Transparency**           | **Pros**: Most ETFs disclose holdings daily, providing clear transparency.                          | **Cons**: Mutual funds typically disclose holdings less frequently, usually quarterly.                                  |
 | **Automation**             | **Cons**: Lack of built-in automation; investors need to place buy/sell orders.                     | **Pros**: Many mutual funds offer automatic investment and reinvestment options (e.g., through retirement accounts).    |
 
-<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot." 
-<br>
+<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Always cross check limits and rules with official sources."
 
 ### Summary of Key Pros and Cons
 

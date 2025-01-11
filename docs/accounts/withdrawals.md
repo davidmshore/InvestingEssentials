@@ -15,8 +15,7 @@ date modified: 2024-11-11 15:45
 | **Roth Accounts**<br>        | 59½ years old                                                                           | Contributions can be withdrawn anytime tax-free and penalty-free; earnings are subject to penalties unless specific conditions are met, including the 5-year rule.                                                                                     |
 | **Inherited Accounts**       | Generally, distributions must begin by December 31 of the year after the owner's death. | Beneficiaries must follow the 10-year rule for distributions, with exceptions for surviving spouse, minor child, disabled or chronically ill person, or someone not more than 10 years younger than the owner.                                         |
 
-<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot."
-<br>
+<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Always cross check limits and rules with official sources."
 
 ## Early Withdrawals
 - [How to Access Retirement Funds Early](https://www.madfientist.com/how-to-access-retirement-funds-early/) (madfientists.com)
@@ -54,8 +53,7 @@ Please provide the table in markdown.
 | **Calculation Factors**          | SEPP calculations depend on: <br> 1. **Account balance** at the time of the first distribution. <br> 2. **Life expectancy**: IRS tables are used to calculate life expectancy. <br> 3. **Interest rate**: The IRS allows a specific maximum interest rate (up to 120% of the IRS Federal Mid-Term Rate) to be used when calculating SEPP.                                                                                                                                                                                                                                                                                                                           |
 | **Exceptions to Changing SEPP**  | There are a few exceptions when you **can** modify the SEPP plan without incurring retroactive penalties, such as: <br> - Death <br> - Disability (qualifying disability as per IRS rules) <br> - If you roll over funds from one similar plan to another (e.g., from an IRA to a new IRA).                                                                                                                                                                                                                                                                                                                                                                         |
 
-<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot."
-<br>
+<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Always cross check limits and rules with official sources."
 
 #### Arguments for SEPP
 - See also GoCurryCracker!'s article on the other [available options](https://www.gocurrycracker.com/ira-withdrawals-before-age-59-5/), with a focus on SEPP, and [why he chose to use SEPP](https://www.gocurrycracker.com/why-i-plan-to-start-an-sepp/).

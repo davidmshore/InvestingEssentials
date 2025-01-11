@@ -35,9 +35,7 @@ Bonds can be taxed in two ways:
 | **Municipal Bonds & Social Security** | Interest **does not directly impact** Social Security benefits, but may increase taxable portion of benefits if total income exceeds certain thresholds. | If taxed by your state, this could increase your taxable income, affecting Social Security. | **Does not affect Social Security** benefits directly, but **higher income could increase taxes on Social Security** benefits. |
 | **Municipal Bonds & AMT**             | Interest from **private activity bonds** may be subject to **Alternative Minimum Tax (AMT)**, even though it's normally exempt from regular federal tax. | Same as federal; taxed by your state if applicable.                                         | **Private activity bonds** can trigger AMT, even if interest is usually tax-exempt. **Check if AMT applies**.                  |
 
-<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot." 
-<br>
-<br>
+<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Always cross check limits and rules with official sources."
 
 **Theoretical Interest Tax Calculations Comparing an HYSA, a CD and Various Bonds**
 
@@ -67,8 +65,7 @@ Please provide the table in markdown.
 | **U.S. Treasury Bond (5.0%)**   | 5.0%                  | 24%                  | 0%                 | 5.0% × (1 - 0.24)            | 3.80%                |
 | **Municipal Bond (5.0%)**       | 5.0%                  | 0%                   | 0%                 | 5.0%                         | 5.00%                |
 
-<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot." 
-<br>
+<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Always cross check limits and rules with official sources."
 
 ## Capital Gains (Financial Assets)
 A capital gain is a gross profit on the sale of an investment. The term can be applied to physical assets, such as property, or intangible assets, such as financial securities which is the focus here.
@@ -163,9 +160,7 @@ Social security is a tax on earned income up to the [wage base limit](https://ww
 | **Trusts**                    | - Purpose: To manage and distribute assets, including other accounts, according to specific terms set by the testator. <br> - Designate a trustee; consider control and protection of assets. <br> - Plan for potential tax implications on trust income, including federal and state taxes. <br> - Trusts can offer greater control and protection of assets, but be aware of potential legal and administrative costs. <br> - Trusts can be used to manage and distribute assets from other accounts, such as brokerage accounts, retirement accounts, and educational accounts, according to specific terms. <br> - Trusts can help avoid probate, ensuring privacy and potentially reducing time and costs associated with estate settlement. | - Purpose: To receive and manage distributions from the trust according to the terms set by the testator. <br> - Trustee manages the assets according to the terms of the trust. <br> - Potential tax implications on trust income, which may be taxed at higher trust tax rates. <br> - Understand trustee control and protection of assets, and potential legal and administrative costs. <br> - Beneficiaries may receive distributions according to the terms set by the testator, which can provide for specific needs or conditions. <br> - Avoiding probate can ensure privacy and quicker access to assets.                                                                                                                                                                                                                             |
 | **Wills**                     | - Purpose: Legal document to specify how assets, including accounts, should be distributed upon death. <br> - Must be properly signed and witnessed according to state laws. <br> - Subject to probate, which can be a public process and may be time-consuming and costly. <br> - Can be used in conjunction with trusts to provide comprehensive estate planning.                                                                                                                                                                                                                                                                                                                                                                               | - Purpose: Beneficiaries receive assets as specified in the will after probate. <br> - Probate ensures legal transfer of assets but can be lengthy and public. <br> - Understand that assets passed through a will may be subject to probate fees and public scrutiny. <br> - Beneficiaries receive distributions as directed by the will, which may take time due to the probate process.                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
-<!-- ai table -->!!! ai-table inline end "Table created by Bing Copilot." 
-<br>
-<br>
+<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Always cross check limits and rules with official sources."
 
 - Converting a pre-tax retirement account to a Roth account ensures that funds get to remain in the account during the life of the testator and the heirs will not pay tax on withdrawals.
 - For taxable brokerage accounts, as long as the current law regarding a basis step-up remains in effect for inherited accounts, the basis values of all financial securities in the account are stepped up to the value at the date of death (the price at the close of the market), meaning that capital gains earned during the life of the testator (the investor who will be passing on their account to an heir), are not subject to tax when withdrawn by the heir per the account value at the time of death. Any capital gains or losses after the date of death are subject to capital gains or capital loss tax rules.
