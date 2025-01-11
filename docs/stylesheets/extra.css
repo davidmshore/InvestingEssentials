@@ -39,3 +39,11 @@
 [data-md-color-scheme="slate"] .md-typeset .ai-table > summary::before {
   background-color: rgb(185, 188, 195);
 }
+
+/* Set alignment and width of specific admonition */
+.md-typeset .admonition.ai-table {
+  display: block;
+  min-width: 625px;
+  max-width: 625px;
+  margin-right: auto;
+}
