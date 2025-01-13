@@ -40,10 +40,10 @@
   background-color: rgb(185, 188, 195);
 }
 
-/* Set alignment and width of specific admonition */
+/* Set alignment and width of specific admonition 
 .md-typeset .admonition.ai-table {
   display: block;
-  min-width: 625px;
-  max-width: 625px;
+  min-width: 715px;
+  max-width: 715px;
   margin-right: auto;
-}
+}*/

@@ -71,7 +71,7 @@ Create a markdown table with the following columns: "Account Type or Conversion,
 | **UTMA/UGMA Accounts**                                         | No contribution limit                                                                                                                                                                                                                                   | Contributions to an UTMA/UGMA account do not affect the contribution limits of other account types.                                                                                                                                                             |
 | **Coverdell ESA**                                              | $2,000 per beneficiary                                                                                                                                                                                                                                  | Contributions to a Coverdell ESA do not affect the contribution limits of other account types. Deadline: April 15, 2026.                                                                                                                                        |
 
-<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Always cross check limits and rules with official sources."
+<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Confirm limits and rules with official sources before executing decisions."
 
 ## Contribution Deductibility
 <!--
@@ -124,4 +124,4 @@ Please provide the table in markdown.
 | **UTMA/UGMA Accounts**                                           | Not deductible                                                                      | Contributions made with after-tax money. Assets transfer to the beneficiary at the age of majority.                                                   |
 | **Coverdell ESA**                                                | Not deductible                                                                      | Contributions made with after-tax money.                                                                                                              |
 
-<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Always cross check limits and rules with official sources."
+<!-- ai table -->!!! ai-table "Table created by Bing Copilot. Confirm limits and rules with official sources before executing decisions."

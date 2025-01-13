@@ -82,9 +82,24 @@ Criteria may or may not apply to an investor's strategy and may apply at differe
 - Avoid timing the market and contribute earned income on a scheduled basis.
 - Be prepared to pass on assets by having legal instructions written up in a will or trust. 
 #### Recommended Resources
-- See [Gurus](#gurus)<!-- #internal_anchor_link -->.
+Financial web sites recommended by the authors of The Bogleheads' Guide to Investing:
+(In Alphabetical Order)
+
+- [AltruistFA.com/readingroom.htm](https://www.altruistfa.com/readingroom.htm). The Reading Room of Diehard contributor Eric Haas is a great place to learn about investing.
+- [crr.bc.edu](https://crr.bc.edu/). The Center for Retirement Research at Boston College is an excellent source of research and articles about retirement issues.
+- [Bloomberg.com](https://www.bloomberg.com/). Financial news and information, including current bond prices and yields, can be found at Bloomberg.
+- [Bylo.org](https://www.bylo.org/). Diehard Bylo Selhi operates a Canadian Web site filled with insightful mutual fund information useful to everyone.
+- [ChooseToSave.org](https://www.choosetosave.org). Have trouble saving? Need a financial calculator? This is the place to go.
+- [CoffeeHouseInvestor.com](https://coffeehouseinvestor.com/). Hosted by Diehard author Bill Schultheis, this is a good resource for solid information.
+- [JasonZweig.com](https://jasonzweig.com/). One of the best financial columnists and authors in the business, Jason Zweig has created a site for investors who want to learn to think for themselves.
+- [MoneyChimp.com](http://www.moneychimp.com/). Everything about money; articles, calculators and much тоге.
+- [Morningstar.com](https://www.morningstar.com/). Without question, the best source of general information about mutual funds. Also the home of the Vanguard Diehards Forum, where the Bogleheads hang out.
+- [RickFerri.com](https://rickferri.com/). This is the homepage of Diehard author Richard Ferri, CFA. Use the “Research” tab to read Rick’s papers and published articles. The “Books” tab will bring you to his excellent (free) internet book, Serious Money.
+- [RetireEarlyHomepage.com](https://www.retireearlyhomepage.com/). If you dream about retiring early and want to know how to do it, this is the site. The host, John P. Greaney, retired at age 38 and hasn't looked back.
+- [Vanguard.com/bogle_site/bogle_home.html](https://www.bogleheads.org/forum/viewtopic.php?t=288548). This is the home of the Bogle Financial Markets Research Center which supports Vanguard. Founder John C. Bogle’s ongoing work on behalf of investors. For a great learning experience, browse the Archives where you'll find Mr. Bogle’s many speeches.
+- See also [Gurus](#gurus)<!-- #internal_anchor_link -->.
 ## Charts
-Charts are great for summarizing new concepts.
+Great for summarizing new concepts.
 
 - [Prime Directive flowcharts](https://www.reddit.com/r/personalfinance/wiki/commontopics/) (r/personalfinance)
 - [r/coolguides](https://www.reddit.com/r/coolguides/)
@@ -148,7 +163,7 @@ Every asset is an opportunity for wise investing.
 - [Laura Adams](https://lauradadams.com/) (Money Girl Podcast)
     - Laura Adams provides quick snippets of general financial advice presented in an easy to understand way with a good amount of energy to help keep listeners engaged. She is also an author of books and a free newsletter.
     - [Free downloads](https://lauradadams.com/freebies) - retirement comparison chart (just use a GPT bot from now on), HSA quick guide, financial advisor assessment guide, legacy records checklist and more can be found here.
-- [Clark Howard](https://clark.com/)
+- [Clark Howard](https://clark.com/) (The Clark Howard Show)
 	- Clark.com is a great resource for practical financial tips, topical guides, and reviews on banks, credit services, phone plans, investing institutions and insurance companies.
 - See also [Blogs](#blogs)<!-- #internal_anchor_link --> and [Podcasts](#podcasts)<!-- #internal_anchor_link -->.
 ## Kids & Teens
