@@ -69,7 +69,7 @@ date modified: 2024-11-11 15:45
 - [HSA & 401(k) Maximizer](https://hsastore.com/hsa-401k-maximizer)
 #### Required Minimum Distributions (RMDs)
 - [SmartAsset](https://smartasset.com/retirement/calculate-rmd)
-	- [Official IRS Rules 590-B](https://www.irs.gov/forms-pubs/about-publication-590-b)
+	- [Official IRS publication 590-B](https://www.irs.gov/forms-pubs/about-publication-590-b)
 #### Social Security
 - [NerdWallet](https://www.nerdwallet.com/calculator/social-security-calculator)
 - [ssa.gov](https://www.ssa.gov/benefits/calculators/)

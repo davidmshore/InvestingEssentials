@@ -8,21 +8,21 @@ date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
 ## Deadlines
-- Contributions for certain accounts are allowed from January 1st of the tax year until the tax filing date the following year, with the option to designate contributions made the following year toward the tax year of choice (its almost always better to have them go toward the earlier year). The extra time is allowed in part because income-based contribution limitations may not be known until year end.
+- Contributions to IRAs are allowed from January 1st of the tax year until the tax filing date in the following year. The IRS also gives the option to designate contributions made the following year toward the tax year of choice. The extra time is allowed in part because income based contribution limitations may not be known until year end. Workplace retirement plans are not subject to income limitations so contribution deadlines are December 31st.
 - Roth [conversions](../accounts/rollovers-conversions.md)<!-- #internal_link --> are taxed as ordinary income for the tax year in which they are converted.
 ## Income
+- Taxable brokerage accounts may be funded with any income. Earned income is not required.
 - HSAs may be funded with any income. Earned income is not required.
 - Workplace retirement plans may be funded with payroll deductions.
 - IRA contributions can be made with certain taxable income received during the tax year.
 	- Payroll income
 	- Self-employment income
-	- Alimony (for separations finalized before 2019)
+	- Alimony (for separations finalized on or before December 31st, 2018)
 	- Non-taxable combat pay (W2 box 12)
 	- Education benefits if reported in (W2 box 1) or benefits reported on a 1099.
-	- Roth conversions are the one exception where contribution to an IRA does not require earned income, nor does it have a limit on how much can be converted. Terms such as backdoor Roth, mega-backdoor Roth, and Roth conversion ladder all refer to converting pre-tax retirement account funds to a Roth account. Income tax is due in the year funds are converted. Unlike direct IRA contributions, the cutoff for conversion is December 31st.
-- Income may limit the accounts that may be contributed to or the amount of contribution that my be deducted. See [comparison tables](../accounts/types.md)<!-- #internal_link --> of account types and the [summary tables](../accounts/contribution-and-deductibility-summaries.md)<!-- #internal_link --> for a summarized list of all categorical account types and deduction rules.
+	- Rollovers/conversions are the one exception where contributing to a retirement plan does not require earned income, nor does it have a limit on how much can be converted. Terms such as backdoor Roth, mega-backdoor Roth, and Roth conversion ladder all refer to converting pre-tax retirement account funds to a Roth account. Income tax is due in the year funds are converted. Unlike the deadline for direct IRA contributions, the tax year in which the conversion is completed is the year that converted funds will be taxed.
+- Income level can affect Roth IRA contributions and the deductibility of traditional IRA contributions. See [comparison tables](../accounts/types.md)<!-- #internal_link --> of account types and the [summary tables](../accounts/contribution-and-deductibility-summaries.md)<!-- #internal_link --> for a summarized list of all categorical account types and deduction rules.
 - Income eligible limitations are determined by income earned during the calendar year.
-- Investments in taxable brokerage accounts can be made with any income.
 ## Matching
 - Always check employer matching with workplace retirement accounts.
 	- An [employer matching maximizer calculator](../resources/tools.md#401k-maximizer-calculator)<!-- #internal_anchor_link --> is included in Resources.

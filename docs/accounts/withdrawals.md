@@ -18,11 +18,16 @@ date modified: 2024-11-11 15:45
 <!-- ai table -->!!! ai-table "Table created by Bing Copilot. Confirm limits and rules with official sources before executing decisions."
 
 ## Early Withdrawals
+- Unless entering permanent early retirement it is seldom recommended to tap into retirement saving instead of arranging a low interest loan. However, the IRS does allow early withdrawals other than early retirement without penalty in certain scenarios.
 - [How to Access Retirement Funds Early](https://www.madfientist.com/how-to-access-retirement-funds-early/) (madfientists.com)
 	- Pay the penalty.
 	- Roth Conversion Ladder
 	- 72(t) Substantially Equal Periodic Payments (SEPP)
-- Meet an [exception](https://www.investopedia.com/articles/retirement/02/111202.asp).
+- Meet an exception:
+	- [9 Penalty-Free IRA Withdrawals](https://www.investopedia.com/articles/retirement/02/111202.asp) (investopedia.com)
+	- [How To Make an Early Withdrawal From Your 401(k)](https://www.investopedia.com/ask/answers/101314/how-do-you-withdraw-money-your-401k.asp) (investopedia.com)
+- If you think that an early withdrawal scenario is the best path forward, confirm the repercussions or exemptions with the [official IRS rules](https://www.irs.gov/retirement-plans/hardships-early-withdrawals-and-loans).
+	- [Exceptions to the 10% additional tax](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-exceptions-to-tax-on-early-distributions)
 ### 72(t) Substantially Equal Periodic Payments
 - For early retirees, one of the options the IRS allows for withdrawals from retirement accounts without penalty falls under [72(t)](https://www.investopedia.com/terms/r/rule72t.asp) rules summarized in the table below.
 <!--
@@ -58,4 +63,13 @@ Please provide the table in markdown.
 #### Arguments for SEPP
 - See also GoCurryCracker!'s article on the other [available options](https://www.gocurrycracker.com/ira-withdrawals-before-age-59-5/), with a focus on SEPP, and [why he chose to use SEPP](https://www.gocurrycracker.com/why-i-plan-to-start-an-sepp/).
 - See [opinions on using SEPP for a given scenario](https://www.reddit.com/r/financialindependence/comments/soptup/72t_may_be_superior_to_the_roth_conversion_ladder/) versus the simpler option, the Roth conversion ladder<!-- #add_instant_preview_of_definition -->.
+
+## Required Minimum Distributions (RMDs)
+- The government wants their cut of pre-tax retirement account contributions and requires that accountholders begin withdrawing from these accounts by April 1st upon reaching a certain age. This age has gone up slowly over the years and will be set at 75 in 2033. 
+- The RMD is calculated based on the account balance as of December 31st of the previous year and a life expectancy factor.
+	- A [calculator](../resources/tools.md#required-minimum-distributions-rmds)<!-- #internal_anchor_link --> is included in Resources based on IRS publication 590. 
+- If an investor has multiple 401(k) workplace retirement accounts, RMDs are required on each account, whereas multiple IRAs or multiple 403(b)s can be aggregated to meet RMDs, meaning that the investor is free to choose how much to withdraw from each IRA or 403(b) to meet the aggregate RMD. However, the two different account types cannot be aggregated. Rolling over multiple accounts into IRAs prior to RMDs can simplify managing RMDs and the overall investment allocation of an investor. 
+- Workplace retirement plans opened under a current employer offer an exception if the accountholder continues working past the RMD age and the employee is not a 5% shareholder of the company. This exception does not apply to workplace plans from a previous employer. This exception may include part time workers depending on employment rules.
+- The penalty for failing to withdraw an RMD is 25% of the failed withdrawal. If [corrected](https://www.investopedia.com/articles/retirement/05/011005.asp) within two years, the penalty drops to 10%. See also the official IRS page on [correcting required minimum distribution failures](https://www.irs.gov/retirement-plans/correcting-required-minimum-distribution-failures).
+
 

@@ -7,7 +7,7 @@ tags:
 date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
-Some common terms are listed below.
+Terms that investors should become familiar with.
 ### Above-the-Line Deductions
 - Tax filing income adjustments that are independent of the standard or itemized deduction.
 - Wikipedia [list](https://en.wikipedia.org/wiki/Above-the-line_deduction).
@@ -17,7 +17,7 @@ Some common terms are listed below.
 - All sources of income minus adjustments.
 - AGI is calculated before taking the standard or itemized deduction.
 - AGI is used to determine eligibility to claim deductions and credits, e.g., the annual medical expense deduction is capped based on a percentage of AGI.
-- See also [Modified Adjusted Gross Income (MAGI)](#Modified-Adjusted-Gross-Income-(MAGI)).
+- See also [Modified Adjusted Gross Income (MAGI)](#Modified-Adjusted-Gross-Income-(MAGI))<!-- #internal_anchor_link -->
 ### Dollar cost averaging (DCA)
 - [Dollar-cost averaging](https://www.schwab.com/learn/story/what-is-dollar-cost-averaging#:~:text=Dollar-cost-averaging-is-the,as-well-as-your-costs) involves investing the same amount of money at regular intervals, regardless of price. It is a simple form of investing that the average investor can benefit from. The strategy prevents market hype from deterring an investor and results in consistently putting money to work with a long term outlook.
 ### Earnings growth
