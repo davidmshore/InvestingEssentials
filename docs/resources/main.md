@@ -46,7 +46,7 @@ Financial topics can be dry reading. The right author and style of book can make
 - [r/financialindependence -> Wiki -> Books](https://www.reddit.com/r/financialindependence/wiki/books/)
 - [r/leanfire -> Wiki](https://www.reddit.com/r/leanfire/wiki/index/) -> Reading List
 - [Bogleheads.org -> Wiki -> Suggested Reading](https://www.bogleheads.org/wiki/Suggested_reading)
-- [Reading financial books is a waste of time.](https://www.reddit.com/r/financialindependence/comments/y9eyu1/reading_financial_books_is_a_waste_of_time/) (r/financialindependence)
+- See also [**Reading financial books is a waste of time.**](https://www.reddit.com/r/financialindependence/comments/y9eyu1/reading_financial_books_is_a_waste_of_time/) (r/financialindependence) and [**Whole Book Summaries**](https://www.reddit.com/r/Bogleheads/comments/10koygj/whole_book_summaries/) by Redditor captmorgan50. Although not necessary to get started investing, I recommend reading and owning at least one book on financial planning and investing that you can markup, annotate, bookmark, and refer back to from time to time.
 ### Digital and Audiobooks
 - The local library usually has some of the recommendations listed in the links above including digital versions. Audiobooks are great if you spend time commuting or just don't have much time to read. Most county libraries provide free access to third party digital libraries for simply being a member. These services can be found on a library's website. Digital libraries still rely on the availability of books for *checkout*, and usually give the user a certain number of checkouts per month before being automatically returned unless renewed by the user. Many of the titles are also available as audiobooks.
 - Archive.org is another great place to look for free books. If books can be found they might be available for download in various formats. For example, the first edition of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) PDF can be read online or [downloaded](https://archive.org/details/null-1_202312/mode/2up?q=bogleheads%5C%27) in common reading formats. Downloading is recommended, since the future availability of uploaded content is unknown. 
@@ -74,7 +74,7 @@ Criteria may or may not apply to an investor's strategy and may apply at differe
 	- 401(k) plans may not offer the lowest cost investing options, but they are usually still the best retirement account to max out first up to the employer match, if a generous employer match is offered. 
 - Use the prospectus for potential investments to confirm the performance and expenses associated with it.
 - Use tax harvesting in taxable accounts, meaning take advantage of lower income years when the sale of securities for a gain will result in lower, or zero taxes, and/or selling securities at a loss can help offset capital gains tax. Then either wait 31 days to repurchase the same or substantially similar securities or purchase dissimilar ones to avoid a wash sale<!-- #update_with_instant_preview --> and be careful that automatic reinvestment of dividends does not trigger a wash sale. This practice effectively increases the cost basis (original purchase price of an asset) so that tax on future capital gains of the same securities will be lower. The median portfolio that used loss harvesting added about 20% to its value over what purely passive investing did.
-- Use HIFO (highest in, first out), which is removing the assets that have shown the least returns or highest loss from an account, when trying to minimize taxes. This is possible through specific identification of shares.
+- Use HIFO (highest in, first out accounting method), which is removing the assets that have shown the least returns or highest loss from an account, when trying to minimize taxes. This is possible through specific identification of shares. Accounting cost basis settings can be changed for each brokerage account.
 - Buy fund shares after the distribution date (the date when annual taxable distributions are paid).
 - Sell fund shares before the distribution date.
 - Sell profitable shares after the new year if tax harvesting allows it (generally, there is no sense paying taxes earlier than needed).
@@ -96,7 +96,7 @@ Financial web sites recommended by the authors of The Bogleheads' Guide to Inves
 - [Morningstar.com](https://www.morningstar.com/). Without question, the best source of general information about mutual funds. Also the home of the Vanguard Diehards Forum, where the Bogleheads hang out.
 - [RickFerri.com](https://rickferri.com/). This is the homepage of Diehard author Richard Ferri, CFA. Use the “Research” tab to read Rick’s papers and published articles. The “Books” tab will bring you to his excellent (free) internet book, Serious Money.
 - [RetireEarlyHomepage.com](https://www.retireearlyhomepage.com/). If you dream about retiring early and want to know how to do it, this is the site. The host, John P. Greaney, retired at age 38 and hasn't looked back.
-- [Vanguard.com/bogle_site/bogle_home.html](https://www.bogleheads.org/forum/viewtopic.php?t=288548). This is the home of the Bogle Financial Markets Research Center which supports Vanguard. Founder John C. Bogle’s ongoing work on behalf of investors. For a great learning experience, browse the Archives where you'll find Mr. Bogle’s many speeches.
+- [Vanguard.com/bogle_site/bogle_home.html](https://www.bogleheads.org/forum/viewtopic.php?t=288548). This is the home of the Bogle Financial Markets Research Center which supports Vanguard. Founder John C. Bogle’s ongoing work on behalf of investors. For a great learning experience, browse the Archives where you'll find Mr. Bogle’s many speeches. See also [The John C. Bogle Center for Financial Literacy](https://boglecenter.net/).
 - See also [Gurus](#gurus)<!-- #internal_anchor_link -->.
 ## Charts
 Great for summarizing new concepts.
@@ -113,6 +113,11 @@ Great for summarizing new concepts.
 	- [A cool guide to all the wealth in the world (2022)](https://www.reddit.com/r/coolguides/comments/1dkbbb2/a_cool_guide_to_all_the_wealth_in_the_world_2022/)
 - [Rollover Chart](https://www.irs.gov/pub/irs-tege/rollover_chart.pdf)
 - [Tax Foundation](https://taxfoundation.org/search/?_sf_s=tax+maps)
+## Debt Services
+- Free credit check.
+	- Major credit card services offer free credit checks. Look for or search for the link within your credit card service after logging into the website or mobile app.
+- [National Foundation for Credit Counseling (NFCC)](https://www.nfcc.org/)
+	- Avoid the risk of using a questionable debt management service and start with the NFCC.
 ## Forums & Wikis
 ### Financial Planning
 - [**Bogleheads.org**](https://bogleheads.org/index.php)
@@ -162,7 +167,7 @@ Every asset is an opportunity for wise investing.
     - [Jane Bryant Quinn](https://jbquinn.com/)
 - [Laura Adams](https://lauradadams.com/) (Money Girl Podcast)
     - Laura Adams provides quick snippets of general financial advice presented in an easy to understand way with a good amount of energy to help keep listeners engaged. She is also an author of books and a free newsletter.
-    - [Free downloads](https://lauradadams.com/freebies) - retirement comparison chart (just use a GPT bot from now on), HSA quick guide, financial advisor assessment guide, legacy records checklist and more can be found here.
+    - [Free downloads](https://lauradadams.com/freebies) - A net worth calculator/tracker (personal financial statement), HSA quick guide, financial advisor assessment guide, legacy records checklist and more can be found here.
 - [Clark Howard](https://clark.com/) (The Clark Howard Show)
 	- Clark.com is a great resource for practical financial tips, topical guides, and reviews on banks, credit services, phone plans, investing institutions and insurance companies.
 - See also [Blogs](#blogs)<!-- #internal_anchor_link --> and [Podcasts](#podcasts)<!-- #internal_anchor_link -->.

@@ -9,7 +9,7 @@ date modified: 2024-11-11 15:45
 ---
 ### *A rising tide lifts all boats*.
 
-Capitalism benefits the wealthy the most, but most people are never taught how to get the most out of their access to their wealth, or take advantage of compound interest.
+Capitalism benefits the wealthy the most, but most people are never taught how to get the most out of access to their wealth or take advantage of compound interest.
 
 The study of the financial markets can be about as complex as some of the most intensely studied scientific fields in the world [if someone wants to hunt for market inefficiencies](https://www.youtube.com/watch?v=A5w-dEgIU1M). However, by reviewing historical patterns, understanding the fundamentals to investing, taking advantage of the [principle of compounding](https://www.youtube.com/watch?v=wf91rEGw88Q), and keeping things simple, ending up with a relatively secure financial future is easier to start, maintain, and attain than just about any other major asset a person may own in life. This is summarized in the [Prime Directive flowchart](https://i.imgur.com/lSoUQr2.jpeg) ([non-US versions](https://www.reddit.com/r/personalfinance/wiki/commontopics/#wiki_graphical_version) also available) from [r/personalfinance](https://www.reddit.com/r/personalfinance/?rdt=48190). Focus on learning and utilizing the basics before getting too far off the main path to financial growth. There are advanced investment strategies that may or may not be beneficial to the reader, and these will become easier to understand after the basic concepts, rules, and especially tax laws become second nature.
 
