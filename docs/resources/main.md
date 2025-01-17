@@ -25,8 +25,8 @@ For a dedicated free mobile reading app with excellent text-to-speech, Reader by
 Financial topics can be dry reading. The right author and style of book can make the big difference between a book you stay interested in versus one that will primarily be used for reference. The more you build your foundational understanding, the easier listening will become without the need for things like charts to visualize concepts for you.
 ## Blogs
 - [Crown.org](https://wwwcrown.org/)
-	- Crown Financial Ministries was established in the 1970s with the goal of applying biblical principles of responsible money management. The website is set up like a blog and covers various life decisions involving money. Resources include a podcast and a few paid courses for people who prefer a guided path or assistance in passing financial knowledge on to the next generation. Some notable biblical proverbs on wise investing: 
-		- Proverbs 6:6-8 Go to the ant, you sluggard! Consider her ways and be wise, which, having no captain, overseer or ruler, prepares her food in the summer and gathers her food in the harvest.
+	- Crown Financial Ministries was established in the 1970s with the goal of applying biblical principles of responsible money management. The website is set up like a blog and covers various life decisions involving money. Resources include a podcast and a few paid courses for people who prefer a guided path or assistance in passing financial knowledge on to the next generation. Some notable biblical proverbs that apply to investing: 
+		- Proverbs 6:6-8 - Go to the ant, you sluggard! Consider her ways and be wise, which, having no captain, overseer or ruler, prepares her food in the summer and gathers her food in the harvest.
 		- Proverbs 21:5 - The plans of the diligent lead surely to abundance and advantage, but everyone who acts in haste comes surely to poverty.
 		- Proverbs 21:20 - There is precious treasure and oil in the house of the wise [who prepare for the future], But a short-sighted _and_ foolish man swallows it up _and_ wastes it.
 		- Proverbs 27:23 - Be diligent to know the state of your flocks, attend to your herds.
@@ -115,7 +115,7 @@ Great for summarizing new concepts.
 - [Tax Foundation](https://taxfoundation.org/search/?_sf_s=tax+maps)
 ## Debt Services
 - Free credit check.
-	- Major credit card services offer free credit checks. Look for or search for the link within your credit card service after logging into the website or mobile app.
+	- Major credit card services offer free credit checks. Search for the link on your credit card website or mobile app after logging in.
 - [National Foundation for Credit Counseling (NFCC)](https://www.nfcc.org/)
 	- Avoid the risk of using a questionable debt management service and start with the NFCC.
 ## Forums & Wikis
@@ -166,10 +166,10 @@ Every asset is an opportunity for wise investing.
     - [Jason Zweig](https://jasonzweig.com/) (contributor to 4<sup>th</sup> edition of [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8/ref=sr_1_1?s=digital-text&sr=1-1) and a Wall Street Journal columnist).
     - [Jane Bryant Quinn](https://jbquinn.com/)
 - [Laura Adams](https://lauradadams.com/) (Money Girl Podcast)
-    - Laura Adams provides quick snippets of general financial advice presented in an easy to understand way with a good amount of energy to help keep listeners engaged. She is also an author of books and a free newsletter.
+    - Laura Adams' presents quick snippets of general financial advice in an easy to follow way with a good amount of energy to help keep listeners engaged. Adams is also a book and free newsletter author helping readers stay informed on financial topics.
     - [Free downloads](https://lauradadams.com/freebies) - A net worth calculator/tracker (personal financial statement), HSA quick guide, financial advisor assessment guide, legacy records checklist and more can be found here.
 - [Clark Howard](https://clark.com/) (The Clark Howard Show)
-	- Clark.com is a great resource for practical financial tips, topical guides, and reviews on banks, credit services, phone plans, investing institutions and insurance companies.
+	- Clark Howard is a bona fide public financial servant. Clark.com is a great resource for practical tips, topical guides, and reviews on banks, credit services, phone plans, investing institutions and insurance companies. Howard is also a book and free newsletter author.
 - See also [Blogs](#blogs)<!-- #internal_anchor_link --> and [Podcasts](#podcasts)<!-- #internal_anchor_link -->.
 ## Kids & Teens
 - [Financial Accounts to Open for Your Child to Build Lifelong Wealth](https://www.moneycrashers.com/financial-accounts-open-child/) (moneycrashers.com)
@@ -180,6 +180,7 @@ Every asset is an opportunity for wise investing.
 - [Money Girl Podcast](https://lauradadams.com/podcast)
 - [r/financialindependence -> Wiki -> Books](https://www.reddit.com/r/financialindependence/wiki/books/) -> Podcasts
 - [YourMoneyOrYourLife.com -> Resources/](https://yourmoneyoryourlife.com/resources/) -> Podcasts
+- [More](https://www.reddit.com/r/Bogleheads/comments/1bt77a8/money_podcasts/)
 ## Rates & Yields
 - Average [U.S. inflation rate](https://inflationdata.com/Inflation/Inflation_Rate/Long_Term_Inflation.asp).
 - Current [federal income tax rates](https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets).
@@ -198,4 +199,3 @@ Every asset is an opportunity for wise investing.
 - [Investopedia](https://www.investopedia.com/)
 	- [Is Investopedia reliable?](https://www.reddit.com/r/AskEconomics/comments/lp249g/is_investopedia_reliable/) (r/AskEconomics)
 - [Nerd Wallet](https://www.nerdwallet.com/?trk=nw_gn_6.0)
-- [The Penny Hoarder](https://www.thepennyhoarder.com/)

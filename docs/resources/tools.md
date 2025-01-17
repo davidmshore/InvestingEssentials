@@ -95,7 +95,7 @@ These tools will primarily consist of calculators to help figure out anything th
 	- Notable tools:
 		- [The Bogleheads Retiree Portfolio Model](https://www.bogleheads.org/wiki/Retiree_Portfolio_Model)
 - Collections
-	- It is recommended to use more than one of a similar type of calculator for validating a result if you are unfamiliar with how the result is derived.
+	- Use more than one of a similar type of calculator for validating a result if you are unfamiliar with how the result is derived.
 	- [clark.com](https://clark.com/calculators/)
 	- [fnCalculator.com](https://www.fncalculator.com/)
 	- [OmniCalculator.com](https://www.omnicalculator.com/finance)

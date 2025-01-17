@@ -37,6 +37,7 @@ There are three main types of advisors.
 	- Certified public accountants (CPA)
 		- CPAs specialize in tax preparation.
 - Some advisors only work with high net worth clients or investors nearing retirement.
+- The ideal advisor for most people will be a **fee-only fiduciary** advisor.
 
 To find an advisor, visit:
 
