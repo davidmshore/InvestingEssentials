@@ -51,53 +51,6 @@ Financial topics can be dry reading. The right author and style of book can make
 - The local library usually has some of the recommendations listed in the links above including digital versions. Audiobooks are great if you spend time commuting or just don't have much time to read. Most county libraries provide free access to third party digital libraries for simply being a member. These services can be found on a library's website. Digital libraries still rely on the availability of books for *checkout*, and usually give the user a certain number of checkouts per month before being automatically returned unless renewed by the user. Many of the titles are also available as audiobooks.
 - Archive.org is another great place to look for free books. If books can be found they might be available for download in various formats. For example, the first edition of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up) PDF can be read online or [downloaded](https://archive.org/details/null-1_202312/mode/2up?q=bogleheads%5C%27) in common reading formats. Downloading is recommended, since the future availability of uploaded content is unknown. 
 - Sometimes converting to other formats may be desired so the media can be opened with a particular app. [Calibre](https://calibre-ebook.com/) is a powerful desktop application that can convert to just about any format. 
-### From The Bogleheads' Guide to Investing
-#### Summarized Portfolio Characteristics and Investing Tips
-Criteria may or may not apply to an investor's strategy and may apply at different periods throughout the life of an investor:
-
-- Avoid managed accounts. The fees may not sound like much, but they reduce the amount of capital available for compound growth. This can amount to years worth of retirement income, which will result in the investor either having to reduce their standard of retirement living or work longer to save up additional income. Instead, invest in low cost index funds.
-- Financial advisors are a valuable resource—especially early on for coming up with a plan that aligns with your retirement goals—but consider the fee structure an advisor uses. If seeking professional help, look for a certified financial planner that offers their service on a flat fee or time-based price structure. This way the exchange for their time is of more equal value than paying an annual commission for your money to sit in an investment account that will likely be semi-automated for the average investor.
-- Avoid tax drag. Generally accomplished through the use of tax advantaged accounts. This can become more nuanced if an investor plans to retire early and must understand SEPP rules and possibly utilize income from other sources of income. 
-	- Use tax advantaged accounts. 401K, 403b, IRAs, etc. There many different options for workers and their spouses through company plans.
-- Least tax efficient funds<!-- #update_with_instant_preview --> in tax advantaged account.
-- Most tax efficient funds in taxable account.
-	- Use tax efficient index funds.
-	- Keep turnover low, try to buy funds that last forever to avoid taxable events (turnover rate needs to be over one year to take advantage of long term capital gains for capital invested in taxable brokerage accounts).
-	- Funds having the fewest dividend assets.
-	- Low dividend yield funds.
-	- Qualified dividends are more tax efficient than ordinary dividends. Qualified dividends are taxed as long term capital gains rather than ordinary income.
-	- Stocks with qualified dividends are better placed in taxable accounts, while stocks with ordinary dividend yields, which are taxed as ordinary income, are better placed in tax advantaged accounts.
-- There is a list of estimated least tax efficient to most tax efficient assets on [page 140](https://archive.org/details/null-1_202312/mode/2up) of the book (PDF page 167).
-- Assuming that when comparing funds to invest in, each are equally diversified, the expense ratio is the #1 indicator of how well a fund will perform over time.
-- Morningstar.com provides a tax cost ratio of 3, 5, 10, and 15 year periods.
-- 401(k) plan details about fees and expenses are provided in Summary Plan Descriptions. Form 5500 does not show individual account expenses, but additional documents may be requested from an employer about how much they are paying.
-	- 401(k) plans may not offer the lowest cost investing options, but they are usually still the best retirement account to max out first up to the employer match, if a generous employer match is offered. 
-- Use the prospectus for potential investments to confirm the performance and expenses associated with it.
-- Use tax harvesting in taxable accounts, meaning take advantage of lower income years when the sale of securities for a gain will result in lower, or zero taxes, and/or selling securities at a loss can help offset capital gains tax. Then either wait 31 days to repurchase the same or substantially similar securities or purchase dissimilar ones to avoid a wash sale<!-- #update_with_instant_preview --> and be careful that automatic reinvestment of dividends does not trigger a wash sale. This practice effectively increases the cost basis (original purchase price of an asset) so that tax on future capital gains of the same securities will be lower. The median portfolio that used loss harvesting added about 20% to its value over what purely passive investing did.
-- Use HIFO (highest in, first out accounting method), which is removing the assets that have shown the least returns or highest loss from an account, when trying to minimize taxes. This is possible through specific identification of shares. Accounting cost basis settings can be changed for each brokerage account.
-- Buy fund shares after the distribution date (the date when annual taxable distributions are paid).
-- Sell fund shares before the distribution date.
-- Sell profitable shares after the new year if tax harvesting allows it (generally, there is no sense paying taxes earlier than needed).
-- Regarding bonds, as of the publishing of the book in 2014, it is advised to use a bond advisor due to deceptive restricted clauses and hidden fees in certain bond types (e.g., corporate bonds). An exception would be using treasurydirect.com that offers direct issues of US government bonds to end users.
-- Avoid timing the market and contribute earned income on a scheduled basis.
-- Be prepared to pass on assets by having legal instructions written up in a will or trust. 
-#### Recommended Resources
-Financial web sites recommended by the authors of The Bogleheads' Guide to Investing:
-(In Alphabetical Order)
-
-- [AltruistFA.com/readingroom.htm](https://www.altruistfa.com/readingroom.htm). The Reading Room of Diehard contributor Eric Haas is a great place to learn about investing.
-- [crr.bc.edu](https://crr.bc.edu/). The Center for Retirement Research at Boston College is an excellent source of research and articles about retirement issues.
-- [Bloomberg.com](https://www.bloomberg.com/). Financial news and information, including current bond prices and yields, can be found at Bloomberg.
-- [Bylo.org](https://www.bylo.org/). Diehard Bylo Selhi operates a Canadian Web site filled with insightful mutual fund information useful to everyone.
-- [ChooseToSave.org](https://www.choosetosave.org). Have trouble saving? Need a financial calculator? This is the place to go.
-- [CoffeeHouseInvestor.com](https://coffeehouseinvestor.com/). Hosted by Diehard author Bill Schultheis, this is a good resource for solid information.
-- [JasonZweig.com](https://jasonzweig.com/). One of the best financial columnists and authors in the business, Jason Zweig has created a site for investors who want to learn to think for themselves.
-- [MoneyChimp.com](http://www.moneychimp.com/). Everything about money; articles, calculators and much тоге.
-- [Morningstar.com](https://www.morningstar.com/). Without question, the best source of general information about mutual funds. Also the home of the Vanguard Diehards Forum, where the Bogleheads hang out.
-- [RickFerri.com](https://rickferri.com/). This is the homepage of Diehard author Richard Ferri, CFA. Use the “Research” tab to read Rick’s papers and published articles. The “Books” tab will bring you to his excellent (free) internet book, Serious Money.
-- [RetireEarlyHomepage.com](https://www.retireearlyhomepage.com/). If you dream about retiring early and want to know how to do it, this is the site. The host, John P. Greaney, retired at age 38 and hasn't looked back.
-- [Vanguard.com/bogle_site/bogle_home.html](https://www.bogleheads.org/forum/viewtopic.php?t=288548). This is the home of the Bogle Financial Markets Research Center which supports Vanguard. Founder John C. Bogle’s ongoing work on behalf of investors. For a great learning experience, browse the Archives where you'll find Mr. Bogle’s many speeches. See also [The John C. Bogle Center for Financial Literacy](https://boglecenter.net/).
-- See also [Gurus](#gurus)<!-- #internal_anchor_link -->.
 ## Charts
 Great for summarizing new concepts.
 
@@ -113,9 +66,10 @@ Great for summarizing new concepts.
 	- [A cool guide to all the wealth in the world (2022)](https://www.reddit.com/r/coolguides/comments/1dkbbb2/a_cool_guide_to_all_the_wealth_in_the_world_2022/)
 - [Rollover Chart](https://www.irs.gov/pub/irs-tege/rollover_chart.pdf)
 - [Tax Foundation](https://taxfoundation.org/search/?_sf_s=tax+maps)
+- For stock, index, mutual fund, ETF, etc. charting see [tools](tools.md#charting)<!-- #internal_anchor_link -->.
 ## Debt Services
-- Free credit check.
-	- Major credit card services offer free credit checks. Search for the link on your credit card website or mobile app after logging in.
+- [Free credit check](https://clark.com/credit/free-credit-score/).
+	- Major credit card services offer free credit scores. Search for the link on your credit card website or mobile app after logging in.
 - [National Foundation for Credit Counseling (NFCC)](https://www.nfcc.org/)
 	- Avoid the risk of using a questionable debt management service and start with the NFCC.
 ## Forums & Wikis
@@ -161,23 +115,31 @@ Every asset is an opportunity for wise investing.
 		- [Similar subreddits to r/personalfinance by user overlap](https://subredditstats.com/subreddit-user-overlaps/personalfinance).
 		- [Similar subreddits to r/homeimprovement by user overlap](https://subredditstats.com/subreddit-user-overlaps/homeimprovement).
 - [SayIt](https://anvaka.github.io/sayit/?query=) graphs related subs that users have commented to.
-## Gurus
+## Kids & Teens
+- [Financial Accounts to Open for Your Child to Build Lifelong Wealth](https://www.moneycrashers.com/financial-accounts-open-child/) (moneycrashers.com)
+- [Finance 101](https://www.fidelity.com/learning-center/personal-finance/personal-finance-for-students) for savvy kids and teens provides a few basic lessons about earned income, budgeting and investing. (fidelity.com)
+- [Increase Your Financial Literacy](https://www.moneycrashers.com/increase-financial-literacy-iq/) (moneycrashers.com)
+## Mentors
 - Reputable investment advice per the authors of A Bogleheads Guide to Investing (2<sup>nd</sup> edition):
     - [Jason Zweig](https://jasonzweig.com/) (contributor to 4<sup>th</sup> edition of [The Intelligent Investor](https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8/ref=sr_1_1?s=digital-text&sr=1-1) and a Wall Street Journal columnist).
     - [Jane Bryant Quinn](https://jbquinn.com/)
 - [Laura Adams](https://lauradadams.com/) (Money Girl Podcast)
     - Laura Adams' presents quick snippets of general financial advice in an easy to follow way with a good amount of energy to help keep listeners engaged. Adams is also a book and free newsletter author helping readers stay informed on financial topics.
     - [Free downloads](https://lauradadams.com/freebies) - A net worth calculator/tracker (personal financial statement), HSA quick guide, financial advisor assessment guide, legacy records checklist and more can be found here.
+- [Rob Berger](https://robberger.com/)
+	- A retired securities lawyer turned financial book, blog, and newsletter author who also publishes YouTube [videos](https://www.youtube.com/@rob_berger), where he focuses on retirement planning and often demonstrates using the various financial planning tools recommended on his blog.
 - [Clark Howard](https://clark.com/) (The Clark Howard Show)
 	- Clark Howard is a bona fide public financial servant. Clark.com is a great resource for practical tips, topical guides, and reviews on banks, credit services, phone plans, investing institutions and insurance companies. Howard is also a book and free newsletter author.
 - See also [Blogs](#blogs)<!-- #internal_anchor_link --> and [Podcasts](#podcasts)<!-- #internal_anchor_link -->.
-## Kids & Teens
-- [Financial Accounts to Open for Your Child to Build Lifelong Wealth](https://www.moneycrashers.com/financial-accounts-open-child/) (moneycrashers.com)
-- [Finance 101](https://www.fidelity.com/learning-center/personal-finance/personal-finance-for-students) for savvy kids and teens provides a few basic lessons about earned income, budgeting and investing. (fidelity.com)
-- [Increase Your Financial Literacy](https://www.moneycrashers.com/increase-financial-literacy-iq/) (moneycrashers.com)
+## Paid Publications
+While most of the resources listed on this page are free and sufficient for the average investor, the absolute latest financial news and in-the-weeds coverage of topics presented in easy to consume formats comes from financial publications. Consider subscribing to the free newsletters from the [mentors](#mentors)<!-- #internal_anchor_link  --> listed above first to see if that satisfies your needs.
+- [Financial Times](https://www.ft.com/)
+- [Barrons](https://www.barrons.com/)
 ## Podcasts
 - [Clark Howard](https://clark.com/podcasts/)
+	- The podcast covers everything affecting your wallet, including questions from listeners. Once a week an episode focuses on investment topics with a guest fiduciary advisor.
 - [Money Girl Podcast](https://lauradadams.com/podcast)
+	- One of the best podcasts for new investors to help ingrain the basics to memory is also one of the few to publish concise episodes making it easy to search for topics. Laura Adams makes sure to repeat the fundamentals often to keep investors on track and updates listeners with upcoming rule changes.
 - [r/financialindependence -> Wiki -> Books](https://www.reddit.com/r/financialindependence/wiki/books/) -> Podcasts
 - [YourMoneyOrYourLife.com -> Resources/](https://yourmoneyoryourlife.com/resources/) -> Podcasts
 - [More](https://www.reddit.com/r/Bogleheads/comments/1bt77a8/money_podcasts/)
@@ -192,10 +154,27 @@ Every asset is an opportunity for wise investing.
 - Current bond yields:
 	- [US Treasury](https://www.treasurydirect.gov/auctions/announcements-data-results/)
 	- For corporate bonds, use a brokerage firm's bond lookup tool to narrow the results to the desired criteria.
-## Comprehensive Resources
+## Boglehead Websites 
+Financial web sites recommended by the authors of The Bogleheads' Guide to Investing (© 2014) in alphabetical order:
+
+- [AltruistFA.com/readingroom.htm](https://www.altruistfa.com/readingroom.htm) - The Reading Room of Diehard contributor Eric Haas is a great place to learn about investing.
+- [crr.bc.edu](https://crr.bc.edu/) - The Center for Retirement Research at Boston College is an excellent source of research and articles about retirement issues.
+- [Bloomberg.com](https://www.bloomberg.com/) - Financial news and information, including current bond prices and yields, can be found at Bloomberg.
+- [Bylo.org](https://www.bylo.org/) - Diehard Bylo Selhi operates a Canadian Web site filled with insightful mutual fund information useful to everyone.
+- [ChooseToSave.org](https://www.choosetosave.org) - Have trouble saving? Need a financial calculator? This is the place to go.
+- [CoffeeHouseInvestor.com](https://coffeehouseinvestor.com/) - Hosted by Diehard author Bill Schultheis, this is a good resource for solid information.
+- [JasonZweig.com](https://jasonzweig.com/) - One of the best financial columnists and authors in the business, Jason Zweig has created a site for investors who want to learn to think for themselves.
+- [MoneyChimp.com](http://www.moneychimp.com/) - Everything about money; articles, calculators and much тоге.
+- [**Morningstar.com**](https://www.morningstar.com/) - Without question, the best source of general information about mutual funds. Also the home of the Vanguard Diehards Forum, where the Bogleheads hang out.
+- [RickFerri.com](https://rickferri.com/) - This is the homepage of Diehard author Richard Ferri, CFA. Use the “Research” tab to read Rick’s papers and published articles. The “Books” tab will bring you to his excellent (free) internet book, Serious Money.
+- [RetireEarlyHomepage.com](https://www.retireearlyhomepage.com/) - If you dream about retiring early and want to know how to do it, this is the site. The host, John P. Greaney, retired at age 38 and hasn't looked back.
+- [Vanguard.com/bogle_site/bogle_home.html](https://www.bogleheads.org/forum/viewtopic.php?t=288548) - This is the home of the Bogle Financial Markets Research Center which supports Vanguard. Founder John C. Bogle’s ongoing work on behalf of investors. For a great learning experience, browse the Archives where you'll find Mr. Bogle’s many speeches. See also [The John C. Bogle Center for Financial Literacy](https://boglecenter.net/).
+- See also [Mentors](#mentors)<!-- #internal_anchor_link -->.
+## Comprehensive Financial Resources
 - [The Balance](https://www.thebalancemoney.com/)
 - [Bing Copilot](https://copilot.microsoft.com/) or [Perplexity AI](https://www.perplexity.ai/) for overviews, starting on a new topic, or a finding a quick answer to a basic question. Confirm answers before making investment decisions.
 - [Clark Howard](https://clark.com/)
+	- Along with the articles and podcast advice, Clark's Consumer Action Center is a free community resource for advice on money and consumer issues.
 - [Investopedia](https://www.investopedia.com/)
 	- [Is Investopedia reliable?](https://www.reddit.com/r/AskEconomics/comments/lp249g/is_investopedia_reliable/) (r/AskEconomics)
 - [Nerd Wallet](https://www.nerdwallet.com/?trk=nw_gn_6.0)

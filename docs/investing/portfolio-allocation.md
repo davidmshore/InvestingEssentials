@@ -35,7 +35,7 @@ date modified: 2024-11-11 15:45
 - <=10% sector focused
 	- It is generally better not to be focused on a specific market sector, e.g., energy, unless the investor has a good reason.
 - <=10% REIT
-	- Real estate investment trusts are real estate securities that offer returns on rental property to investors.
+	- Real estate investment trusts are real estate securities that offer returns on rental property to investors. REITs tend to focus on a certain type of real estate, e.g., apartments, shopping centers, storage units, etc., so an index fund of REITs can be used to diversify.
 - <=20% global equities
 	- Global investment is okay to have or not giving consideration to the stability of the domestic economy. For US investors, it can help smooth out periods of poor US stock market performance, but it has historically slightly underperformed the US market on average.
 	- Large cap domestic companies doing business globally are, in a way, a global investment.
@@ -45,7 +45,7 @@ date modified: 2024-11-11 15:45
 - REITs can also be interest earning securities in the form of mortgage backed securities or a combination of equity and debt investment in one security.
 - As with any debt investment, look for high yield returns.
 ## Indices
-- For index investing, a fund of funds with a target retirement date can be a good choice if fees can be kept low, i.e. per the Bogleheads' this was 0.2%-0.5% and no more, including taking into account any extra fees for the convenience of automatic rebalancing. However, if a similar portfolio can be created with a lower overall expense an investor will have slightly more retirement income. For example the Vanguard Total Stock Market Index Fund Admiral Shares (VTSAX) has an expense ratio of just 0.04%. Other passively managed funds should have comparably low expense ratios, and fund of funds may be chosen apart from TDF management. So, assess the convenience cost of automatic rebalancing and if it is worth it to you in the end. This calculation will be covered in the next section. 
+- For index investing, a fund of funds with a target retirement date can be a good choice if fees can be kept low, i.e. per the Bogleheads' this was 0.2%-0.5% and no more, including taking into account any extra fees for the convenience of automatic rebalancing. However, if a similar portfolio can be created with a lower overall expense an investor will have slightly more retirement income. For example the Vanguard Total Stock Market Index Fund Admiral Shares mutual fund (VTSAX) has an expense ratio of just 0.04%. Other passively managed funds should have comparably low expense ratios, and fund of funds may be chosen apart from TDF management. So, assess the convenience cost of automatic rebalancing and if it is worth it to you in the end. This calculation will be covered in the next section. 
 - The Bogleheads' Guide to Investing references the [Wilshire 5000](https://www.wilshireindexes.com/products/ft-wilshire-5000-index-series) as a US benchmark that other indices are measured against and is worth considering as the bulk investment asset for equity allocation.
 - An important fact for investors to know is that [passive funds have historically outperformed actively managed funds](https://www.bogleheads.org/forum/viewtopic.php?t=278454). 
 ## Rebalancing

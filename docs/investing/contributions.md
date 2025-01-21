@@ -34,13 +34,15 @@ date modified: 2024-11-11 15:45
 ## Contributing to Another Person's Account
  [How to Make an IRA Contribution as a Gift](https://www.investopedia.com/how-to-make-an-ira-contribution-as-a-gift-5205157) (investopedia.com)
  
- - Only a child or spouse can be recipients of direct IRA contributions.
- - Total contributions to a spouse's account are capped at the lower of:
-	 - The contributing spouse's earned income for the year, or
-	 - The maximum allowed contribution for the IRA.
- - Total contributions to a child's account are capped at what the accountholder (child) has earned for the year or the maximum contribution for the IRA.
-	 - For example, a child who earns $1000 reported income is eligible to receive a total of $1000 in contributions to their IRA account and is not required to invest any of their own earned income. The key here is the earned income amount reported on a tax return (wages, self-employment income, etc.); investment income (e.g., stock dividends or interest) does not count.
-	 - Web search: [`hire your child fund ira`](https://www.google.com/search?sca_esv=16785a0985ba4fc4&q=hire+your+child+fund+ira&spell=1&sa=X&ved=2ahUKEwjRlpmj7tiKAxUCDTQIHRvcCvEQBSgAegQIDxAB&biw=1920&bih=1027)
- - A child or spouse can make direct contributions of money gifted to them from individuals other than a parent or spouse per the previously mentioned rules and limits.
  - An IRA is always opened in the name of the future retiree.
+ - Spousal contributions require joint tax filing.
+	 - Total contributions to a spouse's account are capped at the lower of:
+		 - The contributing spouse's earned income for the year, or
+		 - The maximum allowed contribution for the IRA.
+	 - To max out both spouse's IRAs, their combined earned income must be greater than or equal to 2x the annual IRA maximum contribution limit.
+ - Total contributions to a child's account are capped at what the accountholder (child) has earned for the year or the maximum contribution for the IRA.
+ - A child or spouse can make direct contributions of money gifted to them as long as the previously mentioned rules and earned income limits are met.
+	 - For example, a child who earns $1000 of reported income is eligible to contribute a total of $1000 into their IRA. Generous family and friends decide to help the child get started with retirement planning by gifting a combined total of $600. The child decides to invest $400 of their earned income and the $600 gift, maxing out their allowed contribution. The key here is the earned income amount reported on a tax return (wages, self-employment income, etc.); investment income (e.g., stock dividends or interest) does not count.
+	 - Web search: [`hire your child fund ira`](https://www.google.com/search?sca_esv=16785a0985ba4fc4&q=hire+your+child+fund+ira&spell=1&sa=X&ved=2ahUKEwjRlpmj7tiKAxUCDTQIHRvcCvEQBSgAegQIDxAB&biw=1920&bih=1027)
+ - Changes to 529 rules now allow rollover of a portion of unused funds to a Roth IRA.  
  - See [comparison tables](../accounts/types.md)<!-- #internal_link --> of other custodial account types and the [summary tables](../accounts/contribution-and-deductibility-summaries.md)<!-- #internal_link --> for a summarized list of all categorical account types, deduction rules, and cutoff dates.

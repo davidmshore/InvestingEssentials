@@ -33,8 +33,12 @@ date modified: 2024-11-11 15:45
 	- A discussion on [realistic returns calculators](https://www.reddit.com/r/personalfinance/comments/14zqp78/is_there_an_investment_calculator_that_simulates/) from Reddit.
 ### Historic
 - [Stoculator](https://stoculator.com/)
-	- Historic asset performance lookup.
+	- Historic asset performance calculator.
 	- A ticker, such as VTI or WFIVX for the total US market or VFIAX for the largest US companies, can be used to retrieve returns for a chosen lookback period.
+### Net Worth
+- [Apps](https://www.reddit.com/search/?q=alternatives+to+mint+for+net+worth+tracking&cId=bfe2e1f7-be67-4d14-b3e6-e063bb036759&iId=14ed36eb-a5a6-4997-b116-d8bb1e387ef0)
+- [Free Spreadsheets](https://www.google.com/search?q=free+net+worth+spreadsheet&sca_esv=c137534a6bb4ed6f&source=hp&ei=GOKNZ8yFNZ6Cm9cP3ZLX6Q8&iflsig=AL9hbdgAAAAAZ43wKHXA_NznoX82cYMBadimUj-ruG7G&ved=0ahUKEwjM8d-5y4OLAxUeweYEHV3JNf0Q4dUDCBE&uact=5&oq=free+net+worth+spreadsheet&gs_lp=Egdnd3Mtd2l6IhpmcmVlIG5ldCB3b3J0aCBzcHJlYWRzaGVldDIFEAAYgAQyBRAAGIAEMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBRAAGO8FSNEhUABY4yBwAXgAkAEAmAFpoAHkDqoBBDI2LjG4AQPIAQD4AQGYAhygAqgPwgILEAAYgAQYkQIYigXCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIMBwgIIEAAYgAQYsQPCAgsQLhiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgIKEAAYgAQYQxiKBcICChAuGIAEGEMYigXCAg0QLhiABBixAxhDGIoFwgINEAAYgAQYsQMYQxiKBcICFBAuGIAEGLEDGNEDGIMBGMcBGIoFwgIOEAAYgAQYsQMYgwEYigXCAgsQLhiABBjHARivAcICDRAuGIAEGMcBGAoYrwHCAgcQABiABBgKwgIJEAAYFhjHAxgewgILEAAYgAQYhgMYigXCAggQABiABBiiBJgDAJIHBDI3LjGgB_y6AQ&sclient=gws-wiz)
+- [NerdWallet](https://www.nerdwallet.com/article/finance/net-worth-calculator)
 ### Retirement Calculators
 #### Conversions
 - Since IRAs are subject to ordinary income tax rates, [conversion](https://www.reddit.com/r/investing/comments/1bfmq1t/roth_ira_conversion_taxes/) from a pre-tax to post-tax account will always incur at least federal, if not also state tax.
@@ -42,10 +46,10 @@ date modified: 2024-11-11 15:45
 	- [bankrate.com](https://www.bankrate.com/retirement/convert-ira-roth-calculator/)
 	- [vanguard.com](https://advisors.vanguard.com/tax-center/tools/roth-betr-calculator/#/)
 #### Net Worth & Distribution Estimators
-- Use more than one tools for planning and validation.
+- Use more than one tool for planning and validation. The functionality of the tools listed below overlap and multiple are listed for the sake of redundancy and including a few simpler options. Bold tools are recommended.
 - [NerdWallet - How Long Will My Retirement Savings Last](https://www.nerdwallet.com/article/investing/social-security/how-long-will-your-retirement-savings-last)
 - [**cFIRESim**](https://www.cfiresim.com/)
-	- The go-to retirement calculator. It was created to simulate [FIRECalc](https://www.firecalc.com/) with the option to add custom adjustments.
+	- One of the go-to retirement calculators. It was created to simulate [FIRECalc](https://www.firecalc.com/) with the option to add custom adjustments.
 	- [CFiresim… how much do you trust it?](https://www.reddit.com/r/leanfire/comments/15tcsau/cfiresim_how_much_do_you_trust_it/) (r/leanfire)
 	- [Bogleheads® Chapter Series - cFIREsim Demonstration](https://www.youtube.com/watch?v=Lg7NX2Lx9wY) (YouTube)
 - [Choose Investing](https://www.chooseinvesting.com/calc/fire/)
@@ -60,10 +64,17 @@ date modified: 2024-11-11 15:45
 	- [The Monte Carlo Simulation: Understanding the Basics](https://www.investopedia.com/articles/investing/112514/monte-carlo-simulation-basics.asp)
 - [**NerdWallet Retirement Calculator**](https://www.nerdwallet.com/calculator/retirement-calculator)
 	- A simple calculator and graph that can be configured for estimated account value and continued growth during withdrawal years up to expected mortality.
+- [**Portfolio Visualizer**](https://www.portfoliovisualizer.com/) & Alternatives
+	- One of the best tools for simulating retirement scenarios, but it has undergone some changes including back testing limitations on the free version.
+	- [Walkthrough](https://www.youtube.com/watch?v=3PzftQdvpis) using the old layout.
+	- [Navigating](https://www.youtube.com/watch?v=jsxk3UF5D78) the new layout.
+	- Alternatives
+		- [**TestFol**](https://testfol.io/) - Free
 - Spreadsheet calculation
-	- [Retirement calculator that is actually good?](https://www.reddit.com/r/personalfinance/comments/x2i5sh/retirement_calculator_that_is_actually_good/) (r/personalfinance)
+	- [Retiree Portfolio Model](https://www.bogleheads.org/wiki/Retiree_Portfolio_Model) (Bogleheads.org)
 	- See also the [r/personalfinance Wiki -> Tools](https://www.reddit.com/r/personalfinance/wiki/tools/).
-- If any of these calculators become unavailable, most of the subreddits listed the main resources page include links to currently available tools in their sidebars.
+- [r/retirement](https://www.reddit.com/r/retirement/wiki/index/)
+- If any of these calculators become unavailable, most of the subreddits listed the main resources page include links to currently available tools in their sidebars or wikis.
 #### 401(k) Maximizer Calculator
 - [CalcXML](https://www.calcxml.com/do/qua09)
 - [HSA & 401(k) Maximizer](https://hsastore.com/hsa-401k-maximizer)
@@ -80,6 +91,8 @@ date modified: 2024-11-11 15:45
 - [1040 Tax Calculator](https://www.dinkytown.net/java/1040-tax-calculator.html) (dinkytown.net)
 	- Full 1040 calculator for making sure everything is in order before the end of the tax year or testing specific calculations.
 - For tax tables see the links to [rates & yields](main.md#rates-yields)<!-- #internal_anchor_link -->.
+## Charting
+- Brokerage firms offer their own tools and there are hundreds of other websites and platforms to choose from as well. [BarChart](https://www.barchart.com/) and [TradingView](https://www.tradingview.com/) are two well known services that offer a good selection of tools to choose from without having to login. Both offer free accounts to remove annoying popups. Enter a ticker, set a duration and drag the chart to a starting point to see the percentage change over time. If the ticker is available on [FinViz](https://finviz.com/), the breakdown of a fund is nicely displayed. Comparing multiple tickers on [BarChart](https://www.barchart.com/my/compare-stocks) and [Yahoo](https://finance.yahoo.com/compare/) is very easy.  
 ## More Calculators and Budgeting Tools
 These tools will primarily consist of calculators to help figure out anything that is not covered above. There may also be some software for managing money mentioned within the wiki.
 
