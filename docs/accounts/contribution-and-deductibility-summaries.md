@@ -126,4 +126,4 @@ Please provide the table in markdown.
 
 <sup>1</sup>The IRA Phase-Out Formula calculates the allowed deduction or contribution for traditional and Roth IRAs affected by MAGI limits:
 
-**Reduced Contribution = Max Contribution × [1 − (MAGI−Phase-Out Start)/Phase-Out Range​]**
+- **Reduced Contribution = Max Contribution × [1 − (MAGI−Phase-Out Start)/Phase-Out Range​]**
