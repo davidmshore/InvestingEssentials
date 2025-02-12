@@ -18,6 +18,7 @@ date modified: 2024-11-11 15:45
 
 ### Bond Calculators
 - [Bond calculator](https://www.fncalculator.com/financialcalculator?type=bondCalculator) (fncalculator.com)
+- [Bond Pricing Calculator Based on Current Market Price and Yield](https://dqydj.com/bond-pricing-calculator/) (dqydj.com)
 - [I-Bonds](https://eyebonds.info/ibonds/index.html) (eyebonds.info)
 	- I-bonds compound using variable rate yields, so calculations show the historic values and future values up to the next inflation yield adjustment date.
 - [Taxable equivalent yield](https://refi.com/calculator/municipal-bond-tax-equivalent-yield-calculator/) (refi.com)

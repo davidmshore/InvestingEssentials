@@ -7,7 +7,7 @@ tags:
 date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
-If you are comprehending the concepts needed to help you begin reaching your financial goals, but still not quite putting it all together in your brain, or you would like to introduce others to financial planning, check out some of the resources below along with sharing this site. If you would like to share the gist of the ideas covered so far, Humphrey Yang presents it well in this 15 minute [video](https://www.youtube.com/watch?v=myQ05BO9pYM). Most of the options below are free. However, books may offer a more systematic and thorough learning experience than what is freely available online.
+If you are comprehending the concepts to help you reach your financial goals, but still not quite putting it all together, or if you would like to introduce others to financial planning, check out some of the resources below along with sharing this site. If you would like to share the gist of the ideas covered so far, Humphrey Yang presents it well in this 15 minute [video](https://www.youtube.com/watch?v=myQ05BO9pYM). Most of the options below are free. However, books may offer a more systematic and thorough learning experience than what is freely available online.
 
 Amazon and Goodreads are probably the best ways to filter for ease of understanding and level of advice via their ratings and reviews.
 
@@ -165,6 +165,8 @@ There are a number of tools to help visually impaired readers that can aid anyon
 
 For a dedicated free mobile reading app with excellent text-to-speech, Reader by ElevenLabs is a powerful app that offers a variety of high quality AI voices to read any document or book that has been downloaded to a device in a compatible format. It is available for [Android](https://play.google.com/store/apps/details?id=io.elevenlabs.readerapp&hl=en-US) and [iOS](https://apps.apple.com/us/app/reader-by-elevenlabs/id6479373050).
 
+[Blinkist](https://www.blinkist.com/) is one of the most practical tools since it offers a broad range of AI summarized book titles in text or audio formats, but it comes at a premium.
+
 Financial topics can be dry reading. The right author and style of book can make the big difference between a book you stay interested in versus one that will primarily be used for reference. The more you build your foundational understanding, the easier listening will become without the need for things like charts and tables to visualize concepts for you, which can actually make listening to financial books more difficult for novice investors.
 ## Comprehensive Financial Resources
 - AI Chatbots
@@ -194,4 +196,6 @@ Financial web sites recommended by the authors of The Bogleheads' Guide to Inves
 ## Other
 - Those who work in K-12 education with a 403(b) plan can find guidance on the best options available at [403bwise.org](https://403bwise.org/).
 - [What Happens to Our Investments if Schwab, Fidelity or Vanguard Collapse?](https://www.youtube.com/watch?v=wz64z1YuL0A) by Rob Berger (YouTube)
+	- Investment funds operate independently to protect investors' assets in case the investment firm experiences financial difficulties.
+	- The Securities Investor Protection Corporation (SIPC) protects customers of its member firms by ensuring that they receive their securities and cash if the firm fails. This protection includes up to $500,000 in coverage, with a $250,000 limit for cash.
 - [Famous Investing Quotes](https://www.investopedia.com/financial-edge/0511/the-top-17-investing-quotes-of-all-time.aspx)

@@ -103,15 +103,17 @@ A feature of an investment vehicle that gives the following tax benefits to an i
 - See a linked [definition](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp) since the rules may change.
 	- The calculation is: **IRA balance at the end of the previous year / RMD factor**
 		- The RMD factor is found in a [table](https://smartasset.com/retirement/rmd-table) and is based on a retirees age at the end of the previous year. A [calculator](https://smartasset.com/retirement/calculate-rmd) is also available and also linked in Resources.
-	- There is a large fiscal penalty for not withdrawing an RMD.
+	- A fiscal penalty is due for not withdrawing an RMD.
 	- Since traditional retirement account withdrawals are taxed as ordinary income, it is important for investors to understand that compounded growth of a high value account may result in a large tax bill once the RMD age is reached.
 	- RMDs do not apply to Roth or HSA accounts.
 ## Security
-- A financial instrument specifically created to be traded on the secondary market—where securities are bought and sold after their initial offering to the public. Examples are equities (stocks), debt (e.g., bonds), derivatives (e.g., options), etc. 
+- A financial instrument that can be bought and sold, but not necessarily on a financial market.
+- A marketable security is financial instrument specifically created to be traded on a public exchange, e.g., the New York Stock Exchange, after its initial public offering. Examples of marketable securities include public equities (stocks), debt (e.g., bonds), derivatives (e.g., options), etc. 
+- Examples of non-marketable securities include U.S. government savings bonds and private equity shares held by owners of a private companies.
 ## Turnover
-- The amount of buying and selling of assets in fund. 100% [turnover](https://www.investopedia.com/ask/answers/021616/what-good-turnover-ratio-mutual-fund.asp) is equal to each stock in a fund being sold and replaced once a year. A fund's turnover statistic can be found in its prospectus.
+- The amount of buying and selling of assets in fund. 100% [turnover](https://www.investopedia.com/ask/answers/021616/what-good-turnover-ratio-mutual-fund.asp) means that each asset in a fund is sold and replaced once a year. A fund's turnover statistic can be found in its prospectus.
 ## Vehicle
-- An investment vehicle is an all inclusive term that includes financial instruments, products, or accounts used by investors to help them reach their intended monetary goals.
+- An investment vehicle is an umbrella term that includes financial instruments, products, or accounts used by investors to help them reach their intended monetary goals.
 ## Yield
 - The income return on an investment, expressed as a percentage of the investment's cost or its current market value. For example, a bond yield is equal to the coupon payment / face value. A stock dividend yield is equal to the dividend payment / share price.
 ## Additional Glossaries
@@ -119,4 +121,4 @@ A feature of an investment vehicle that gives the following tax benefits to an i
 	- Page 273 (PDF page 300) of [The Bogleheads' Guide to Investing](https://archive.org/details/null-1_202312/mode/2up)
 	- [Bogleheads.org online glossary](https://www.bogleheads.org/wiki/Category:Glossary), or just search [Bogleheads.org](https://www.bogleheads.org/wiki/Main_Page)
 	- [Investopedia](https://www.investopedia.com/) for terms not listed in the links above. 
-	- [Bing Copilot](https://copilot.microsoft.com/) or [Perplexity AI](https://www.perplexity.ai/) for bot answers. Confirm the knowledge cutoff date when seeking the most recent information.
+	- [Bing Copilot](https://copilot.microsoft.com/) or [Perplexity AI](https://www.perplexity.ai/) search. Confirm the knowledge cutoff date when seeking the most recent information.
