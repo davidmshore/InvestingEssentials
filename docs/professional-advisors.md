@@ -61,4 +61,4 @@ To check out an advisor's background, see:
 
 Laura Adam's of the Money Girl Podcast provides a [financial advisor assessment questionnaire](https://lauradadams.com/freebies) to help guide investors with the right questions to ask when they begin meeting with potential advisors.
 ## Estate Planning
-Passing assets onto heirs is definitely something that investors with substantial net worth should seek professional advice on. Advisors mentioned above may be well educated on making sure your desired wishes are met and you will likely also need an attorney. Estate planning is generally billed at flat rates. A trusted financial advisor or CPA should be able to assist you in finding a reputable attorney in your area.
+Passing assets onto heirs is definitely something that investors with substantial net worth should seek professional advice on. Advisors mentioned above may be well educated on helping make sure your wishes are met, and the process will also require an attorney. A trusted financial advisor or CPA should be able to assist you in finding a reputable attorney in your area. Estate planning is generally billed at flat rates.
