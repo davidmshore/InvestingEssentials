@@ -8,7 +8,7 @@ date created: 2024-11-06 16:05
 date modified: 2024-11-11 15:45
 ---
 ## Market History & Performance
-Every investor will eventually hear that *past performance is not a guarantee of future returns*. While this saying is true and should never be taken lightly regarding individual assets, it is not true of the entire stock market over the course of history. Only the God of Israel [knows the future](https://israelmyglory.org/article/modern-israel-in-biblical-prophecy/), but historic stock market performance can be interpreted as relatively reliable and should remove fears about losing everything, or receiving a poor return on investment in the long run.
+Every investor will eventually hear that *past performance is not a guarantee of future returns*. While this saying is true and should never be taken lightly regarding individual assets, it is not true of the entire stock market over the course of history. Only the God of Israel [knows the future](https://israelmyglory.org/article/modern-israel-in-biblical-prophecy/), but historic stock market performance can be interpreted as a relatively reliable indicator of the future and should remove fears about losing everything, or receiving a poor return on investment in the long run.
 
 Investment into reputable markets has been shown to be among the safest and most effective ways to build long-term monetary growth when basic diversification rules are followed. How to invest into the market will be covered later, but it is important to understand that it involves owning a fraction of one or more businesses that have offered to allow investors to earn some of the company profits. Companies offer partial ownership by issuing stock shares that can be purchased on a stock market exchange.
 
