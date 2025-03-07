@@ -122,7 +122,7 @@ Every asset is an opportunity for wise investing.
     - In her podcast, Laura Adams' presents quick snippets of general financial advice in an easy to follow way with a good amount of energy to help keep listeners engaged. Adams is also a book and free newsletter author, helping entrepreneurs and everyday people make wise financial decisions.
     - [Free downloads](https://lauradadams.com/freebies) - A net worth calculator/tracker (personal financial statement), HSA quick guide, financial advisor assessment guide, legacy records checklist and more can be found here.
 - [Rob Berger](https://robberger.com/)
-	- A retired securities lawyer turned financial book, blog, and newsletter author who also publishes YouTube [**videos**](https://www.youtube.com/@rob_berger), where he focuses on retirement planning and often demonstrates using the various financial planning tools recommended on his blog.
+	- A retired securities lawyer turned financial book, blog, and newsletter author. Rob also publishes YouTube [**videos**](https://www.youtube.com/@rob_berger), where he focuses on retirement planning and often demonstrates using the various financial planning tools recommended in his blog.
 - [Clark Howard](https://clark.com/) (The Clark Howard Show)
 	- Clark Howard is a bona fide public financial servant. Clark.com is a great resource for practical tips, topical guides, and reviews on banks, credit services, phone plans, investing institutions and insurance companies. Howard is also a book and free newsletter author whose goal is to help everyday people make wise financial decisions.
 - See also [Blogs](#blogs)<!-- #internal_anchor_link --> and [Podcasts](#podcasts)<!-- #internal_anchor_link -->.
@@ -132,9 +132,11 @@ While most of the resources listed on this page are free and sufficient for the 
 - [Barrons](https://www.barrons.com/)
 ## Podcasts
 - [Clark Howard](https://clark.com/podcasts/)
-	- The podcast covers everything affecting your wallet, including questions from listeners. Once a week an episode focuses on investment topics with a guest fiduciary advisor.
+	- Covering everything affecting your wallet including questions from listeners. Once a week an episode focuses on investment topics with a guest fiduciary advisor.
 - [Money Girl Podcast](https://lauradadams.com/podcast)
 	- An excellent podcasts for new investors to help ingrain basic concepts to memory is also one of the few to publish concise episodes making it easy to search for topics. The short episode lengths are ideal for busy schedules. Adams makes sure to repeat the fundamentals often to keep investors on track and update listeners with upcoming rule changes. 
+- [Money For the Rest of Us](https://moneyfortherestofus.com/episodes/)
+	- A well rounded finance and economics podcast hosted by a former financial analyst, David Stein.
 - [r/financialindependence -> Wiki -> Books](https://www.reddit.com/r/financialindependence/wiki/books/) -> Podcasts
 - [YourMoneyOrYourLife.com -> Resources/](https://yourmoneyoryourlife.com/resources/) -> Podcasts
 - [More](https://www.reddit.com/r/Bogleheads/comments/1bt77a8/money_podcasts/)

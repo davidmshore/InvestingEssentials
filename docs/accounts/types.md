@@ -149,6 +149,7 @@ Include their primary use, contribution limits for the current year, key feature
 
 #### Social Security
 
+- Social security has its own tax rates on withholdings and benefits. Withholdings are taxed from gross earnings.
 - Assuming it will still a viable system in the future and functioning similar to its current payout scheme, it is important to understand [how the system works](https://www.bogleheads.org/wiki/Social_Security). In some states, government employees may not be eligible for social security withholdings, and it will be important to understand the alternative options offered by your state.
 - Social Security offers more income for waiting longer to begin receiving payouts, but this does not always mean a better [return on investment](https://www.gocurrycracker.com/social-security-roi/) which is why some may want to take social security as [early as possible](https://www.gocurrycracker.com/why-i-plan-to-collect-social-security-as-early-as-possible/) especially if unavoidable retirement income may cause social security income to be [taxed](https://www.gocurrycracker.com/social-security-tax-torpedo/) again later. 
 <!--

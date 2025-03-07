@@ -108,7 +108,7 @@ A feature of an investment vehicle that gives the following tax benefits to an i
 	- RMDs do not apply to Roth or HSA accounts.
 ## Security
 - A financial instrument that can be bought and sold, but not necessarily on a financial market.
-- A marketable security is financial instrument specifically created to be traded on a public exchange, e.g., the New York Stock Exchange, after its initial public offering. Examples of marketable securities include public equities (stocks), debt (e.g., bonds), derivatives (e.g., options), etc. 
+- A marketable security is financial instrument specifically created to be traded on a public exchange, e.g., the New York Stock Exchange, after its initial public offering (primary market offering). Examples of marketable securities include public equities (stocks), debt (e.g., bonds), derivatives (e.g., options), etc. 
 - Examples of non-marketable securities include U.S. government savings bonds and private equity shares held by owners of a private companies.
 ## Turnover
 - The amount of buying and selling of assets in fund. 100% [turnover](https://www.investopedia.com/ask/answers/021616/what-good-turnover-ratio-mutual-fund.asp) means that each asset in a fund is sold and replaced once a year. A fund's turnover statistic can be found in its prospectus.
