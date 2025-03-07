@@ -1,1 +1,1 @@
-# investing-essentials
+# InvestingEssentials
