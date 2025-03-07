@@ -1,7 +1,7 @@
 site_name: Investing Essentials
-site_description: A primer for the novice investor plus tools, reference materials and educational resources for financial planning.
+site_description: A primer on investing, plus tools, reference materials and educational resources for financial planning.
 site_author: David Shore
-site_url: https://investing-essentials.readthedocs.io
+site_url: https://investingessentials.readthedocs.io
 #site_url: http://0.0.0.0:8000/
 theme:
   name: material
